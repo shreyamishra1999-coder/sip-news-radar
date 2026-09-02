@@ -1,0 +1,466 @@
+#!/bin/bash
+
+# 1. Update index.html
+cat << 'EOF' > index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Industry & Business Intelligence Radar</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="app-container">
+    <header class="main-header">
+      <div class="header-content">
+        <h1>Industry & Business Intelligence Radar</h1>
+        <p class="subtitle">MBA GD & Interview Intelligence Center • Macro, Industry Signals & Corporate Strategy</p>
+      </div>
+      <div class="header-actions">
+        <button id="refreshBtn" class="btn primary-btn">Fetch Updates</button>
+        <button id="configToggleBtn" class="btn secondary-btn">Radar Config</button>
+      </div>
+    </header>
+
+    <section id="configDrawer" class="config-drawer hidden">
+      <div class="config-container">
+        <h2>Radar Configuration & Setup</h2>
+        <div class="config-section">
+          <h3>Preparation Brief</h3>
+          <textarea id="prepBriefInput" rows="6"></textarea>
+        </div>
+        <div class="config-section">
+          <h3>Ranking & Decision Signal Keywords</h3>
+          <textarea id="rankingKeywordsInput" rows="8"></textarea>
+        </div>
+        <div class="config-section">
+          <h3>Negative / Exclusion Keywords</h3>
+          <textarea id="exclusionKeywordsInput" rows="3"></textarea>
+        </div>
+        <div class="config-section">
+          <h3>RSS News Sources (Name | RSS Feed URL | Priority 1-3)</h3>
+          <textarea id="sourcesInput" rows="12"></textarea>
+        </div>
+        <div class="config-actions">
+          <button id="saveConfigBtn" class="btn primary-btn">Save Configuration</button>
+          <button id="resetConfigBtn" class="btn text-btn">Reset to Defaults</button>
+        </div>
+      </div>
+    </section>
+
+    <main class="dashboard">
+      <nav class="radar-tabs">
+        <button class="tab-btn active" data-tab="current-affairs">Macro & Current Affairs</button>
+        <button class="tab-btn" data-tab="agriculture">Agriculture & Allied</button>
+        <button class="tab-btn" data-tab="fmcg">FMCG & Consumer</button>
+        <button class="tab-btn" data-tab="biotech">Biotech & Life Sciences</button>
+        <button class="tab-btn" data-tab="operations">Operations & Supply Chain</button>
+        <button class="tab-btn" data-tab="strategy">Strategy, Product & Commercial</button>
+        <button class="tab-btn" data-tab="global">Global Trade & Geopolitics</button>
+      </nav>
+
+      <div class="pivot-bar">
+        <span class="pivot-label">Business Focus Pivot:</span>
+        <button class="pivot-btn active" data-pivot="all">All Pivots</button>
+        <button class="pivot-btn" data-pivot="consulting">1) Consulting & Advisory</button>
+        <button class="pivot-btn" data-pivot="operations">2) Operations & Supply Chain</button>
+        <button class="pivot-btn" data-pivot="product">3) Product Management</button>
+        <button class="pivot-btn" data-pivot="commercial">4) Commercial & Marketing</button>
+        <button class="pivot-btn" data-pivot="top10">⭐ Top 10 Players</button>
+        <button class="pivot-btn" data-pivot="exports">🌐 Exports & Trade</button>
+      </div>
+
+      <div id="statusMessage" class="status-message">Ready. Click "Fetch Updates" to load fresh industry signals.</div>
+      <div id="articlesContainer" class="articles-grid"></div>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
+EOF
+
+# 2. Update styles.css
+cat << 'EOF' > styles.css
+:root {
+  --primary-color: #0f172a;
+  --accent-color: #2563eb;
+  --bg-color: #f8fafc;
+  --card-bg: #ffffff;
+  --border-color: #e2e8f0;
+  --text-main: #1e293b;
+  --text-muted: #64748b;
+  --tag-bg: #eff6ff;
+  --tag-text: #1d4ed8;
+  --top-player-bg: #fef3c7;
+  --top-player-text: #92400e;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Inter', sans-serif; background-color: var(--bg-color); color: var(--text-main); line-height: 1.5; }
+.app-container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+.main-header { display: flex; justify-content: space-between; align-items: center; padding-bottom: 20px; border-bottom: 1px solid var(--border-color); margin-bottom: 20px; }
+.main-header h1 { font-size: 1.6rem; color: var(--primary-color); }
+.subtitle { font-size: 0.9rem; color: var(--text-muted); }
+.btn { padding: 8px 16px; border-radius: 6px; font-weight: 500; cursor: pointer; border: 1px solid transparent; transition: all 0.2s ease; }
+.primary-btn { background-color: var(--accent-color); color: #fff; }
+.primary-btn:hover { background-color: #1d4ed8; }
+.secondary-btn { background-color: #fff; border-color: var(--border-color); color: var(--text-main); }
+.text-btn { background: none; color: var(--text-muted); }
+.config-drawer { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 8px; padding: 20px; margin-bottom: 20px; }
+.config-drawer.hidden { display: none; }
+.config-section { margin-bottom: 15px; }
+.config-section h3 { font-size: 1rem; margin-bottom: 6px; }
+textarea { width: 100%; padding: 10px; border: 1px solid var(--border-color); border-radius: 6px; font-family: monospace; font-size: 0.85rem; }
+.radar-tabs { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 10px; border-bottom: 2px solid var(--border-color); margin-bottom: 15px; }
+.tab-btn { padding: 10px 16px; background: none; border: none; font-weight: 600; color: var(--text-muted); cursor: pointer; border-bottom: 3px solid transparent; white-space: nowrap; }
+.tab-btn.active { color: var(--accent-color); border-bottom-color: var(--accent-color); }
+.pivot-bar { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; background: #f1f5f9; padding: 10px; border-radius: 6px; }
+.pivot-label { font-size: 0.85rem; font-weight: 600; color: var(--text-muted); margin-right: 5px; }
+.pivot-btn { padding: 5px 12px; border-radius: 20px; border: 1px solid var(--border-color); background: #fff; font-size: 0.8rem; cursor: pointer; }
+.pivot-btn.active { background: var(--primary-color); color: #fff; border-color: var(--primary-color); }
+.status-message { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 15px; }
+.articles-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 20px; }
+.article-card { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 8px; padding: 16px; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+.card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+.source-tag { font-size: 0.75rem; font-weight: 600; color: var(--text-muted); }
+.score-badge { font-size: 0.75rem; font-weight: 700; background: #dbeafe; color: #1e40af; padding: 2px 8px; border-radius: 12px; }
+.article-title { font-size: 1.05rem; font-weight: 600; margin-bottom: 8px; line-height: 1.35; }
+.article-title a { color: var(--primary-color); text-decoration: none; }
+.article-title a:hover { color: var(--accent-color); }
+.article-snippet { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 12px; }
+.card-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.tag { font-size: 0.7rem; padding: 2px 6px; border-radius: 4px; background: var(--tag-bg); color: var(--tag-text); font-weight: 500; }
+.tag.top-player { background: var(--top-player-bg); color: var(--top-player-text); }
+.card-footer { font-size: 0.75rem; color: var(--text-muted); display: flex; justify-content: space-between; border-top: 1px solid var(--border-color); padding-top: 8px; }
+EOF
+
+# 3. Create app.js
+cat << 'EOF' > app.js
+const DEFAULT_PREP_BRIEF = `MBA summer internship interview and GD preparation focused on India with selective global coverage. Track high-impact current affairs, macroeconomics, business and corporate developments, agriculture and allied sectors, food processing, agri-inputs, agri-tech, commodities, rural economy, FMCG and consumer markets, biotechnology, pharmaceuticals and life sciences, consulting and advisory, operations, manufacturing, procurement, logistics and supply chain, product management, commercial strategy, sales, distribution, pricing, branding and marketing.
+
+Prioritize developments that affect business strategy, revenue, volume, pricing, costs, margins, demand, market share, supply chains, exports/imports, regulations, investment, innovation, sustainability and competitive dynamics. Include India-specific policy, schemes, regulation, trade policy, monetary and fiscal developments, rural demand, agriculture production and commodity trends. Surface important company-level developments, quarterly results, management commentary, M&A, partnerships, product launches, capacity expansion, capex, market entry, distribution changes, pricing actions, consumer trends, regulatory approvals and industry reports. Exclude low-value generic career advice, motivational content, routine campus news and unrelated job postings unless directly relevant to MBA summer internship recruitment.`;
+
+const DEFAULT_RANKING_KEYWORDS = `India economy, Indian business, macroeconomics, GDP, inflation, CPI, WPI, interest rates, RBI, monetary policy, fiscal policy, Union Budget, Economic Survey, government policy, regulation, reforms, industrial policy, PLI, trade policy, exports, imports, foreign trade, FTA, tariffs, customs duty, WTO, geopolitical risk, crude oil, energy prices, commodity prices, currency, rupee, supply shock, demand outlook, consumption, rural demand, urban demand, capex, investment, private consumption, manufacturing, Make in India,
+
+agriculture, agribusiness, agri business, agriculture India, Indian agriculture, farm sector, rural economy, rural India, crop production, crop yield, kharif, rabi, monsoon, IMD, MSP, procurement, mandi, APMC, eNAM, FPO, farmer producer organisation, farm income, agricultural credit, NABARD, agri finance, crop insurance, PMFBY, irrigation, agricultural mechanisation, farm machinery, precision agriculture, digital agriculture, agri-tech, agritech startup, farm technology, agri inputs, seeds, fertilizer, fertiliser, pesticide, agrochemicals, biologicals, biostimulants, crop protection, soil health, horticulture, fruits, vegetables, floriculture, plantation crops, spices, tea, coffee, rubber, cotton, sugar, sugarcane, cereals, rice, wheat, maize, millets, pulses, oilseeds, edible oil, soybean, mustard, groundnut, palm oil,
+
+dairy, milk, livestock, animal husbandry, poultry, fisheries, aquaculture, seafood, shrimp, meat processing, cold chain, food processing, food industry, processed foods, food safety, FSSAI, food exports, agricultural exports, agri exports, APEDA, DGFT, commodity exports, basmati exports, rice exports, wheat exports, sugar exports, spice exports, tea exports, coffee exports, marine exports, export competitiveness, SPS measures, MRL, traceability, export standards, global food trade, global agriculture, FAO, USDA,
+
+FMCG, consumer goods, consumer products, CPG, packaged foods, beverages, personal care, home care, beauty, household products, FMCG India, Indian FMCG, consumer demand, rural FMCG, urban FMCG, premiumisation, premiumization, downtrading, consumption trends, consumer behaviour, consumer behavior, category growth, market share, brand share, volume growth, value growth, pricing, price increase, grammage, shrinkflation, distribution, general trade, traditional trade, modern trade, ecommerce, e-commerce, quick commerce, q-commerce, D2C, direct to consumer, retail, omnichannel, channel mix, retail penetration, household penetration, NielsenIQ, Kantar, consumer sentiment,
+
+HUL, Hindustan Unilever, ITC, Nestle India, Britannia, Dabur, Marico, Godrej Consumer, GCPL, Tata Consumer, Colgate Palmolive India, Emami, Varun Beverages, PepsiCo India, Coca-Cola India, Mondelez India, P&G India, Reckitt India,
+
+biotechnology, biotech, bioeconomy, Indian biotech, life sciences, biopharma, pharmaceutical industry, pharma India, Indian pharma, APIs, active pharmaceutical ingredients, generics, biosimilars, biologics, vaccines, diagnostics, medtech, medical devices, genomics, cell therapy, gene therapy, synthetic biology, fermentation, industrial biotechnology, biomanufacturing, biofoundry, precision fermentation, CRISPR, drug discovery, clinical trials, drug development, FDA, USFDA, CDSCO, regulatory approval, patent, drug pricing, biosimilar regulation, pharma exports, API exports, CDMO, CRO, CRDMO, contract manufacturing, pharmaceutical manufacturing, pharma supply chain, BIRAC, DBT, BioE3,
+
+Sun Pharma, Dr Reddy's, Cipla, Lupin, Biocon, Syngene, Divi's Laboratories, Aurobindo Pharma, Zydus, Torrent Pharma, Laurus Labs, Gland Pharma,
+
+consulting, management consulting, strategy consulting, advisory, business transformation, operating model, cost transformation, growth strategy, market entry, due diligence, commercial due diligence, market sizing, competitive strategy, corporate strategy, digital transformation, sustainability consulting, ESG strategy,
+
+operations, operational efficiency, process improvement, productivity, lean, Six Sigma, manufacturing efficiency, capacity utilisation, capacity utilization, plant operations, quality management, procurement, strategic sourcing, sourcing, vendor management, inventory, inventory management, working capital, logistics, warehousing, transportation, distribution network, network design, supply chain, supply chain management, supply chain resilience, supply chain disruption, demand planning, demand forecasting, S&OP, sales and operations planning, IBP, integrated business planning, last mile, cold chain logistics, shipping, freight rates, container rates, ports,
+
+product management, product strategy, product launch, new product development, NPD, innovation, product portfolio, portfolio strategy, product lifecycle, consumer insight, customer insight, product-market fit, value proposition, go-to-market, GTM, commercialization, commercialisation,
+
+commercial strategy, sales strategy, route to market, RTM, distribution strategy, channel strategy, dealer network, distributor network, trade marketing, revenue growth management, RGM, pricing strategy, price elasticity, promotion strategy, sales effectiveness, key account management, market development, market expansion, customer acquisition, brand strategy, branding, marketing strategy, digital marketing, performance marketing, advertising, media strategy, consumer insights, segmentation, positioning,
+
+quarterly results, earnings, management commentary, investor presentation, annual report, revenue growth, volume growth, EBITDA, gross margin, operating margin, market share, capex, capacity expansion, acquisition, merger, M&A, partnership, joint venture, funding, IPO, product launch, restructuring, layoffs, competitive landscape, industry outlook, market outlook`;
+
+const DEFAULT_EXCLUSION_KEYWORDS = `celebrity, sports, entertainment, crime, astrology, horoscope, viral, movie, film review, gaming, smartphone launch, gadget review, coupon, discount, exam result, admit card, school admission, generic career advice, resume tips, interview tips, motivational, campus fest, scholarship, unrelated job vacancy`;
+
+const DECISION_SIGNALS = [
+  "margin pressure", "gross margin", "ebitda", "operating margin", "volume growth", "value growth",
+  "market share", "pricing action", "demand recovery", "demand slowdown", "capacity expansion", "capex",
+  "utilization", "inventory", "working capital", "input costs", "raw material prices", "procurement",
+  "distribution expansion", "channel mix", "market entry", "product launch", "acquisition", "divestment",
+  "restructuring", "regulatory approval", "export ban", "import duty", "anti-dumping duty", "pli",
+  "supply disruption", "management commentary", "investor presentation"
+];
+
+const TOP_10_PLAYERS = {
+  fmcg: ["hul", "hindustan unilever", "itc", "nestle", "britannia", "dabur", "marico", "godrej consumer", "gcpl", "tata consumer", "colgate", "varun beverages"],
+  biotech: ["sun pharma", "dr reddy", "cipla", "lupin", "biocon", "syngene", "divi", "aurobindo", "zydus", "torrent pharma", "laurus labs", "gland pharma"],
+  agriculture: ["upl", "coromandel", "pib", "nabard", "apeda", "kaveri seeds", "pi industries", "bayers", "syngenta", "godrej agrovet"]
+};
+
+const DEFAULT_SOURCES = `India Business & Economy | https://news.google.com/rss/search?q=India+economy+OR+Indian+business+OR+GDP+OR+inflation+OR+RBI+OR+monetary+policy+OR+fiscal+policy+OR+consumption+OR+capex+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+India Policy & Regulation | https://news.google.com/rss/search?q=India+policy+OR+regulation+OR+reform+OR+PLI+OR+trade+policy+OR+government+scheme+OR+cabinet+approval+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+India Corporate Strategy | https://news.google.com/rss/search?q=India+company+earnings+OR+quarterly+results+OR+capex+OR+acquisition+OR+merger+OR+market+share+OR+product+launch+OR+expansion+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 2
+PIB Government Releases | https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1 | 3
+RBI Updates | https://www.rbi.org.in/Scripts/rss.aspx | 3
+India Agriculture | https://news.google.com/rss/search?q=India+agriculture+OR+agribusiness+OR+farm+sector+OR+crop+production+OR+MSP+OR+monsoon+OR+farm+income+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Agri Inputs | https://news.google.com/rss/search?q=India+fertilizer+OR+seeds+OR+agrochemicals+OR+pesticides+OR+biostimulants+OR+crop+protection+OR+agri+inputs+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+AgriTech & Farm Innovation | https://news.google.com/rss/search?q=India+agritech+OR+agri-tech+OR+digital+agriculture+OR+precision+agriculture+OR+farm+technology+OR+FPO+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Dairy Livestock Poultry | https://news.google.com/rss/search?q=India+dairy+OR+milk+OR+livestock+OR+animal+husbandry+OR+poultry+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Fisheries & Aquaculture | https://news.google.com/rss/search?q=India+fisheries+OR+aquaculture+OR+shrimp+OR+seafood+exports+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Food Processing | https://news.google.com/rss/search?q=India+food+processing+OR+processed+food+OR+cold+chain+OR+food+manufacturing+OR+FSSAI+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Agri Commodity Markets | https://news.google.com/rss/search?q=India+rice+OR+wheat+OR+sugar+OR+pulses+OR+oilseeds+OR+edible+oil+OR+cotton+OR+maize+prices+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Rural Economy | https://news.google.com/rss/search?q=India+rural+demand+OR+rural+economy+OR+farm+income+OR+rural+consumption+OR+agricultural+credit+OR+NABARD+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+India Agricultural Exports | https://news.google.com/rss/search?q=India+agri+exports+OR+agricultural+exports+OR+APEDA+OR+food+exports+OR+rice+exports+OR+spice+exports+OR+tea+exports+OR+coffee+exports+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 3
+India Food Trade & Regulations | https://news.google.com/rss/search?q=India+food+exports+OR+SPS+OR+MRL+OR+traceability+OR+export+standards+OR+food+safety+exports+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Global Agriculture | https://news.google.com/rss/search?q=global+agriculture+OR+food+prices+OR+crop+production+OR+grain+market+OR+FAO+OR+USDA+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Global Commodity Markets | https://news.google.com/rss/search?q=global+commodity+prices+OR+wheat+prices+OR+rice+prices+OR+sugar+prices+OR+palm+oil+OR+soybean+OR+fertilizer+prices+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+India Export Competitiveness | https://news.google.com/rss/search?q=India+exports+OR+export+competitiveness+OR+DGFT+OR+FTA+OR+tariff+OR+WTO+OR+trade+agreement+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+India FMCG | https://news.google.com/rss/search?q=India+FMCG+OR+consumer+goods+OR+consumer+products+OR+CPG+OR+packaged+foods+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+FMCG Demand & Consumption | https://news.google.com/rss/search?q=India+FMCG+rural+demand+OR+urban+demand+OR+volume+growth+OR+consumer+demand+OR+premiumisation+OR+downtrading+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Retail & Channels | https://news.google.com/rss/search?q=India+retail+OR+general+trade+OR+modern+trade+OR+ecommerce+OR+quick+commerce+OR+q-commerce+OR+D2C+OR+omnichannel+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+FMCG Pricing & Margins | https://news.google.com/rss/search?q=FMCG+India+pricing+OR+gross+margin+OR+input+costs+OR+commodity+costs+OR+price+hike+OR+grammage+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Consumer Insights | https://news.google.com/rss/search?q=India+consumer+behaviour+OR+consumer+behavior+OR+NielsenIQ+OR+Kantar+OR+consumer+sentiment+OR+household+consumption+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Major FMCG Companies | https://news.google.com/rss/search?q=HUL+OR+ITC+OR+Nestle+India+OR+Britannia+OR+Dabur+OR+Marico+OR+Godrej+Consumer+OR+Tata+Consumer+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+India Biotechnology | https://news.google.com/rss/search?q=India+biotechnology+OR+Indian+biotech+OR+bioeconomy+OR+BIRAC+OR+DBT+OR+BioE3+OR+biomanufacturing+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 3
+India Pharma | https://news.google.com/rss/search?q=India+pharma+OR+Indian+pharmaceutical+industry+OR+generics+OR+API+OR+pharmaceutical+manufacturing+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Biopharma & Biosimilars | https://news.google.com/rss/search?q=India+biopharma+OR+biologics+OR+biosimilars+OR+vaccines+OR+biomanufacturing+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 3
+CDMO CRO CRDMO | https://news.google.com/rss/search?q=India+CDMO+OR+CRO+OR+CRDMO+OR+contract+manufacturing+OR+contract+research+pharma+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Pharma Exports & Regulation | https://news.google.com/rss/search?q=India+pharma+exports+OR+API+exports+OR+USFDA+India+OR+CDSCO+OR+drug+approval+OR+pharma+regulation+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Emerging Biotech | https://news.google.com/rss/search?q=CRISPR+OR+gene+therapy+OR+cell+therapy+OR+synthetic+biology+OR+precision+fermentation+OR+genomics+biotech+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Major Indian Pharma Companies | https://news.google.com/rss/search?q=Sun+Pharma+OR+Dr+Reddy's+OR+Cipla+OR+Lupin+OR+Biocon+OR+Syngene+OR+Divi's+OR+Zydus+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+India Supply Chain | https://news.google.com/rss/search?q=India+supply+chain+OR+logistics+OR+warehousing+OR+procurement+OR+inventory+OR+distribution+network+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Manufacturing & Operations | https://news.google.com/rss/search?q=India+manufacturing+OR+operational+efficiency+OR+factory+OR+capacity+utilisation+OR+plant+operations+OR+productivity+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Global Supply Chain | https://news.google.com/rss/search?q=global+supply+chain+OR+supply+chain+disruption+OR+shipping+OR+freight+rates+OR+container+rates+OR+Red+Sea+OR+ports+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Procurement & Input Costs | https://news.google.com/rss/search?q=procurement+OR+strategic+sourcing+OR+raw+material+prices+OR+input+costs+OR+supplier+risk+India+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Strategy & Consulting | https://news.google.com/rss/search?q=India+strategy+consulting+OR+management+consulting+OR+business+transformation+OR+growth+strategy+OR+market+entry+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Corporate Strategy | https://news.google.com/rss/search?q=India+corporate+strategy+OR+market+entry+OR+portfolio+strategy+OR+restructuring+OR+cost+transformation+OR+M%26A+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Consulting Insights | https://news.google.com/rss/search?q=McKinsey+India+OR+BCG+India+OR+Bain+India+OR+Deloitte+India+OR+EY+India+OR+PwC+India+OR+KPMG+India+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Product Strategy | https://news.google.com/rss/search?q=India+product+strategy+OR+product+launch+OR+new+product+development+OR+innovation+OR+product+portfolio+OR+go-to-market+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Commercial Strategy | https://news.google.com/rss/search?q=India+commercial+strategy+OR+sales+strategy+OR+distribution+strategy+OR+route+to+market+OR+revenue+growth+management+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Pricing | https://news.google.com/rss/search?q=India+pricing+strategy+OR+price+hike+OR+price+elasticity+OR+revenue+growth+management+OR+RGM+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Marketing & Brands | https://news.google.com/rss/search?q=India+marketing+strategy+OR+brand+strategy+OR+advertising+OR+consumer+insights+OR+market+segmentation+OR+positioning+when:14d&hl=en-IN&gl=IN&ceid=IN:en | 2
+Global Business | https://news.google.com/rss/search?q=global+business+OR+global+economy+OR+corporate+earnings+OR+international+trade+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 2
+India Global Trade | https://news.google.com/rss/search?q=India+trade+OR+India+exports+OR+India+imports+OR+FTA+OR+WTO+OR+tariff+OR+trade+agreement+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Geopolitics & Business | https://news.google.com/rss/search?q=geopolitics+trade+OR+sanctions+OR+tariffs+OR+Red+Sea+OR+shipping+OR+China+trade+OR+US+trade+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+Commodities & Energy | https://news.google.com/rss/search?q=crude+oil+OR+natural+gas+OR+commodity+prices+OR+fertilizer+prices+OR+food+prices+OR+freight+rates+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 3
+China Business Impact | https://news.google.com/rss/search?q=China+economy+OR+China+manufacturing+OR+China+exports+OR+China+chemicals+OR+China+pharma+OR+China+commodities+when:7d&hl=en-IN&gl=IN&ceid=IN:en | 2`;
+
+let allArticles = [];
+let activeTab = 'current-affairs';
+let activePivot = 'all';
+
+document.addEventListener('DOMContentLoaded', () => {
+  loadConfigUI();
+  setupEventListeners();
+});
+
+function loadConfigUI() {
+  document.getElementById('prepBriefInput').value = localStorage.getItem('prepBrief') || DEFAULT_PREP_BRIEF;
+  document.getElementById('rankingKeywordsInput').value = localStorage.getItem('rankingKeywords') || DEFAULT_RANKING_KEYWORDS;
+  document.getElementById('exclusionKeywordsInput').value = localStorage.getItem('exclusionKeywords') || DEFAULT_EXCLUSION_KEYWORDS;
+  document.getElementById('sourcesInput').value = localStorage.getItem('sources') || DEFAULT_SOURCES;
+}
+
+function setupEventListeners() {
+  document.getElementById('configToggleBtn').addEventListener('click', () => {
+    document.getElementById('configDrawer').classList.toggle('hidden');
+  });
+
+  document.getElementById('saveConfigBtn').addEventListener('click', () => {
+    localStorage.setItem('prepBrief', document.getElementById('prepBriefInput').value);
+    localStorage.setItem('rankingKeywords', document.getElementById('rankingKeywordsInput').value);
+    localStorage.setItem('exclusionKeywords', document.getElementById('exclusionKeywordsInput').value);
+    localStorage.setItem('sources', document.getElementById('sourcesInput').value);
+    document.getElementById('configDrawer').classList.add('hidden');
+    document.getElementById('statusMessage').textContent = "Configuration saved. Click 'Fetch Updates' to reload.";
+  });
+
+  document.getElementById('resetConfigBtn').addEventListener('click', () => {
+    if (confirm("Reset configuration to default industry radar setup?")) {
+      localStorage.clear();
+      loadConfigUI();
+    }
+  });
+
+  document.getElementById('refreshBtn').addEventListener('click', fetchAllFeeds);
+
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      e.target.classList.add('active');
+      activeTab = e.target.getAttribute('data-tab');
+      renderArticles();
+    });
+  });
+
+  document.querySelectorAll('.pivot-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      document.querySelectorAll('.pivot-btn').forEach(b => b.classList.remove('active'));
+      e.target.classList.add('active');
+      activePivot = e.target.getAttribute('data-pivot');
+      renderArticles();
+    });
+  });
+}
+
+async function fetchAllFeeds() {
+  const statusMsg = document.getElementById('statusMessage');
+  statusMsg.textContent = "Fetching news signals from configured RSS feeds...";
+  
+  const sourcesText = document.getElementById('sourcesInput').value.trim();
+  const sourceLines = sourcesText.split('\n').filter(line => line.trim() !== '');
+  
+  const parsedSources = sourceLines.map(line => {
+    const parts = line.split('|').map(p => p.trim());
+    return { name: parts[0], url: parts[1], priority: parseInt(parts[2] || "1") };
+  });
+
+  allArticles = [];
+  let completed = 0;
+
+  for (const src of parsedSources) {
+    try {
+      const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(src.url)}`;
+      const res = await fetch(apiUrl);
+      const data = await res.json();
+
+      if (data.status === 'ok' && data.items) {
+        data.items.forEach(item => {
+          const processed = processArticle(item, src);
+          if (processed) {
+            allArticles.push(processed);
+          }
+        });
+      }
+    } catch (err) {
+      console.warn(`Failed to fetch source: ${src.name}`, err);
+    }
+    completed++;
+    statusMsg.textContent = `Fetching feeds (${completed}/${parsedSources.length})...`;
+  }
+
+  statusMsg.textContent = `Fetched ${allArticles.length} industry updates. Ranked by relevance and decision signals.`;
+  renderArticles();
+}
+
+function processArticle(item, source) {
+  const title = item.title || "";
+  const snippet = item.description ? item.description.replace(/<[^>]*>?/gm, '') : "";
+  const fullText = (title + " " + snippet).toLowerCase();
+
+  const exclusions = document.getElementById('exclusionKeywordsInput').value
+    .toLowerCase().split(',').map(s => s.trim()).filter(s => s);
+  for (const ex of exclusions) {
+    if (fullText.includes(ex)) return null;
+  }
+
+  let score = source.priority * 10;
+
+  const keywords = document.getElementById('rankingKeywordsInput').value
+    .toLowerCase().split(',').map(s => s.trim()).filter(s => s);
+  
+  let matchedKeywords = [];
+  keywords.forEach(kw => {
+    if (fullText.includes(kw)) {
+      score += 3;
+      if (matchedKeywords.length < 5 && !matchedKeywords.includes(kw)) {
+        matchedKeywords.push(kw);
+      }
+    }
+  });
+
+  let matchedSignals = [];
+  DECISION_SIGNALS.forEach(sig => {
+    if (fullText.includes(sig)) {
+      score += 8;
+      matchedSignals.push(sig);
+    }
+  });
+
+  let isTopPlayer = false;
+  Object.values(TOP_10_PLAYERS).flat().forEach(player => {
+    if (fullText.includes(player)) {
+      score += 12;
+      isTopPlayer = true;
+    }
+  });
+
+  const tabCategory = assignTabCategory(fullText, source.name);
+  const pivots = assignPivots(fullText, isTopPlayer);
+
+  return {
+    title: item.title,
+    link: item.link,
+    pubDate: new Date(item.pubDate).toLocaleDateString(),
+    sourceName: source.name,
+    priority: source.priority,
+    snippet: snippet.substring(0, 160) + "...",
+    score,
+    tabCategory,
+    pivots,
+    matchedKeywords,
+    matchedSignals,
+    isTopPlayer
+  };
+}
+
+function assignTabCategory(text, sourceName) {
+  const nameLower = sourceName.toLowerCase();
+  if (nameLower.includes("agri") || text.includes("crop") || text.includes("farm") || text.includes("mandi") || text.includes("fertilizer")) return "agriculture";
+  if (nameLower.includes("fmcg") || text.includes("consumer") || text.includes("hul") || text.includes("itc") || text.includes("retail")) return "fmcg";
+  if (nameLower.includes("pharma") || nameLower.includes("biotech") || text.includes("drug") || text.includes("clinical") || text.includes("api")) return "biotech";
+  if (nameLower.includes("supply") || text.includes("logistics") || text.includes("warehousing") || text.includes("freight")) return "operations";
+  if (nameLower.includes("strategy") || text.includes("consulting") || text.includes("market entry") || text.includes("product strategy")) return "strategy";
+  if (nameLower.includes("global") || text.includes("exports") || text.includes("imports") || text.includes("geopolitics")) return "global";
+  return "current-affairs";
+}
+
+function assignPivots(text, isTopPlayer) {
+  let pivots = [];
+  if (text.includes("consulting") || text.includes("advisory") || text.includes("transformation") || text.includes("strategy")) pivots.push("consulting");
+  if (text.includes("supply chain") || text.includes("operations") || text.includes("logistics") || text.includes("procurement")) pivots.push("operations");
+  if (text.includes("product management") || text.includes("product strategy") || text.includes("product launch") || text.includes("npd")) pivots.push("product");
+  if (text.includes("commercial") || text.includes("marketing") || text.includes("pricing") || text.includes("sales") || text.includes("brand")) pivots.push("commercial");
+  if (text.includes("export") || text.includes("import") || text.includes("trade") || text.includes("wto") || text.includes("foreign")) pivots.push("exports");
+  if (isTopPlayer) pivots.push("top10");
+  return pivots;
+}
+
+function renderArticles() {
+  const container = document.getElementById('articlesContainer');
+  container.innerHTML = '';
+
+  let filtered = allArticles.filter(art => art.tabCategory === activeTab);
+
+  if (activePivot !== 'all') {
+    filtered = filtered.filter(art => art.pivots.includes(activePivot));
+  }
+
+  filtered.sort((a, b) => b.score - a.score);
+
+  if (filtered.length === 0) {
+    container.innerHTML = `<p style="grid-column: 1/-1; text-align: center; color: #64748b; padding: 40px 0;">No articles match the selected Tab and Pivot filter. Try fetching updates or picking "All Pivots".</p>`;
+    return;
+  }
+
+  filtered.forEach(art => {
+    const card = document.createElement('div');
+    card.className = 'article-card';
+
+    let tagsHtml = art.matchedKeywords.slice(0, 3).map(k => `<span class="tag">${k}</span>`).join('');
+    if (art.isTopPlayer) {
+      tagsHtml += `<span class="tag top-player">Top 10 Player</span>`;
+    }
+    art.matchedSignals.slice(0, 2).forEach(sig => {
+      tagsHtml += `<span class="tag" style="background:#fef2f2; color:#991b1b;">⚡ ${sig}</span>`;
+    });
+
+    card.innerHTML = `
+      <div>
+        <div class="card-header">
+          <span class="source-tag">${art.sourceName}</span>
+          <span class="score-badge">Score: ${art.score}</span>
+        </div>
+        <h3 class="article-title"><a href="${art.link}" target="_blank" rel="noopener">${art.title}</a></h3>
+        <p class="article-snippet">${art.snippet}</p>
+        <div class="card-tags">${tagsHtml}</div>
+      </div>
+      <div class="card-footer">
+        <span>${art.pubDate}</span>
+        <span>Priority ${art.priority} Source</span>
+      </div>
+    `;
+    container.appendChild(card);
+  });
+}
+EOF
+
+# 4. Commit and push directly to GitHub
+git add index.html styles.css app.js
+git commit -m "Update website with multi-tab industry radar and decision-signal scoring"
+git push origin main
