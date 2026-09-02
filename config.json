@@ -9,6 +9,7 @@
     "scholarship",
     "campus fest",
     "resume tips",
+    "interview tips",
     "career advice",
     "motivational",
     "celebrity",
@@ -16,36 +17,51 @@
     "astrology",
     "horoscope",
     "movie review",
+    "film review",
     "gaming",
     "coupon",
-    "discount"
+    "discount",
+    "viral video",
+    "sports score"
   ],
   "business": [
     "revenue",
     "volume growth",
-    "margin",
+    "value growth",
+    "gross margin",
+    "operating margin",
     "ebitda",
     "market share",
     "pricing",
     "price hike",
+    "price increase",
     "input cost",
-    "demand",
-    "supply",
+    "raw material",
+    "demand recovery",
+    "demand slowdown",
+    "supply disruption",
     "capex",
     "capacity expansion",
+    "capacity utilisation",
     "investment",
     "acquisition",
     "merger",
+    "m&a",
     "partnership",
+    "joint venture",
+    "regulatory approval",
     "regulation",
     "policy",
     "export",
     "import",
     "tariff",
+    "anti-dumping",
     "product launch",
     "distribution",
+    "channel mix",
     "procurement",
     "inventory",
+    "working capital",
     "logistics",
     "manufacturing",
     "strategy",
@@ -53,7 +69,8 @@
     "sales",
     "earnings",
     "quarterly results",
-    "approval",
+    "management commentary",
+    "investor presentation",
     "innovation",
     "trade"
   ],
@@ -71,11 +88,12 @@
       "regulation",
       "reforms",
       "pli",
-      "geopolitics",
+      "employment",
+      "consumption",
+      "capex",
       "crude oil",
       "rupee",
-      "consumption",
-      "capex"
+      "geopolitics"
     ],
     "Agriculture & Allied": [
       "agriculture",
@@ -88,11 +106,13 @@
       "monsoon",
       "msp",
       "mandi",
+      "apmc",
       "fpo",
       "fertilizer",
       "fertiliser",
       "seed",
       "agrochemical",
+      "crop protection",
       "biostimulant",
       "horticulture",
       "dairy",
@@ -109,7 +129,9 @@
       "edible oil",
       "cotton",
       "maize",
-      "apeda"
+      "millets",
+      "apeda",
+      "nabard"
     ],
     "FMCG": [
       "fmcg",
@@ -123,6 +145,7 @@
       "urban demand",
       "premiumisation",
       "premiumization",
+      "downtrading",
       "general trade",
       "modern trade",
       "quick commerce",
@@ -130,7 +153,8 @@
       "d2c",
       "retail",
       "nielseniq",
-      "kantar"
+      "kantar",
+      "consumer sentiment"
     ],
     "Biotech & Life Sciences": [
       "biotechnology",
@@ -146,8 +170,10 @@
       "vaccine",
       "diagnostic",
       "medtech",
+      "medical device",
       "genomics",
       "gene therapy",
+      "cell therapy",
       "synthetic biology",
       "drug discovery",
       "clinical trial",
@@ -171,6 +197,7 @@
       "competitive strategy",
       "corporate strategy",
       "digital transformation",
+      "cost transformation",
       "esg strategy"
     ],
     "Operations & Supply Chain": [
@@ -181,6 +208,7 @@
       "lean",
       "six sigma",
       "capacity utilisation",
+      "capacity utilization",
       "procurement",
       "strategic sourcing",
       "inventory",
@@ -189,6 +217,7 @@
       "warehousing",
       "supply chain",
       "demand planning",
+      "demand forecasting",
       "s&op",
       "ibp",
       "last mile",
@@ -209,6 +238,7 @@
       "go-to-market",
       "gtm",
       "commercialization",
+      "commercialisation",
       "innovation"
     ],
     "Commercial & Marketing": [
@@ -225,6 +255,7 @@
       "price elasticity",
       "promotion strategy",
       "sales effectiveness",
+      "key account",
       "brand strategy",
       "marketing strategy",
       "advertising",
@@ -248,7 +279,8 @@
       "china trade",
       "export competitiveness",
       "sps",
-      "traceability"
+      "traceability",
+      "red sea"
     ]
   },
   "players": {
@@ -287,6 +319,66 @@
       "Aurobindo Pharma",
       "Zydus Lifesciences",
       "Torrent Pharma"
+    ],
+    "Consulting & Strategy": [
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Deloitte",
+      "EY",
+      "PwC",
+      "KPMG",
+      "Accenture",
+      "Kearney",
+      "Strategy&"
+    ],
+    "Operations & Supply Chain": [
+      "Reliance Industries",
+      "Tata Group",
+      "Mahindra",
+      "Larsen & Toubro",
+      "Maruti Suzuki",
+      "Delhivery",
+      "Blue Dart",
+      "DHL",
+      "Maersk",
+      "Amazon India"
+    ],
+    "Product": [
+      "Reliance Jio",
+      "Tata Digital",
+      "Flipkart",
+      "Amazon India",
+      "Zomato",
+      "Swiggy",
+      "PhonePe",
+      "Paytm",
+      "Razorpay",
+      "Freshworks"
+    ],
+    "Commercial & Marketing": [
+      "Hindustan Unilever",
+      "ITC",
+      "Reliance Retail",
+      "Tata Consumer",
+      "Nestle India",
+      "Dabur",
+      "Marico",
+      "Godrej Consumer",
+      "Asian Paints",
+      "Pidilite"
+    ],
+    "Global Trade": [
+      "Reliance Industries",
+      "Tata Group",
+      "Adani Group",
+      "ITC",
+      "Sun Pharma",
+      "UPL",
+      "Bharat Forge",
+      "Dr Reddy's",
+      "Mahindra",
+      "ArcelorMittal Nippon Steel India"
     ]
   },
   "sources": [
@@ -297,76 +389,142 @@
       "q": "(India economy OR GDP OR inflation OR RBI OR monetary policy OR fiscal policy OR consumption OR capex) when:7d"
     },
     {
-      "name": "India Policy",
+      "name": "India Policy & Regulation",
       "industry": "Current Affairs",
       "priority": 3,
-      "q": "(India policy OR regulation OR reform OR PLI OR trade policy OR cabinet approval) when:7d"
+      "q": "(India policy OR regulation OR reform OR PLI OR cabinet approval OR government scheme) (economy OR business OR industry OR trade) when:10d"
+    },
+    {
+      "name": "India Corporate Signals",
+      "industry": "Current Affairs",
+      "priority": 3,
+      "q": "(India company OR Indian business) (earnings OR capex OR acquisition OR market share OR restructuring OR expansion) when:7d"
     },
     {
       "name": "Agriculture India",
       "industry": "Agriculture & Allied",
       "priority": 3,
-      "q": "(India agriculture OR agribusiness OR farm sector OR MSP OR monsoon OR agri inputs OR food processing) when:10d"
+      "q": "(India agriculture OR agribusiness OR farm sector OR MSP OR monsoon OR crop production OR rural economy) when:10d"
     },
     {
-      "name": "Agri Trade",
+      "name": "Agri Inputs & Technology",
       "industry": "Agriculture & Allied",
       "priority": 3,
-      "q": "(India agri exports OR APEDA OR rice exports OR spice exports OR tea exports OR seafood exports) when:14d"
+      "q": "(India fertilizer OR seeds OR agrochemicals OR crop protection OR biostimulants OR agritech OR precision agriculture) when:14d"
+    },
+    {
+      "name": "Food Dairy Allied",
+      "industry": "Agriculture & Allied",
+      "priority": 2,
+      "q": "(India food processing OR dairy OR livestock OR poultry OR fisheries OR aquaculture OR cold chain) (market OR production OR exports OR investment OR policy) when:14d"
+    },
+    {
+      "name": "Agri Trade & Commodities",
+      "industry": "Agriculture & Allied",
+      "priority": 3,
+      "q": "(India agri exports OR APEDA OR rice exports OR spice exports OR tea exports OR coffee exports OR seafood exports OR edible oil) when:14d"
     },
     {
       "name": "FMCG India",
       "industry": "FMCG",
       "priority": 3,
-      "q": "(India FMCG OR consumer goods OR rural demand OR volume growth OR premiumisation OR quick commerce) when:10d"
+      "q": "(India FMCG OR consumer goods OR rural demand OR urban demand OR volume growth OR premiumisation) when:10d"
+    },
+    {
+      "name": "FMCG Channels",
+      "industry": "FMCG",
+      "priority": 3,
+      "q": "(India retail OR general trade OR modern trade OR quick commerce OR ecommerce OR D2C) (FMCG OR consumer OR brands OR distribution) when:10d"
+    },
+    {
+      "name": "FMCG Economics",
+      "industry": "FMCG",
+      "priority": 3,
+      "q": "(FMCG India) (pricing OR gross margin OR input costs OR commodity costs OR market share OR volume growth) when:14d"
     },
     {
       "name": "FMCG Players",
       "industry": "FMCG",
       "priority": 3,
-      "q": "(HUL OR ITC OR Nestle India OR Britannia OR Dabur OR Marico OR Godrej Consumer OR Tata Consumer) (earnings OR pricing OR launch OR market share OR strategy) when:14d"
+      "q": "(HUL OR ITC OR Nestle India OR Britannia OR Dabur OR Marico OR Godrej Consumer OR Tata Consumer OR Colgate India OR Varun Beverages) (earnings OR pricing OR launch OR market share OR strategy OR distribution OR capex) when:14d"
     },
     {
-      "name": "India Pharma Biotech",
+      "name": "India Pharma",
       "industry": "Biotech & Life Sciences",
       "priority": 3,
-      "q": "(India pharma OR biotechnology OR biopharma OR biosimilars OR API OR CDMO OR USFDA OR CDSCO) when:14d"
+      "q": "(India pharma OR Indian pharmaceutical industry OR generics OR API OR pharmaceutical manufacturing) when:10d"
+    },
+    {
+      "name": "Biotech & Biopharma",
+      "industry": "Biotech & Life Sciences",
+      "priority": 3,
+      "q": "(India biotechnology OR biopharma OR biosimilars OR biologics OR vaccines OR biomanufacturing OR BIRAC OR BioE3) when:14d"
+    },
+    {
+      "name": "Pharma Regulation & Exports",
+      "industry": "Biotech & Life Sciences",
+      "priority": 3,
+      "q": "(India pharma exports OR API exports OR USFDA India OR CDSCO OR drug approval OR pharma regulation OR CDMO OR CRDMO) when:14d"
     },
     {
       "name": "Pharma Players",
       "industry": "Biotech & Life Sciences",
       "priority": 3,
-      "q": "(Sun Pharma OR Dr Reddy OR Cipla OR Lupin OR Biocon OR Syngene OR Divi OR Zydus) (earnings OR approval OR launch OR acquisition OR exports) when:14d"
+      "q": "(Sun Pharma OR Dr Reddy OR Cipla OR Lupin OR Biocon OR Syngene OR Divi OR Aurobindo OR Zydus OR Torrent Pharma) (earnings OR approval OR launch OR acquisition OR exports OR capacity) when:14d"
     },
     {
-      "name": "Consulting Strategy",
+      "name": "Consulting & Strategy",
       "industry": "Consulting & Strategy",
       "priority": 2,
-      "q": "(India consulting OR management consulting OR business transformation OR growth strategy OR market entry OR corporate strategy) when:14d"
+      "q": "(India consulting OR management consulting OR advisory OR business transformation OR growth strategy OR market entry OR corporate strategy) when:14d"
+    },
+    {
+      "name": "Consulting Firms",
+      "industry": "Consulting & Strategy",
+      "priority": 2,
+      "q": "(McKinsey India OR BCG India OR Bain India OR Deloitte India OR EY India OR PwC India OR KPMG India OR Accenture India) (report OR outlook OR strategy OR transformation OR market) when:21d"
     },
     {
       "name": "Operations India",
       "industry": "Operations & Supply Chain",
       "priority": 3,
-      "q": "(India supply chain OR logistics OR procurement OR manufacturing efficiency OR inventory OR warehousing) when:14d"
+      "q": "(India supply chain OR logistics OR procurement OR manufacturing efficiency OR inventory OR warehousing OR demand planning) when:14d"
+    },
+    {
+      "name": "Manufacturing Signals",
+      "industry": "Operations & Supply Chain",
+      "priority": 3,
+      "q": "(India manufacturing OR factory OR capacity utilisation OR plant operations OR productivity) (capex OR demand OR cost OR expansion OR supply chain) when:10d"
     },
     {
       "name": "Global Supply Chain",
       "industry": "Operations & Supply Chain",
       "priority": 3,
-      "q": "(global supply chain OR shipping OR freight rates OR container rates OR ports) (India OR trade OR business) when:10d"
+      "q": "(global supply chain OR shipping OR freight rates OR container rates OR ports OR Red Sea) (India OR trade OR exports OR imports) when:10d"
     },
     {
       "name": "Product Strategy",
       "industry": "Product",
       "priority": 2,
-      "q": "(India product strategy OR product launch OR new product development OR innovation OR go-to-market) (business OR company OR market) when:14d"
+      "q": "(India product strategy OR product launch OR new product development OR product portfolio OR go-to-market OR product-market fit) (business OR company OR market) when:14d"
     },
     {
-      "name": "Commercial Marketing",
+      "name": "Innovation & Product",
+      "industry": "Product",
+      "priority": 2,
+      "q": "(India innovation OR new product OR commercialization OR product portfolio) (FMCG OR pharma OR agritech OR consumer OR business) when:14d"
+    },
+    {
+      "name": "Commercial Strategy",
+      "industry": "Commercial & Marketing",
+      "priority": 3,
+      "q": "(India commercial strategy OR sales strategy OR route to market OR revenue growth management OR distribution strategy) when:14d"
+    },
+    {
+      "name": "Pricing & Brands",
       "industry": "Commercial & Marketing",
       "priority": 2,
-      "q": "(India commercial strategy OR sales strategy OR route to market OR pricing strategy OR brand strategy OR consumer insights) when:14d"
+      "q": "(India pricing strategy OR price elasticity OR brand strategy OR advertising OR consumer insights OR trade marketing) when:14d"
     },
     {
       "name": "India Global Trade",
@@ -375,16 +533,22 @@
       "q": "(India exports OR India imports OR FTA OR WTO OR tariff OR trade agreement OR export competitiveness) when:10d"
     },
     {
-      "name": "Geopolitics Business",
+      "name": "Geopolitics & Business",
       "industry": "Global Trade",
       "priority": 3,
-      "q": "(geopolitics OR sanctions OR tariffs OR Red Sea OR China trade OR US trade) (India OR supply chain OR exports OR commodities) when:10d"
+      "q": "(geopolitics OR sanctions OR tariffs OR Red Sea OR China trade OR US trade) (India OR supply chain OR exports OR commodities OR business) when:10d"
     },
     {
-      "name": "Commodities Energy",
+      "name": "Commodities & Energy",
       "industry": "Global Trade",
       "priority": 3,
-      "q": "(crude oil OR natural gas OR fertilizer prices OR food prices OR commodity prices) (India OR imports OR exports OR margin) when:10d"
+      "q": "(crude oil OR natural gas OR fertilizer prices OR food prices OR palm oil OR soybean OR commodity prices) (India OR imports OR exports OR margin) when:10d"
+    },
+    {
+      "name": "Global Agriculture",
+      "industry": "Global Trade",
+      "priority": 2,
+      "q": "(global agriculture OR global food prices OR grain market OR FAO OR USDA) (India OR exports OR imports OR trade) when:14d"
     }
   ]
 }
