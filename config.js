@@ -1,0 +1,43 @@
+const RADAR = {
+industries:["Current Affairs","Agriculture & Allied","FMCG","Biotech & Life Sciences","Consulting & Strategy","Operations & Supply Chain","Product","Commercial & Marketing","Global Trade"],
+players:{
+"Agriculture & Allied":["UPL","PI Industries","Coromandel International","Bayer CropScience India","Godrej Agrovet","Dhanuka Agritech","Rallis India","Mahindra & Mahindra Farm","Amul / GCMMF","ITC Agri Business"],
+"FMCG":["Hindustan Unilever","ITC","Nestlé India","Britannia","Dabur","Marico","Godrej Consumer","Tata Consumer","Colgate-Palmolive India","Varun Beverages"],
+"Biotech & Life Sciences":["Sun Pharma","Dr Reddy's","Cipla","Lupin","Biocon","Syngene","Divi's Laboratories","Aurobindo Pharma","Zydus Lifesciences","Torrent Pharma"],
+"Consulting & Strategy":["McKinsey","BCG","Bain","Deloitte","EY","PwC","KPMG","Accenture","Strategy&","Kearney"],
+"Operations & Supply Chain":["Reliance Industries","Tata Group","Mahindra","Larsen & Toubro","Maruti Suzuki","Delhivery","Blue Dart","DHL","Maersk","Amazon India"],
+"Product":["Reliance Jio","Tata Digital","Flipkart","Amazon India","Zomato","Swiggy","PhonePe","Paytm","Razorpay","Freshworks"],
+"Commercial & Marketing":["Hindustan Unilever","ITC","Reliance Retail","Tata Consumer","Nestlé India","Dabur","Marico","Godrej Consumer","Asian Paints","Pidilite"],
+"Global Trade":["Reliance Industries","Tata Group","Adani Group","ITC","Sun Pharma","UPL","ArcelorMittal Nippon Steel India","Bharat Forge","Dr Reddy's","Mahindra"]
+},
+negative:["student","students","school","college admission","exam result","admit card","scholarship","campus fest","resume tips","interview tips","career advice","motivational","celebrity","entertainment","astrology","horoscope","movie review","gaming","coupon","discount","viral video"],
+business:["revenue","volume","margin","ebitda","market share","pricing","price","cost","demand","supply","capex","capacity","investment","acquisition","merger","m&a","partnership","regulation","policy","export","import","tariff","launch","distribution","procurement","inventory","logistics","manufacturing","strategy","consumer","sales","earnings","quarterly","approval","innovation","growth","trade"],
+clusters:{
+"Current Affairs":["india economy","gdp","inflation","rbi","monetary policy","fiscal policy","union budget","economic survey","government policy","regulation","reforms","pli","geopolitics","crude oil","currency","rupee","consumption","capex"],
+"Agriculture & Allied":["agriculture","agribusiness","farm sector","rural economy","crop","kharif","rabi","monsoon","msp","mandi","fpo","fertilizer","fertiliser","seeds","agrochemical","biostimulant","horticulture","dairy","livestock","poultry","fisheries","aquaculture","food processing","rice","wheat","sugar","pulses","oilseed","edible oil","cotton","maize","apeda"],
+"FMCG":["fmcg","consumer goods","cpg","packaged food","beverage","personal care","home care","rural demand","urban demand","premiumisation","premiumization","downtrading","general trade","modern trade","quick commerce","q-commerce","d2c","retail","nielseniq","kantar"],
+"Biotech & Life Sciences":["biotechnology","biotech","bioeconomy","life sciences","biopharma","pharma","api","generics","biosimilar","biologic","vaccine","diagnostic","medtech","genomics","gene therapy","synthetic biology","drug discovery","clinical trial","usfda","cdsco","cdmo","cro","crdmo","birac","bioe3"],
+"Consulting & Strategy":["consulting","advisory","business transformation","operating model","growth strategy","market entry","due diligence","market sizing","competitive strategy","corporate strategy","digital transformation","esg strategy"],
+"Operations & Supply Chain":["operations","operational efficiency","process improvement","productivity","lean","six sigma","capacity utilisation","procurement","strategic sourcing","inventory","working capital","logistics","warehousing","supply chain","demand planning","s&op","ibp","last mile","freight","shipping","ports"],
+"Product":["product management","product strategy","product launch","new product development","npd","product portfolio","product lifecycle","product-market fit","value proposition","go-to-market","gtm","commercialization","innovation"],
+"Commercial & Marketing":["commercial strategy","sales strategy","route to market","rtm","distribution strategy","channel strategy","trade marketing","revenue growth management","rgm","pricing strategy","price elasticity","promotion strategy","sales effectiveness","brand strategy","marketing strategy","advertising","consumer insights","segmentation","positioning"],
+"Global Trade":["exports","imports","foreign trade","fta","tariff","customs duty","wto","geopolitical risk","global commodity","shipping","freight","sanctions","china trade","export competitiveness","sps","traceability"]
+},
+sources:[
+["India Macro","Current Affairs","https://news.google.com/rss/search?q=(India+economy+OR+GDP+OR+inflation+OR+RBI+OR+monetary+policy+OR+fiscal+policy+OR+consumption+OR+capex)+when:7d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["India Policy","Current Affairs","https://news.google.com/rss/search?q=(India+policy+OR+regulation+OR+reform+OR+PLI+OR+trade+policy+OR+cabinet+approval)+when:7d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["Agriculture India","Agriculture & Allied","https://news.google.com/rss/search?q=(India+agriculture+OR+agribusiness+OR+farm+sector+OR+MSP+OR+monsoon+OR+agri+inputs+OR+food+processing)+when:7d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["Agri Trade","Agriculture & Allied","https://news.google.com/rss/search?q=(India+agri+exports+OR+APEDA+OR+rice+exports+OR+spice+exports+OR+tea+exports+OR+seafood+exports)+when:14d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["FMCG India","FMCG","https://news.google.com/rss/search?q=(India+FMCG+OR+consumer+goods+OR+rural+demand+OR+volume+growth+OR+premiumisation+OR+quick+commerce)+when:7d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["FMCG Players","FMCG","https://news.google.com/rss/search?q=(HUL+OR+ITC+OR+Nestle+India+OR+Britannia+OR+Dabur+OR+Marico+OR+Godrej+Consumer+OR+Tata+Consumer)+(earnings+OR+pricing+OR+launch+OR+market+share+OR+strategy)+when:14d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["India Pharma Biotech","Biotech & Life Sciences","https://news.google.com/rss/search?q=(India+pharma+OR+biotechnology+OR+biopharma+OR+biosimilars+OR+API+OR+CDMO+OR+USFDA+OR+CDSCO)+when:14d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["Pharma Players","Biotech & Life Sciences","https://news.google.com/rss/search?q=(Sun+Pharma+OR+Dr+Reddy%27s+OR+Cipla+OR+Lupin+OR+Biocon+OR+Syngene+OR+Divi%27s+OR+Zydus)+(earnings+OR+approval+OR+launch+OR+acquisition+OR+exports)+when:14d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["Consulting Strategy","Consulting & Strategy","https://news.google.com/rss/search?q=(India+consulting+OR+management+consulting+OR+business+transformation+OR+growth+strategy+OR+market+entry+OR+corporate+strategy)+when:14d&hl=en-IN&gl=IN&ceid=IN:en",2],
+["Operations India","Operations & Supply Chain","https://news.google.com/rss/search?q=(India+supply+chain+OR+logistics+OR+procurement+OR+manufacturing+efficiency+OR+inventory+OR+warehousing)+when:14d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["Global Supply Chain","Operations & Supply Chain","https://news.google.com/rss/search?q=(global+supply+chain+OR+shipping+OR+freight+rates+OR+container+rates+OR+ports)+(India+OR+trade+OR+business)+when:7d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["Product Strategy","Product","https://news.google.com/rss/search?q=(India+product+strategy+OR+product+launch+OR+new+product+development+OR+innovation+OR+go-to-market)+(business+OR+company+OR+market)+when:14d&hl=en-IN&gl=IN&ceid=IN:en",2],
+["Commercial Marketing","Commercial & Marketing","https://news.google.com/rss/search?q=(India+commercial+strategy+OR+sales+strategy+OR+route+to+market+OR+pricing+strategy+OR+brand+strategy+OR+consumer+insights)+when:14d&hl=en-IN&gl=IN&ceid=IN:en",2],
+["India Global Trade","Global Trade","https://news.google.com/rss/search?q=(India+exports+OR+India+imports+OR+FTA+OR+WTO+OR+tariff+OR+trade+agreement+OR+export+competitiveness)+when:7d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["Geopolitics Business","Global Trade","https://news.google.com/rss/search?q=(geopolitics+OR+sanctions+OR+tariffs+OR+Red+Sea+OR+China+trade+OR+US+trade)+(India+OR+supply+chain+OR+exports+OR+commodities)+when:7d&hl=en-IN&gl=IN&ceid=IN:en",3],
+["Commodities Energy","Global Trade","https://news.google.com/rss/search?q=(crude+oil+OR+natural+gas+OR+fertilizer+prices+OR+food+prices+OR+commodity+prices)+(India+OR+imports+OR+exports+OR+margin)+when:7d&hl=en-IN&gl=IN&ceid=IN:en",3]
+]};

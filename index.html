@@ -1,67 +1,35 @@
 <!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>SIP News Radar</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
-</head>
-<body>
-  <header class="topbar">
-    <a class="brand" href="#top"><span class="brand-mark">S</span><span>SIP News Radar</span></a>
-    <div class="top-actions"><span id="status" class="status">Ready for today</span><button id="refreshBtn" class="button primary">Refresh daily brief</button></div>
-  </header>
-  <main id="top">
-    <section class="hero">
-      <div>
-        <p class="eyebrow">DAILY INTELLIGENCE DESK</p>
-        <h1>The news that moves your <em>SIP</em> preparation forward.</h1>
-        <p class="lede">A date-wise, ranked reading list built from your chosen sources. Links always take you to the original article.</p>
-      </div>
-      <aside class="brief-card">
-        <p class="eyebrow">ACTIVE BRIEF</p>
-        <p id="briefText">SIP preparation: opportunities, policy, sector developments, skills and deadlines.</p>
-        <button id="editBrief" class="text-button">Edit brief &amp; keywords →</button>
-      </aside>
-    </section>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MBA Interview & GD Intelligence Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css"></head>
+<body><header class="topbar"><a class="brand" href="#"><span class="brand-mark">R</span><span>MBA Intelligence Radar</span></a>
+<div class="top-actions"><span id="status" class="status">Ready</span><button id="refreshBtn" class="button primary">Refresh news</button></div></header>
+<main><section class="hero"><div><p class="eyebrow">INTERVIEW + GD INTELLIGENCE</p><h1>Business news, ranked for <em>decision relevance.</em></h1>
+<p class="lede">India-first current affairs and sector intelligence with selective global/export coverage, company tracking and business-function pivots.</p></div>
+<aside class="brief-card"><p class="eyebrow">RANKING MODEL</p><p>Sector fit + business impact + India relevance + company significance + GD value + source quality + recency + India/global linkage.</p><button id="settingsBtn" class="text-button">Sources & configuration →</button></aside></section>
 
-    <section class="metrics" aria-label="Daily summary">
-      <div><span id="storyCount">0</span><small>ranked stories</small></div>
-      <div><span id="sourceCount">0</span><small>active sources</small></div>
-      <div><span id="highCount">0</span><small>high relevance</small></div>
-      <div><span id="archiveCount">0</span><small>days archived</small></div>
-    </section>
+<nav id="industryTabs" class="tabs"></nav>
+<section class="filterbar">
+<input id="search" placeholder="Search title, company, topic…">
+<select id="pivotFilter"><option value="all">All pivots</option><option>Strategy</option><option>Operations</option><option>Product</option><option>Commercial</option><option>Policy</option><option>Trade & Exports</option><option>Companies</option></select>
+<select id="geoFilter"><option value="all">India + Global</option><option value="India">India</option><option value="Global">Global / Export</option></select>
+<select id="scoreFilter"><option value="0">All relevance</option><option value="75">75+ high</option><option value="60">60+ useful</option></select>
+<select id="ageFilter"><option value="30">Last 30 days</option><option value="14">Last 14 days</option><option value="7">Last 7 days</option><option value="3">Last 3 days</option></select>
+</section>
 
-    <section class="content-grid">
-      <div>
-        <div class="section-heading"><div><p class="eyebrow">TODAY’S BRIEF</p><h2 id="todayLabel">Loading…</h2></div><div class="filters"><button class="chip active" data-filter="all">All</button><button class="chip" data-filter="high">High priority</button><button class="chip" data-filter="opportunity">Opportunities</button></div></div>
-        <div id="feed" class="feed" aria-live="polite"></div>
-      </div>
-      <aside class="rail">
-        <div class="panel"><p class="eyebrow">WHY IT RANKED</p><p class="muted">Stories are scored against your keywords, source priority and freshness. The score is a reading aid—not a claim about importance.</p></div>
-        <div class="panel"><p class="eyebrow">YOUR SOURCES</p><div id="sources" class="sources"></div><button id="manageSources" class="button secondary">Manage sources</button></div>
-        <div class="panel"><p class="eyebrow">DAILY ROUTINE</p><ol class="routine"><li>Open this page each day.</li><li>Choose <b>Refresh daily brief</b>.</li><li>Review the top-ranked links.</li><li>Today is saved as its own archive segment.</li></ol></div>
-      </aside>
-    </section>
+<section class="metrics"><div><span id="storyCount">0</span><small>visible stories</small></div><div><span id="sourceCount">0</span><small>sources</small></div><div><span id="highCount">0</span><small>high relevance</small></div><div><span id="playerCount">0</span><small>tracked players</small></div></section>
 
-    <section class="archive-section">
-      <div class="section-heading"><div><p class="eyebrow">DATE-WISE ARCHIVE</p><h2>Previous daily briefs</h2></div><button id="exportBtn" class="text-button">Export archive JSON ↓</button></div>
-      <div id="archive" class="archive"></div>
-    </section>
-  </main>
-
-  <dialog id="settingsDialog"><form method="dialog" id="settingsForm"><div class="dialog-head"><div><p class="eyebrow">CONFIGURATION</p><h2>Make the radar yours</h2></div><button class="icon-button" value="cancel" aria-label="Close">×</button></div>
-    <label>Preparation brief<textarea id="briefInput" rows="3"></textarea></label>
-    <label>Ranking keywords <span class="hint">Separate with commas</span><textarea id="keywordsInput" rows="3"></textarea></label>
-    <label>Sources <span class="hint">One per line: Name | RSS feed URL | priority 1–3</span><textarea id="sourcesInput" rows="9"></textarea></label>
-    <p class="notice">Tip: Google News RSS feeds work well for broad topics. For a specific publisher, paste its RSS feed. The default uses Google News searches so you can start immediately.</p>
-    <div class="dialog-actions"><button value="cancel" class="button secondary">Cancel</button><button id="saveSettings" value="default" class="button primary">Save settings</button></div>
-  </form></dialog>
-  <template id="storyTemplate"><article class="story"><div class="story-top"><span class="source"></span><span class="score"></span></div><a class="story-title" target="_blank" rel="noopener noreferrer"></a><p class="story-meta"></p><p class="story-reason"></p><a class="original-link" target="_blank" rel="noopener noreferrer">Read original article <span>↗</span></a></article></template>
-  <script src="app.js"></script>
-</body>
-</html>
-
+<section class="content-grid"><div><div class="section-heading"><div><p class="eyebrow">RANKED BRIEF</p><h2 id="viewTitle">Current Affairs</h2></div></div><div id="feed" class="feed"></div></div>
+<aside class="rail"><div class="panel"><p class="eyebrow">TOP PLAYERS</p><div id="players" class="players"></div></div>
+<div class="panel"><p class="eyebrow">QUALITY LOGIC</p><p class="muted">Generic education/student/career noise is rejected. Broad words only count when they occur with sector or business-impact context. Duplicate headlines are collapsed.</p></div>
+<div class="panel"><p class="eyebrow">SOURCE STATUS</p><div id="sources" class="sources"></div></div></aside></section>
+</main>
+<dialog id="settingsDialog"><form method="dialog"><div class="dialog-head"><div><p class="eyebrow">CONFIGURATION</p><h2>Radar settings</h2></div><button class="icon-button" value="cancel">×</button></div>
+<p class="notice">The defaults are deliberately exhaustive and query-clustered. Edit source URLs in <b>config.js</b> for durable changes.</p>
+<label>Extra positive keywords<textarea id="extraKeywords" rows="4" placeholder="Optional comma-separated terms"></textarea></label>
+<label>Extra exclusions<textarea id="extraNegative" rows="4" placeholder="Optional comma-separated junk terms"></textarea></label>
+<div class="dialog-actions"><button value="cancel" class="button secondary">Cancel</button><button id="saveSettings" value="default" class="button primary">Save</button></div></form></dialog>
+<template id="storyTemplate"><article class="story"><div class="story-top"><span class="source"></span><span class="score"></span></div><div class="tags"></div><a class="story-title" target="_blank" rel="noopener noreferrer"></a><p class="story-meta"></p><p class="story-reason"></p><a class="original-link" target="_blank" rel="noopener noreferrer">Read original article ↗</a></article></template>
+<script src="config.js"></script><script src="app.js"></script></body></html>
