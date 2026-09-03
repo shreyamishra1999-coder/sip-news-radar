@@ -1,1 +1,423 @@
-<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>MBA Intelligence Radar</title><link rel="stylesheet" href="styles.css"></head><body><header><b>MBA INTELLIGENCE RADAR</b><small id="updated">Loading…</small></header><main><section class="hero"><p>INTERVIEW + GD PREPARATION</p><h1>Know what matters. <em>Know why it matters.</em></h1><span>India-first intelligence with retained history, date filters and concise briefs.</span></section><nav id="tabs"></nav><section class="filters"><input id="q" placeholder="Search topic, signal or company"><select id="pivot"><option>All pivots</option><option>Strategy</option><option>Operations</option><option>Product</option><option>Commercial</option><option>Policy</option><option>Trade & Exports</option><option>Companies</option></select><select id="geo"><option>India + Global</option><option>India</option><option>Global</option></select><select id="score"><option value="0">All scores</option><option value="75">75+ High</option><option value="60">60+ Useful</option></select><select id="date"><option value="latest">Latest snapshot</option><option value="1">Today</option><option value="3">Last 3 days</option><option value="7">Last 7 days</option><option value="14">Last 14 days</option><option value="30">Last 30 days</option><option value="custom">Custom range</option></select><input id="from" type="date" hidden><input id="to" type="date" hidden></section><section class="stats"><div><b id="count">0</b><small>visible</small></div><div><b id="total">0</b><small>loaded</small></div><div><b id="healthy">0</b><small>healthy sources</small></div><div><b id="newcount">0</b><small>new this update</small></div></section><section class="layout"><div id="feed"></div><aside><h3>90-day history</h3><p>Every refresh merges into a daily archive instead of replacing previous fetched stories.</p></aside></section></main><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+
+  <meta
+    name="description"
+    content="MBA Interview and GD Intelligence Radar covering current affairs, agriculture, FMCG, biotech, consulting, operations, product, marketing and global trade."
+  >
+
+  <title>MBA Interview & GD Intelligence Radar</title>
+
+  <link
+    rel="stylesheet"
+    href="styles.css"
+  >
+</head>
+
+
+<body>
+
+  <!-- =====================================================
+       HEADER
+       ===================================================== -->
+
+  <header>
+
+    <div>
+      <b>
+        MBA INTELLIGENCE RADAR
+      </b>
+    </div>
+
+    <small id="updated">
+      Loading latest snapshot…
+    </small>
+
+  </header>
+
+
+  <main>
+
+    <!-- ===================================================
+         HERO
+         =================================================== -->
+
+    <section class="hero">
+
+      <p>
+        INTERVIEW + GD PREPARATION
+      </p>
+
+      <h1>
+        Know what matters.
+        <em>Know why it matters.</em>
+      </h1>
+
+      <span>
+        India-first business intelligence with retained
+        history, publication-date filtering and concise
+        discussion-ready story briefs.
+      </span>
+
+    </section>
+
+
+    <!-- ===================================================
+         INDUSTRY TABS
+         Generated dynamically by app.js
+         =================================================== -->
+
+    <nav
+      id="tabs"
+      aria-label="Industry navigation"
+    ></nav>
+
+
+    <!-- ===================================================
+         FILTERS
+         =================================================== -->
+
+    <section class="filters">
+
+      <!-- Search -->
+
+      <input
+        id="q"
+        type="search"
+        placeholder="Search topic, signal, source or company"
+        aria-label="Search news"
+      >
+
+
+      <!-- Managerial Pivot -->
+
+      <select
+        id="pivot"
+        aria-label="Filter by managerial pivot"
+      >
+
+        <option>
+          All pivots
+        </option>
+
+        <option>
+          Strategy
+        </option>
+
+        <option>
+          Operations
+        </option>
+
+        <option>
+          Product
+        </option>
+
+        <option>
+          Commercial
+        </option>
+
+        <option>
+          Policy
+        </option>
+
+        <option>
+          Trade & Exports
+        </option>
+
+        <option>
+          Companies
+        </option>
+
+      </select>
+
+
+      <!-- Geography -->
+
+      <select
+        id="geo"
+        aria-label="Filter by geography"
+      >
+
+        <option>
+          India + Global
+        </option>
+
+        <option>
+          India
+        </option>
+
+        <option>
+          Global
+        </option>
+
+      </select>
+
+
+      <!-- Relevance Score -->
+
+      <select
+        id="score"
+        aria-label="Filter by relevance score"
+      >
+
+        <option value="0">
+          All relevance scores
+        </option>
+
+        <option value="60">
+          60+ Useful
+        </option>
+
+        <option value="75">
+          75+ High relevance
+        </option>
+
+        <option value="85">
+          85+ Must read
+        </option>
+
+      </select>
+
+
+      <!-- Date / Archive Filter -->
+
+      <select
+        id="date"
+        aria-label="Filter by date"
+      >
+
+        <option value="latest">
+          Latest snapshot
+        </option>
+
+        <option value="1">
+          Today
+        </option>
+
+        <option value="3">
+          Last 3 days
+        </option>
+
+        <option value="7">
+          Last 7 days
+        </option>
+
+        <option value="14">
+          Last 14 days
+        </option>
+
+        <option value="30">
+          Last 30 days
+        </option>
+
+        <option value="custom">
+          Custom date range
+        </option>
+
+      </select>
+
+
+      <!-- Custom Date Range -->
+
+      <input
+        id="from"
+        type="date"
+        aria-label="From date"
+        hidden
+      >
+
+      <input
+        id="to"
+        type="date"
+        aria-label="To date"
+        hidden
+      >
+
+    </section>
+
+
+    <!-- ===================================================
+         DASHBOARD METRICS
+         =================================================== -->
+
+    <section class="stats">
+
+      <div>
+
+        <b id="count">
+          0
+        </b>
+
+        <small>
+          visible stories
+        </small>
+
+      </div>
+
+
+      <div>
+
+        <b id="total">
+          0
+        </b>
+
+        <small>
+          loaded stories
+        </small>
+
+      </div>
+
+
+      <div>
+
+        <b id="healthy">
+          0
+        </b>
+
+        <small>
+          healthy sources
+        </small>
+
+      </div>
+
+
+      <div>
+
+        <b id="newcount">
+          0
+        </b>
+
+        <small>
+          new this update
+        </small>
+
+      </div>
+
+    </section>
+
+
+    <!-- ===================================================
+         MAIN CONTENT
+         =================================================== -->
+
+    <section class="layout">
+
+
+      <!-- News cards are inserted here by app.js -->
+
+      <div id="feed">
+
+        <div class="empty">
+          Loading intelligence…
+        </div>
+
+      </div>
+
+
+      <!-- =================================================
+           RIGHT SIDEBAR
+           ================================================= -->
+
+      <aside>
+
+
+        <section>
+
+          <h3>
+            Interview Lens
+          </h3>
+
+          <p>
+            For each development, think through:
+            what happened → why it happened →
+            who is affected → revenue, cost,
+            margin or demand impact →
+            managerial response →
+            India and global implications.
+          </p>
+
+        </section>
+
+
+        <section>
+
+          <h3>
+            Ranking
+          </h3>
+
+          <p>
+            Stories are ranked on sector relevance,
+            business impact, India relevance,
+            company significance, GD value,
+            source priority, recency and
+            India/global linkage.
+          </p>
+
+        </section>
+
+
+        <section>
+
+          <h3>
+            90-Day History
+          </h3>
+
+          <p>
+            Every scheduled refresh adds newly
+            discovered stories to a daily archive
+            instead of deleting previously fetched
+            intelligence.
+          </p>
+
+          <p>
+            Use the date selector above to review
+            today, recent periods or a custom
+            historical range.
+          </p>
+
+        </section>
+
+
+        <section>
+
+          <h3>
+            Reading Strategy
+          </h3>
+
+          <p>
+            Start with <strong>Top Stories</strong>
+            and 75+ relevance for a quick daily
+            briefing.
+          </p>
+
+          <p>
+            Then switch to an industry tab for
+            deeper interview preparation.
+          </p>
+
+        </section>
+
+      </aside>
+
+    </section>
+
+  </main>
+
+
+  <!-- =====================================================
+       APPLICATION
+       ===================================================== -->
+
+  <script src="app.js"></script>
+
+</body>
+
+</html>
