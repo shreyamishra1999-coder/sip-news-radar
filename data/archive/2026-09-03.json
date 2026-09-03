@@ -1,148 +1,7 @@
 {
+  "date": "2026-09-03",
   "generated_at": "2026-09-03T13:02:28.044259+00:00",
   "story_count": 296,
-  "source_status": [
-    {
-      "source": "India Macro",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "India Policy & Regulation",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "India Corporate Signals",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Agriculture India",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Agri Inputs & Technology",
-      "ok": true,
-      "count": 43
-    },
-    {
-      "source": "Food Dairy Allied",
-      "ok": true,
-      "count": 34
-    },
-    {
-      "source": "Agri Trade & Commodities",
-      "ok": true,
-      "count": 59
-    },
-    {
-      "source": "FMCG India",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "FMCG Channels",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "FMCG Economics",
-      "ok": true,
-      "count": 46
-    },
-    {
-      "source": "FMCG Players",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "India Pharma",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Biotech & Biopharma",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Pharma Regulation & Exports",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Pharma Players",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Consulting & Strategy",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Consulting Firms",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Operations India",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Manufacturing Signals",
-      "ok": true,
-      "count": 33
-    },
-    {
-      "source": "Global Supply Chain",
-      "ok": true,
-      "count": 50
-    },
-    {
-      "source": "Product Strategy",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Innovation & Product",
-      "ok": true,
-      "count": 25
-    },
-    {
-      "source": "Commercial Strategy",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Pricing & Brands",
-      "ok": true,
-      "count": 16
-    },
-    {
-      "source": "India Global Trade",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Geopolitics & Business",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Commodities & Energy",
-      "ok": true,
-      "count": 0
-    },
-    {
-      "source": "Global Agriculture",
-      "ok": true,
-      "count": 0
-    }
-  ],
   "stories": [
     {
       "id": "d553400502e8f197",
@@ -898,7 +757,7 @@
       "summary": "India rice exporters see Iran demand defying sanctions risk The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU2pqcGZDQlkwQXFrN1MxTENjMXBwWmdtRVVvbmg3Q0xOeGowb0hqTVFzWlpabXFxbk5ZVWNYQzVVcDZJVEhDdzdLNHB5V0FLQVpaYmdXdXVScUpGYU5wby1VLXJFeU4tOTkwNVphM3Z0dDA3dHJSRGNBS2tybWlnZ2NBQUw3VzFMNkhWbVJLVWZHV3p5akV4ejJUNVdYQVR1VlljN1NsaURpNWh6YjdZbGVlOVR5M2F5YnVpd2hwRnJDSm1yTEM5a3l1dEwweGtOZXpwR3hGOVp5N3B0Nm1R0gHkAUFVX3lxTE9sWnlsWngyLWF6ZTVTSUl6ckRoQVpMMDZJZDdKMnlkTHIxcThMR1p1d25UMHozMDQyUndRUWFzVUV3eGdZNmxaOEUtV0Zqb0kxZGR4Y1kzaXpOcVFEZHpYbWVlWmV6T1RZSTE4cFU2ZHpQS0M0S1dac2lPUEZVLWRvNEVVOW0xRGRRWFFCdkMycWNwb1E1T1BkZDRmajdpLVNjTHNFYlFhbGRsN1BibFlrVWQwa01TMnNyeThieVZyVlpXdkVQMGR2dzFjVUlPWHNlY0lxTnVWWDdPeE9rTXRWbHdKYw?oc=5",
       "date": "Thu, 27 Aug 2026 04:57:03 GMT",
-      "source": "Agri Trade & Commodities",
+      "source": "Global Supply Chain",
       "industry": "Agriculture & Allied",
       "pivot": "Trade & Exports",
       "score": 50,
@@ -907,7 +766,7 @@
       "player": "",
       "first_seen": "2026-09-03T13:02:28.044259+00:00",
       "last_seen": "2026-09-03T13:02:28.044259+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "aa01bdb96b7c9224",
@@ -1404,10 +1263,10 @@
     },
     {
       "id": "b1cc3bcf6d71d651",
-      "title": "Expensive living? Inflation hits coriander to cars in India - The Economic Times",
-      "summary": "Inflation hits coriander to cars in India The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOU2F1QzNJUUxBSnJ1VmF1cUctVkhqSC1vYmttNkNCTXh6eGhQNjhWYVAwOUFwc19fQ1VrVE51M1d0MndGT1FqWUZzNXp3N1hvbk5NNS1oRlUtZHE4eHZPYW80cUFZa0lxNUJJakhOQXpzN0plNC1NdVQ0TVRKazRvWFRjNl9LLXduSlo0NXR0WGN1dndlNlpMa3EzTHFJQW82bWxCekhkd0ZkTjgweHBlRzNqY3V4cUozZkZPQ212TlNvc19PcUdodGpEdEg0VWJ2WGRSMGtzSm9Tb3JuWlJxejFrMmdXM094aHdOUHc3UWtUUTF5T253aFJzOS1LS2d1OGFCc0UwQjNzanA5QXV0U09uWGHSAZoCQVVfeXFMTnFuUjhqNnRwT1RlVE4wcGRxbEl6UHFZeHBSa2JRdnluRm9MR09MUEFrUVVScUNaVGFFc3dvR0tJdHlsQV95NFFSYl8zQlhCNFJWQm4za0RGWTkzYlhPUW5IVUpqZHZ4SEFIOXdRQ1Zucm5xVWFIbVFFUzhHNmZUNVJFR1BJanBDZTlBV24xUW1tN1NZZVJyVG5KTEZqeHh3QUJ0RFdkMF9NaTkyNl9VNW43UlZWSkZZYW8tLTZpSUxiN1kyLVVWcDRkdS1YSFhFMFFkQWh5eDBGRmRKc29OZ3VPeWFBcU9Kc3hadE1sdFBFNk9nWW1UVEhvSWNSVGtGdzlUT1luQXYwbmU4LTlBelN3Ync1SWkyWDZn?oc=5",
-      "date": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "title": "Expensive living? Inflation hits coriander to cars in India - inkl",
+      "summary": "Inflation hits coriander to cars in India inkl",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWhMWU9vQ1JQMXZvN2pUUURwazZBMG5id180TnNZZngyOFFaTmlUZ0hYY1YxRDZVbVVlS3pKalJ2WXc4cEp6QkVOLUNLSXVhb0l3QUpjNXZ2ZlBDSHM3T2RINVgzdzhPNXRlZkxjbTdWSGVxRTRUcVhHS3MtREVPeDZ4YnAyeXRkNkE4dw?oc=5",
+      "date": "Fri, 21 Aug 2026 09:39:00 GMT",
       "source": "FMCG Economics",
       "industry": "Current Affairs",
       "pivot": "Strategy",
@@ -1417,7 +1276,7 @@
       "player": "",
       "first_seen": "2026-09-03T13:02:28.044259+00:00",
       "last_seen": "2026-09-03T13:02:28.044259+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6f1bb0e7746d088e",
@@ -2394,7 +2253,7 @@
       "summary": "Retail India News: Capital Group Sells D-Mart Stake for Rs 2,537 Cr Indian Retailer",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRmpTaDNuQWc3R2JhSWwzZUtiMUd0SlBuTE5HYjJZekphblpnVDlRRXNPZGdYem5pNktxUmNPR3FlcGFEaHhtQzFzYXpMQTdteDgwNnJ0dG1FWTlsVVdsbkt1YzRoYnV5M3FLbGNXTzloRVRPVEhnSFU5MjJVd0lQUzc1c2xhVVdfVDNVUVR4dlZnR2tvaWY2YnprVU9UUQ?oc=5",
       "date": "Thu, 27 Aug 2026 10:44:40 GMT",
-      "source": "FMCG Economics",
+      "source": "Manufacturing Signals",
       "industry": "FMCG",
       "pivot": "Strategy",
       "score": 40,
@@ -2713,10 +2572,10 @@
     },
     {
       "id": "191525f68dde553c",
-      "title": "Engineering goods on track for $23 billion exports this fiscal, says EEPC Chairman Pankaj Chadha - Devdiscourse",
-      "summary": "Engineering goods on track for $23 billion exports this fiscal, says EEPC Chairman Pankaj Chadha Devdiscourse",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNmh6N3FCeDN2Z2RMRWN2LTlScGtQN2JrNkdGY0txRWwyVVNsaDJwOTh6RXBxMG9ZeWg4RHFTdXBRd21ncjFFVmRDa2NGU2ZsYzhqd1pWQW54M3RzOENkT3dUMmF3Ui1La01Ea0hZWnV1R2dFdFM5Mkpqakh2RUpWQUFVa215UWNqcDRmNUNpQ1ZSLWV3NFNNbXRhS3c1UHRNNDF1ZS13ak9qWnN0RTZpOWI1d01kZG1oQV84ZTU2U04zM2M1S2dvdjk1LXFvR0NDeXpVVEpVM29ZR0Z5YUFscUpyQWJBMGfSAecBQVVfeXFMTzZoejdxQngzdmdkTEVjdi05UnBrUDdiazZHRmNLcUVsMlVTbGgycDk4ekVwcTBvWXloOERxU3VwUXdtZ3IxRVZkQ2tjRlNmbGM4andaVkFueDN0czhDZE93VDJhd1ItS2tNRGtIWVp1dUdnRXRTOTJKampIdkVKVkFBVWtteVFjanA0ZjVDaUNWUi1ldzRTTW10YUt3NVB0TTQxdWUtd2pPalpzdEU2aTliNXdNZGRtaEFfOGU1NlNOMzNjNUtnb3Y5NS1xb0dDQ3l6VVRKVTNvWUdGeWFBbHFKckFiQTBn?oc=5",
-      "date": "Wed, 02 Sep 2026 10:39:13 GMT",
+      "title": "Engineering goods on track for $23 billion exports this fiscal, says EEPC Chairman Pankaj Chadha - Big News Network.com",
+      "summary": "Engineering goods on track for $23 billion exports this fiscal, says EEPC Chairman Pankaj Chadha Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUHFMTVROM2lPWkl1aW1IazhzWm9VT3h5VThXN2kzdEJ5cERGc2pMNmxqa1Uxa3A3RXVfRWRVTlVtMmctd3RrNHhmQXI2eXlpY29IbFBxQmRrMGMxQUtpTnNGbWRCZTV1N0N6Z0lXbWE3T09kcWVBRW9UNUhYN3R6VXlNd0k5MkFUelo0ekR5Qzdic2VPNzRRZVNybk5aeldiUE5ySFJBb2xNX0pibjVJLXpYT0d5ZlZONlBld0FiektpWmdlZzZLS3VSSDd0YUNtMFRpUHp5QQ?oc=5",
+      "date": "Wed, 02 Sep 2026 14:04:00 GMT",
       "source": "Agri Trade & Commodities",
       "industry": "Operations & Supply Chain",
       "pivot": "Trade & Exports",
@@ -2726,7 +2585,7 @@
       "player": "",
       "first_seen": "2026-09-03T13:02:28.044259+00:00",
       "last_seen": "2026-09-03T13:02:28.044259+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "96d0799369a3ca9b",
@@ -4213,7 +4072,7 @@
       "summary": "Agriculture Equipment Market Size, Forecasts Report 2026-2035 Global Market Insights Inc.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjTUxZYU9wVWJSZEZWYkpPTy04bjFCd2xLS3RtTkVld1dHVEo3c0VTazFJMG51RlVadjFfSFkxQkpMYnRXU3FoYTlGWTM2eEFHQ3BBS0FtUzVoUlVoeG5fNzk4ZHFON3diWnpJNEVOTlNIdENSTEZXeDItSlJLQQ?oc=5",
       "date": "Tue, 01 Sep 2026 10:53:15 GMT",
-      "source": "Agri Inputs & Technology",
+      "source": "FMCG Economics",
       "industry": "Agriculture & Allied",
       "pivot": "Strategy",
       "score": 32,
@@ -4222,7 +4081,7 @@
       "player": "",
       "first_seen": "2026-09-03T13:02:28.044259+00:00",
       "last_seen": "2026-09-03T13:02:28.044259+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1df1a04bb4a7a15f",
