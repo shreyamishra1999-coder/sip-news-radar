@@ -1,2 +1,1 @@
-# MBA Intelligence Radar v4
-Expanded intelligence update. Upload all files preserving folders. The updater runs every four hours and manually via Actions. `Top Stories` shows up to 30 stories scoring 70+. Edit `config.json` to tune source clusters, sector anchors, business-impact anchors, exclusions and tracked players. The updater preserves the previous snapshot if a run returns zero stories.
+V5 migration package. IMPORTANT: keep your existing config.json; this ZIP intentionally does not replace it. Upload all included files preserving folders, then run Update news radar once.
