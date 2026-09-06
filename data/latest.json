@@ -1,146 +1,174 @@
 {
-  "generated_at": "2026-09-06T15:26:44.753083+00:00",
+  "generated_at": "2026-09-06T18:16:32.164587+00:00",
   "story_count": 1228,
   "source_status": [
     {
       "source": "India Macro",
-      "ok": true,
-      "count": 75
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "India Policy & Regulation",
-      "ok": true,
-      "count": 33
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "India Corporate Signals",
-      "ok": true,
-      "count": 29
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Agriculture India",
-      "ok": true,
-      "count": 32
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Agri Inputs & Technology",
-      "ok": true,
-      "count": 46
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Food Dairy Allied",
-      "ok": true,
-      "count": 33
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Agri Trade & Commodities",
-      "ok": true,
-      "count": 52
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "FMCG India",
-      "ok": true,
-      "count": 41
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "FMCG Channels",
-      "ok": true,
-      "count": 41
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "FMCG Economics",
-      "ok": true,
-      "count": 42
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "FMCG Players",
-      "ok": true,
-      "count": 85
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "India Pharma",
-      "ok": true,
-      "count": 57
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Biotech & Biopharma",
-      "ok": true,
-      "count": 88
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Pharma Regulation & Exports",
-      "ok": true,
-      "count": 26
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Pharma Players",
-      "ok": true,
-      "count": 56
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Consulting & Strategy",
-      "ok": true,
-      "count": 38
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Consulting Firms",
-      "ok": true,
-      "count": 35
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Operations India",
-      "ok": true,
-      "count": 43
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Manufacturing Signals",
-      "ok": true,
-      "count": 42
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Global Supply Chain",
-      "ok": true,
-      "count": 58
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Product Strategy",
-      "ok": true,
-      "count": 28
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Innovation & Product",
-      "ok": true,
-      "count": 33
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Commercial Strategy",
-      "ok": true,
-      "count": 48
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Pricing & Brands",
-      "ok": true,
-      "count": 31
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "India Global Trade",
-      "ok": true,
-      "count": 56
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Geopolitics & Business",
-      "ok": true,
-      "count": 41
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Commodities & Energy",
-      "ok": true,
-      "count": 65
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Global Agriculture",
-      "ok": true,
-      "count": 91
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     }
   ],
   "stories": [
