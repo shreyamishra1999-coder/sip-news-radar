@@ -1,148 +1,7 @@
 {
+  "date": "2026-09-23",
   "generated_at": "2026-09-23T04:42:59.178040+00:00",
   "story_count": 1161,
-  "source_status": [
-    {
-      "source": "India Macro",
-      "ok": true,
-      "count": 79
-    },
-    {
-      "source": "India Policy & Regulation",
-      "ok": true,
-      "count": 34
-    },
-    {
-      "source": "India Corporate Signals",
-      "ok": true,
-      "count": 29
-    },
-    {
-      "source": "Agriculture India",
-      "ok": true,
-      "count": 31
-    },
-    {
-      "source": "Agri Inputs & Technology",
-      "ok": true,
-      "count": 47
-    },
-    {
-      "source": "Food Dairy Allied",
-      "ok": true,
-      "count": 33
-    },
-    {
-      "source": "Agri Trade & Commodities",
-      "ok": true,
-      "count": 55
-    },
-    {
-      "source": "FMCG India",
-      "ok": true,
-      "count": 37
-    },
-    {
-      "source": "FMCG Channels",
-      "ok": true,
-      "count": 35
-    },
-    {
-      "source": "FMCG Economics",
-      "ok": true,
-      "count": 21
-    },
-    {
-      "source": "FMCG Players",
-      "ok": true,
-      "count": 69
-    },
-    {
-      "source": "India Pharma",
-      "ok": true,
-      "count": 51
-    },
-    {
-      "source": "Biotech & Biopharma",
-      "ok": true,
-      "count": 90
-    },
-    {
-      "source": "Pharma Regulation & Exports",
-      "ok": true,
-      "count": 16
-    },
-    {
-      "source": "Pharma Players",
-      "ok": true,
-      "count": 42
-    },
-    {
-      "source": "Consulting & Strategy",
-      "ok": true,
-      "count": 31
-    },
-    {
-      "source": "Consulting Firms",
-      "ok": true,
-      "count": 32
-    },
-    {
-      "source": "Operations India",
-      "ok": true,
-      "count": 62
-    },
-    {
-      "source": "Manufacturing Signals",
-      "ok": true,
-      "count": 40
-    },
-    {
-      "source": "Global Supply Chain",
-      "ok": true,
-      "count": 54
-    },
-    {
-      "source": "Product Strategy",
-      "ok": true,
-      "count": 24
-    },
-    {
-      "source": "Innovation & Product",
-      "ok": true,
-      "count": 31
-    },
-    {
-      "source": "Commercial Strategy",
-      "ok": true,
-      "count": 45
-    },
-    {
-      "source": "Pricing & Brands",
-      "ok": true,
-      "count": 39
-    },
-    {
-      "source": "India Global Trade",
-      "ok": true,
-      "count": 52
-    },
-    {
-      "source": "Geopolitics & Business",
-      "ok": true,
-      "count": 64
-    },
-    {
-      "source": "Commodities & Energy",
-      "ok": true,
-      "count": 82
-    },
-    {
-      "source": "Global Agriculture",
-      "ok": true,
-      "count": 44
-    }
-  ],
   "stories": [
     {
       "id": "fdfbb9cc7fe0525c",
@@ -609,7 +468,7 @@
       "summary": "RBI May Hike Repo Rate 50 Bps India Business Trade",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91czFDU3ZpalVsNS1XWW9wVTh4SG91dllDcEd5ajY0ZVpwSWV4eUN2YnlSb2dqUHA5TVpZckNROXk0REhsZXBERlhTb3kyWGtVVFZxLUIzaTNuSVc2Ny1SV1d6eThXcGxLbnZfN2lHZ2I5S2dENnc?oc=5",
       "date": "Mon, 21 Sep 2026 19:01:12 GMT",
-      "source": "India Macro",
+      "source": "FMCG Channels",
       "industry": "Current Affairs",
       "pivot": "Policy",
       "score": 60,
@@ -618,7 +477,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ce468470e5047a11",
@@ -1119,8 +978,8 @@
       "summary": "Government Eases RCMC Export Requirement India Business Trade",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXN0LWs2aHBxendCdkxQb3FFQW9wWkJXZ3gxbGtBWUZYdEJuaG9LR29pbWZHUDM0dHpFc3U5Nm1iQmxwODZNc3RkaGNoaGlJbTZrcXZBT2kzSktiTk4tLTd4MmVTeXZnajc2SUJUVlpTVk1zNXpJNEhjSnZEU3M3Nlg5UjA?oc=5",
       "date": "Fri, 18 Sep 2026 07:00:34 GMT",
-      "source": "India Policy & Regulation",
-      "industry": "Current Affairs",
+      "source": "FMCG Channels",
+      "industry": "FMCG",
       "pivot": "Trade & Exports",
       "score": 58,
       "reason": "Why ranked: export · trade · India · global/trade linkage",
@@ -1128,7 +987,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "34b4d810262a5dc9",
@@ -1255,7 +1114,7 @@
       "summary": "FMCG Giants Bet Big on India India Business Trade",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zN0laUFlud1h1cVRBZHRHM0R5MEZxMU1EUEZidHBOdXVvbmo4RU5ZVldGdWd6NC1Ia3dlU1JSVEw1dVlkM1g5RU5abU1JTW40Z3BVejdWbTBEUDRyMnMyQ2hQc19aVThtZ2stbnNYLUZ6a0Ny?oc=5",
       "date": "Fri, 18 Sep 2026 07:00:31 GMT",
-      "source": "FMCG India",
+      "source": "FMCG Channels",
       "industry": "FMCG",
       "pivot": "Trade & Exports",
       "score": 58,
@@ -1264,7 +1123,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cda3e7427469369f",
@@ -1272,7 +1131,7 @@
       "summary": "India’s pharma sector set to shift from manufacturing to global innovation leader The News Mill",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUhESFgtclB5X0dubTRVWXp2bUdsREd6SUVrMmEyQ3NiSmlmSnVNby0yTW1QR19XdWJSSDdyYTIycnI1bU1BbW9lWTZrNndLYUlUWm9GVjlHQVpGWXRYeGVIRldZY3FJQTNzc2RNSmM4cWg4Nk1ZNGtDUFA3QlpFRXEzV0lEck5ub3ZyVk1lbjVvYUowU0FYa2F5bDBHUTNTZERRN0FrWlFaa2ppTjN6NVJvMA?oc=5",
       "date": "Fri, 18 Sep 2026 13:53:13 GMT",
-      "source": "India Pharma",
+      "source": "Biotech & Biopharma",
       "industry": "Biotech & Life Sciences",
       "pivot": "Operations",
       "score": 58,
@@ -1281,7 +1140,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "15dcc892f525298d",
@@ -1306,7 +1165,7 @@
       "summary": "Russia eyes Indian pharma to narrow trade gap The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGs3TzVPMTZXMjUtaXA3WE0xYndiZGp5bnNvWVluSDJfLXlHUHZyRHlsRENvaW82akFWb0RieEktQ3FHWnJ3SU8tVmdaMklTZzlkN0c2djh1aUg1T09aTVBlckZkOTN1VEd4M2pHa2xaSXBWMkpYTm04cFJKVGZOaDF6SDBzQ3B6TW1adWdrWTBqRHFZclE?oc=5",
       "date": "Fri, 18 Sep 2026 13:39:25 GMT",
-      "source": "India Pharma",
+      "source": "Pharma Regulation & Exports",
       "industry": "Biotech & Life Sciences",
       "pivot": "Trade & Exports",
       "score": 58,
@@ -1315,7 +1174,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e6cc2ff3341580cd",
@@ -1695,9 +1554,9 @@
       "id": "7b845968ee63bc1f",
       "title": "India faces 100% tariff threat over Russian oil after US House vote - BBC",
       "summary": "India faces 100% tariff threat over Russian oil after US House vote BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FSXQtNDlOZ0VYb1dSLXp0MHZ3dkp0T1pYNlFVSWI1UWVmZUdqZllHcEFlMjJjZ3ZWSjZtblRQU3lKMUZDU0E1QUVZUzI1Um90dHdPRU85dk5DanhvSFE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5",
       "date": "Thu, 17 Sep 2026 05:33:29 GMT",
-      "source": "Geopolitics & Business",
+      "source": "Commodities & Energy",
       "industry": "Global Trade",
       "pivot": "Policy",
       "score": 58,
@@ -1706,7 +1565,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fedee72f009fac86",
@@ -1782,7 +1641,7 @@
       "summary": "Trade Data: Farm And Labour Intensive Exports Fall, Imports From China Jump 27% ETV Bharat",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUZROW44V2RER19VU2ZabUNBM2pHaHNUQzhLMWhaaDk1Yno3U05BQW9zdnkxYU5qVTdReEczNkR1MmFfdFFsTW5TUFB5UmVRM1VITkpodjhlWE5GRWpfekI4YWJJcmZsWUJWVnlGYlY4ekczNnJ3OFdJYWk4TnhPYU05NXBJck93S3lGVUFuMHVVdUdzNE1MS0V3SHA2VHI1dGxRVnA5LXRLb2wzTXQ4cXFmWWhNVGNaVG1mUTllZ00yWEZPX2F3QtIBzgFBVV95cUxOWS1sc2t0RzNrWEtGeTZpYUtkMjFMeHcySm02ak5jRjBON3RMUExKR0dOUUNyVV9IckZYZnBHMWtydWZ5RlhKYXlFLUVHZEgtMWdOV2FVYVZrUS1wQXZ5MFlpMERWNElVRzdRNW5XX09raktxc2sxMDJJbnhDZGk2T1JzQV8tOFplRERFQkw4a1hhUm9ubDllRk1scS1iVEg3S0J2Ylo4TlYxdGlRZmtveGdfWkNyOC0zOXpYeU9jSHk4WFNDMUc4ZmdwdEx5dw?oc=5",
       "date": "Wed, 16 Sep 2026 12:12:26 GMT",
-      "source": "Agri Trade & Commodities",
+      "source": "India Global Trade",
       "industry": "Global Trade",
       "pivot": "Trade & Exports",
       "score": 57,
@@ -1791,7 +1650,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a2f12a9b45293706",
@@ -2037,7 +1896,7 @@
       "summary": "India's Agrochemical Industry Body Seeks Rs 5,000-7,000 Crore Government Scheme to Cut China Dependence global-agriculture.com",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOVdXanhjb3NrTkdMSUVqZUdKQmN5cGppVUVBQlFqVkZEUHZuckF0ZnNnQTNEM2VpMk9Ydk91TnM0SHoyTmJwWUtJMlpLZGs4dXBUNmRBalVRYzZuVDBYck5wWjBCTnUwaFZocHJmWUQ1SVhXcGotbkl3Q2JmcGFUbEIwZm82VE94NVpIenFZWkY2Z0VVXzN5QmM5cVBIT1B5d2E2OU8ySjNUbk9xV2paWVg4a0c3cjRSTGNPT0Mzc0V3RzhLdHJWQUlSTUNfVGFFNzdsTWZYbUR0TU9pLVZLVGdFenplb28?oc=5",
       "date": "Mon, 21 Sep 2026 15:48:31 GMT",
-      "source": "India Policy & Regulation",
+      "source": "Agri Inputs & Technology",
       "industry": "Agriculture & Allied",
       "pivot": "Policy",
       "score": 55,
@@ -2046,7 +1905,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d623c6bb60daea9e",
@@ -2545,9 +2404,9 @@
       "id": "80bd3e6b0f2e7e22",
       "title": "China+1 is not Otsuka India’s strategy, says CEO Parag Swadia - ET Manufacturing",
       "summary": "China+1 is not Otsuka India’s strategy, says CEO Parag Swadia ET Manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeURtYUJPLXJlR1VOYjVKZzJJM2RQV1hsVk96cXpoTkF6N2EyazBHeHNfd1BtcVVhczRaN2laX2xHTkdZckRDdE1RVkFhZzJqN0p4Y1JxQkZiNkRnaEg5ZFdPbmp2aDNVWGtsTkR2TUNIMzhTbmp0bm5ySkZuNl9ibGdpRzZfbWgwd0dGNW9rWHRiV05DWmZqdDRVU25CSnNHOTIzMGpqMUxtYkZkZklPWjJkMWhjZy14YlJFTkhlVnNESmFtRGtQcndJdmxNeV9yOFVrQ2d5YlYxQdIB2gFBVV95cUxPeURtYUJPLXJlR1VOYjVKZzJJM2RQV1hsVk96cXpoTkF6N2EyazBHeHNfd1BtcVVhczRaN2laX2xHTkdZckRDdE1RVkFhZzJqN0p4Y1JxQkZiNkRnaEg5ZFdPbmp2aDNVWGtsTkR2TUNIMzhTbmp0bm5ySkZuNl9ibGdpRzZfbWgwd0dGNW9rWHRiV05DWmZqdDRVU25CSnNHOTIzMGpqMUxtYkZkZklPWjJkMWhjZy14YlJFTkhlVnNESmFtRGtQcndJdmxNeV9yOFVrQ2d5YlYxQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONWVVSTNWOF9fd3VReG9iNy1kTm1IUnkwRmdRc1lZREx5OGFFSzRSZTA1YVhLeDVVMW9aNkJ2TjJQTUdJMXhIY1d3bm5WR0F0eVA0VlVvWnl6elB4UWJoYXJaSFdjeFMzUmxqdWdPUjQ0LTlqQWFxUU9WUjFLakRTbVVYYTFMQllOejdvR0lJbjl3WFBXZlZaMkRuR2U1eDIwel9qeWJFXzNIbXpZS19ndS1hVFppTHRjUWVTZEptXzVvTkVEUTZoZENoTXlzNlBSXzlEV9IB2gFBVV95cUxPeURtYUJPLXJlR1VOYjVKZzJJM2RQV1hsVk96cXpoTkF6N2EyazBHeHNfd1BtcVVhczRaN2laX2xHTkdZckRDdE1RVkFhZzJqN0p4Y1JxQkZiNkRnaEg5ZFdPbmp2aDNVWGtsTkR2TUNIMzhTbmp0bm5ySkZuNl9ibGdpRzZfbWgwd0dGNW9rWHRiV05DWmZqdDRVU25CSnNHOTIzMGpqMUxtYkZkZklPWjJkMWhjZy14YlJFTkhlVnNESmFtRGtQcndJdmxNeV9yOFVrQ2d5YlYxQQ?oc=5",
       "date": "Mon, 21 Sep 2026 07:22:49 GMT",
-      "source": "Operations India",
+      "source": "Manufacturing Signals",
       "industry": "Operations & Supply Chain",
       "pivot": "Strategy",
       "score": 55,
@@ -2556,7 +2415,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cef583f81ce24308",
@@ -2951,10 +2810,10 @@
     },
     {
       "id": "f605288ca82db20c",
-      "title": "Fed hike, high crude could push RBI towards tighter policy: Experts - ANI News",
-      "summary": "Fed hike, high crude could push RBI towards tighter policy: Experts ANI News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUFKZGNXblVmdERyX0xxc3IzVGc3d3VsbG04dDJKMmIyNV8xRktWYThheTNoSi12ZXduQmM5YS1qVVB4WjFiQ1NpVnhoeklENmdSbWF2YW1DOEs4MWpXOXlCS3ZrZ1dZNF9OQnNBbXVjZzE5Z2s2UlhjNXRPa2pycTN2N0xqSnBta1NjQk1lNEFwNzFubVRiY0tOb3hOWG5qUldGbFBRaHhKdC0yajdQaUQ0VnhseWs?oc=5",
-      "date": "Thu, 17 Sep 2026 04:21:00 GMT",
+      "title": "Fed hike, high crude could push RBI towards tighter policy: Experts - BusinessLine",
+      "summary": "Fed hike, high crude could push RBI towards tighter policy: Experts BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1VodlBZSDR3azctQzRPUlNPci11MG5FdlduNmJLZUN2M2tRWnhDV1F3MDVUMnRPNUs4YkxlTmxQSmdEVUp5LTQzVVBRZXhwcXY4V0NBYlFDX2Fnb0hEeXFFTU5LYW1LQkRDbDZPZXFuUEprNVFMNU1rdERhYjhTLV9ScXNFR29jN0N2TEs1MWxxakRkajNoZ3VDaDd4R18xQTkxb204MXdlbU0yaDJiRkFLdDUyQkZKVDNSX3NHSVJZQ25TQk9oWlRxelptbENkRVpEMjNBSdIB3gFBVV95cUxOb0hSblp1ejlyYjNteEhTRmlCbTBHeklHR09uZkZEaWNvcWFkNTR0UnhtNzlrbkR5UGRYOS1TMEVzQ1RYcmFSdmtXekhPcW80NHprSkdFN09fNUdVN09sOFk3eVVZSUVnZlJoQ0E1ckJPcDZ4MUJBTWlUNmd0M3pNVW40d19oTWQxcUJTM2N2WFZKMHFGNEdkcEJWQTJwdTJNd3VEbC00RG96S0JSazQ5VVdvN1k3UVZEb21MeFNRdlJNMTdyQUgwTlJ6ZGIxYWc2dEVudWRrb0JWeUEtT1E?oc=5",
+      "date": "Thu, 17 Sep 2026 04:36:52 GMT",
       "source": "India Macro",
       "industry": "Current Affairs",
       "pivot": "Policy",
@@ -2964,7 +2823,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "902d4e45b4bfa456",
@@ -3108,7 +2967,7 @@
       "summary": "Rising margins, volumes, new markets drive India's petroleum exports higher Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXNJdGVCM2dhNTNlV2NpUmh1M1RWc3VoUU84MF9nQ0NlTjBzY01NQXp1eHB2d3djVzFRTFRiWVpfTkFnSFBjNVFmRkZXUFo0WTR0ZWhVNHZiUko4bUZqd29NUmtyWEM0Q0RDaDh4Ym5fUVU4NVB1MGhJckV0Y3JFZTFrdEtjT0EtY2tVQk11QlVkYk1hUEk0UFZUdENVRzEwOUhPTk84dlBzUmc3cGZZT0tKaTFiZGRLLUNTWW9yOHNSVWNMcXBpT2xFcm5uaXVlMTVHb0x1MNIB3AFBVV95cUxPR1VvelJTRU15VzFoc1RiMHZwWGcwWUhZcDFsbHMta25jcFNyeFlJOUxkS0p0VmZUcWVtM3dDMWRMVUMtcDZhMUhhRVJEckNPbER5aHNIWlZlWjllYVJFSWdTaFBvSkxoTkxWZUVUVV9GZE5EZEhOMy1CZDczMV8yMllwYTR3MlJPU3hjN2tub0wtV2tLX0xFd0w1M1lWYUhTVWZhLWtTSXh0WDhoZDZmUS1NblJMN2Q4MUhESWZuWmw3OUlSY1dXc0NXSWc1OWxSYW80V3ljYnhfMWYt?oc=5",
       "date": "Thu, 17 Sep 2026 15:11:08 GMT",
-      "source": "India Macro",
+      "source": "Agri Trade & Commodities",
       "industry": "Operations & Supply Chain",
       "pivot": "Trade & Exports",
       "score": 53,
@@ -3117,7 +2976,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "76bc87a3795bf112",
@@ -3159,7 +3018,7 @@
       "summary": "Shipping Industry - Ports In India Including The Largest Port IBEF",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5obWtCSXZBcWQ3YTg4amVsVkxiLUhSaHZNcThHRFd5VGRHNGRJbEhlQWdKOXdPY3hwYmFRcFVrVUMxUlRpZ1BxcTh3LXNYT3pCVXJCUEtpNHpqQlNvOUhn?oc=5",
       "date": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "source": "India Policy & Regulation",
+      "source": "Global Supply Chain",
       "industry": "Operations & Supply Chain",
       "pivot": "Trade & Exports",
       "score": 53,
@@ -3168,7 +3027,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1f83c9c5089d6888",
@@ -3414,7 +3273,7 @@
       "summary": "India’s Pharma Exports To Reach US$ 50 Bn By ’30 fintechbiznews.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzZ6cnZaS0RaWlV5Uk9EZ2tQMGEwNi1GVDUzYWxjLXozbmVuZFRyQkE1YVRvMjdVYzk2WGhoR3RZZG1RTG9wdWF6OGpvV21Ua0M4a0hfT3gyelY3dUxjakl2a3ZmRTUzaWtYb1o5TmQwQV9vTUhOdmpFSUlOeGdSbndYWVdxWkU0R1lBZXFVQ0NQdnBaN3NDYl92MEJhdmUwOWZLR2VLWlV2NVd1UnJFUUZYTQ?oc=5",
       "date": "Fri, 18 Sep 2026 18:54:24 GMT",
-      "source": "India Pharma",
+      "source": "India Global Trade",
       "industry": "Biotech & Life Sciences",
       "pivot": "Trade & Exports",
       "score": 53,
@@ -3423,7 +3282,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4126366878ba43d2",
@@ -3448,7 +3307,7 @@
       "summary": "Panel Discussion: The biopharma pivot: Can India move from manufacturing medicines to inventing them?",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZGtESTdlVFJlajJIR244NkRpWDlPOWNIcjl4aTRaUzBhOFhzQUpXeE45UlByek9qeEx0OEUtc3pfLW81RjE3M05HdFBteHR3OFNNYmRGQWRzTWp5S0FuWnBaVWxIdmxRMzIxVnJXRjQ4TVg3eXRWOGxVXzUxTmVJai1OdFItcW5HSjd4bU5vajdTQy1kMTZlMUlNa2tNMXFjMm9YWk1EaU05dE8xS0pIbVNJMHhTa1FCOHFJNEFLNEhkM01WWUgwSWZvZDJNZ0lwOExCTWU4X1ExU21U?oc=5",
       "date": "Fri, 18 Sep 2026 07:17:01 GMT",
-      "source": "India Pharma",
+      "source": "Biotech & Biopharma",
       "industry": "Biotech & Life Sciences",
       "pivot": "Operations",
       "score": 53,
@@ -3457,7 +3316,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f2b7470cb729bd4b",
@@ -3465,7 +3324,7 @@
       "summary": "India’s biotech start-ups need patient capital to drive novel drug innovation, industry leaders say BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZkpKQnd0SV9sMTJjZTlIT1pIU3BSS0RNUUo0U0pZUUVRZ0l4dzZYc0M4MUsweUswb3NHN2NDOUhjRC1SaTRDeFVMQnRETGpBaVBFR29iem1NaFpBV3Iwb21wYnd1Vk1XSDJWNVVqTG5DaEZqT3AwWHVjNHhXLUpSY2U2a0NBbkdYcDZEMkpUQ0VIbWVqcUdoY25GVm1MTTNrVlF4S2ZQRFl6bzlJUVZmN0xEa3IyT0VSMFB4UUxzQWhSTjBNdVpwVFhOTWQzbnFpV2RfbjZCdnZfUEpjZ1R3NkNBTnotMTZWX0t4U3RQLU9HTmVXcDB30gH-AUFVX3lxTFBFRGliWWxBVEhSNW1zU1k4WjJvbkxQVVR2anZtMVFDazUtaWJWVDI0TjBtQld1T2kwUUpBUlhtUkVGVjNtQV91RDl0UGlkeGltZHgwSG52NFVYMndtdXhjMzJzbDZOSDJHUGZNNmRBTExMbkQzRjgxcm1MVFR6b1pPbVl5RTE1NUE3bVJfS0VlNkV4ZWwwcnhQS3dsRjY2eWxqOG5mMTI1LWVJSkVkTzJpOURYckJyQkdydmRUbXFzVVI1MGpxOGxhT2NDN1V5ZU1qQzJzclJSWHl4YnF5MG50eS00M2Z0cVppMV94LWxqX1AyOWljWDRmTzhYaUV3?oc=5",
       "date": "Sun, 20 Sep 2026 16:03:20 GMT",
-      "source": "India Pharma",
+      "source": "Biotech & Biopharma",
       "industry": "Biotech & Life Sciences",
       "pivot": "Product",
       "score": 53,
@@ -3474,7 +3333,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "66edeb75674a96e9",
@@ -4228,7 +4087,7 @@
       "id": "4c1c5bc03a1e8f85",
       "title": "India's next consumption phase to hinge on wage growth: Sitharaman - Business Standard",
       "summary": "India's next consumption phase to hinge on wage growth: Sitharaman Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFEyc0k5WUR3V1BJRHF0MHlHcWVPVld2T1FCSFljQ0R2MzJVWFktMGZMNXJqMV9YdENHc01jMkxna3d1OUJDbk5ab18xUnFDWnJfRHQxeWpGWmZvOEE5UXA0ZENYQmx3MHlHV3EySTdlSGxkMkFnUTNVVkc1MmtsQmRVdmlmNU9KWVc2eG0tRmR5VVBnTUxxcUhSX3pMVmVPS0VMWFpyQ0R2S2ZjQzNkV3ZMLVhEQdIBuwFBVV95cUxNbEJfTzF5RkdvLU11Tlc1R3dYWEhIWFB6OElMLTB0cklVOGNOOVhvdV9uOEREMVVvS0J1ZHYyRFlGOW5EVG9pUkVJQ2ZuTkhqcHlTd0RpMm1JWlZCWk52LUZDNzQydHRuenFCbFVUZmFZc3JINDN6MGRCUGRlNWxob19Ua0IyMnJwVXJBN0pvWThKdXI2OGMtWkRnamZqWE5idkRoV0R2dlZYRmxGN2FTeVRqNjdCTU82WDNZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1VweG9ybzVObDhuNHZ3cTVLM3VkZjhUOGlUNEJhTHFIVmdzVlNEaHlzeUFxS0RBcW1vV19LWEZEN3Fta3NaRktydGhzNGdiRkdObGIwQUlZdTlwYmFUVDllMmM1QkpQWnF3dERKekNURTBES0ZGZGI0SlNweEZENnQ1V00wTGJlU3pxTWRoNlVKTzREQzNDQ2lyZUdTMER1ZnFhUTIxSkhiQXRCQnFIckRCaEhDbm81eFc0UDB6SEo5WDUzeEHSAcYBQVVfeXFMT0dVcHhvcm81Tmw4bjR2d3E1SzN1ZGY4VDhpVDRCYUxxSFZnc1ZTRGh5c3lBcUtEQXFtb1dfS1hGRDdxbWtzWkZLcnRoczRnYkZHTmxiMEFJWXU5cGJhVFQ5ZTJjNUJKUFpxd3RESnpDVEUwREtGRmRiNEpTcHhGRDZ0NVdNMExiZVN6cU1kaDZVSk80REMzQ0NpcmVHUzBEdWZxYVEyMUpIYkF0QkJxSHJEQmhIQ25vNXhXNFAwekhKOVg1M3hB?oc=5",
       "date": "Tue, 22 Sep 2026 09:02:22 GMT",
       "source": "India Macro",
       "industry": "Current Affairs",
@@ -4239,7 +4098,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "447c80eb00ed8790",
@@ -5386,7 +5245,7 @@
       "summary": "Moody's raises India's fiscal 2027 GDP growth forecast to 7% on Middle East resilience, but risks remain Livemint",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMWEzM25yRGMtWEppMFBNRWZfU1lMcTEybkQxcVpuRDhuS1pKelRNNk1DZUlsNklfRzh2ZktJbWFDNlNGV19Fc0paSDBIeUNPM1FVeU9fT2ZPMHY2QmkxMFZ2bllOQnlkc1loRmNGSllSeS1pNUxMdHotdlFiTDVIVU9FaWVlN2taNEFEWlBaY09xXzByVDN0TVZyX3JfRlU0NDZQeGtkeU56c1FGeDdBWnRJQWxnZjAtckRfcDJFZWRMZ1kwcVZLT3hPZ2l2eHhyQlp2TXRYTGIzZFpkRnJucUlVWnRILWfSAewBQVVfeXFMTlZNc2RfdE9NNEpsNmtvdVBzblp2YnUteUFHeVZjdDdKWHNWNDRET2NiNVJoaURzaGVlNWJ0ZkotNllZWVNJUzlNcHR0c0tMWmxNZzBuem9XNFFURm5STGt6Q2h2c29Kc1cxZXN0MDd3QVFOYXpiYzhfSmh0bGJyS1N4SUp3SHl3QlVOdTFXWWtlV3YwT2RkeXFXMWVBSHZiOVc3RUt3U05udktVVkdqSEJwUlBjRWRnXzFKQ2xiVk5tc05BMjRiV0JpYW1BeGloRnJ4VkdxcmZOQzh1Zm1PVk90enpPVE43OTJmLTY?oc=5",
       "date": "Fri, 18 Sep 2026 05:43:16 GMT",
-      "source": "India Macro",
+      "source": "Agriculture India",
       "industry": "Current Affairs",
       "pivot": "Strategy",
       "score": 48,
@@ -5395,7 +5254,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "88a3617606cfd78e",
@@ -5520,8 +5379,8 @@
       "id": "a68ac9495859d5b3",
       "title": "In this episode of Bond Street, Rajeev Radhakrishnan, CFA CIO- Fixed Income - SBI Funds Management Pvt Ltd, discusses the changing interest rate environment and what it could mean for India’s bond market. The conversation covers RBI’s approach to liqui - LinkedIn",
       "summary": "In this episode of Bond Street, Rajeev Radhakrishnan, CFA CIO- Fixed Income - SBI Funds Management Pvt Ltd, discusses the changing interest rate environment and what it could mean for India’s bond market. The conversation covers RBI’s approach to liqui LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRXY4dUVReFZsU0ttZXdKZ0xMdEVuQldoQ3RiaFo4RjZISmJqazlIc3dGN3l5bVJzbHRvUGRZeHNiUTF5SUhSVkZyaVIwWVlEbGRxSzJWN2dzQ2hScHB4WG5jaHozeENJQjgyaXFfTm16eXNrcl9JSkhUUGVpbUZ5TlJHOFNOVnFaX3ZFYVBfN3dWX0o4d3V3NHQ1dFdqa3h4bkFodGJBVjQ4QXcxSURDNUd5bEtyUVJHUExJbURYQkwtWFptUGhDRA?oc=5",
-      "date": "Fri, 18 Sep 2026 18:07:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXhBMnBoSUtpblVaZno1QURrcDRsNWlPcS1lODZMSHYyYUhLaGZoWkdhXzc0dWZ3Y1R1SEZLd0Utem9YZDdSM01lVEs0VjFGS1RWcTVrUFl5cmRkQUdQTUNrWlUwemsteUMyUmFOc3NFZ3JEa0Z1bnJETnc5bE1taVRzMERjSjVzYWJubVl6OVBLenlYRjVEVVZ5UU94Tl9VUWFBeDJ3emZSX1psaWJHNFVBeEtXbkFFVUhUa2ZQeUJEM2po?oc=5",
+      "date": "Fri, 18 Sep 2026 17:00:13 GMT",
       "source": "India Macro",
       "industry": "Current Affairs",
       "pivot": "Policy",
@@ -5531,7 +5390,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "89cd60f280b42be5",
@@ -5690,9 +5549,9 @@
       "id": "cb233f7e251fbfa3",
       "title": "ACFI pitches Rs. 7,500 crore scheme to boost crop protection industry - Indian Chemical News",
       "summary": "7,500 crore scheme to boost crop protection industry Indian Chemical News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRkZDNjVRc1FucHY3UEVFNlEtZVE1THZFWDdNazNvT1llTEd2Nk9EYnNHRHFCNWhYdU1rdHhmaEZMOU5ZUWd2cVFhR01sTzJ3ZnhPOFIwM0NVYTdveTV5SVk0Z2xnb3dvNjdiSWk5MzNmWFhsSE1iUUZwRHlyYThzSUFJLXZxLTB3cndWVWZMUE93YzczRnVmaHJMZkFZNUJuSG5Id0MwVFZ3eHRzbnVNWjVfUXFob01udnowMdIBvAFBVV95cUxNRkZDNjVRc1FucHY3UEVFNlEtZVE1THZFWDdNazNvT1llTEd2Nk9EYnNHRHFCNWhYdU1rdHhmaEZMOU5ZUWd2cVFhR01sTzJ3ZnhPOFIwM0NVYTdveTV5SVk0Z2xnb3dvNjdiSWk5MzNmWFhsSE1iUUZwRHlyYThzSUFJLXZxLTB3cndWVWZMUE93YzczRnVmaHJMZkFZNUJuSG5Id0MwVFZ3eHRzbnVNWjVfUXFob01udnowMQ?oc=5",
-      "date": "Sun, 20 Sep 2026 13:00:00 GMT",
-      "source": "India Policy & Regulation",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVM1X1huYXVQeU5QcVdZRElfSWhVYUJxRGdnajE5TDJMc2RXbUxyS1VwYXlHLUFSZTRqWm45M2FDWXlWM19XMHMyN3lLc29lTDF5c0tpNi1zb09TM0ttc3B6TXh0RlN3V1RVTHhiY19HbzMteEVkV0hrNktQSF9iQ25tdW40WmQ0TTR6cVpjbFNqZG1DN3Z2MmloZy15dFd6VHJ5U0tiT2lnQlBKdDJpalhlc3Z0Z9IBvAFBVV95cUxNRkZDNjVRc1FucHY3UEVFNlEtZVE1THZFWDdNazNvT1llTEd2Nk9EYnNHRHFCNWhYdU1rdHhmaEZMOU5ZUWd2cVFhR01sTzJ3ZnhPOFIwM0NVYTdveTV5SVk0Z2xnb3dvNjdiSWk5MzNmWFhsSE1iUUZwRHlyYThzSUFJLXZxLTB3cndWVWZMUE93YzczRnVmaHJMZkFZNUJuSG5Id0MwVFZ3eHRzbnVNWjVfUXFob01udnowMQ?oc=5",
+      "date": "Mon, 21 Sep 2026 04:05:20 GMT",
+      "source": "Agri Inputs & Technology",
       "industry": "Agriculture & Allied",
       "pivot": "Strategy",
       "score": 48,
@@ -5701,7 +5560,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ff4ea388105ee53e",
@@ -5947,7 +5806,7 @@
       "summary": "Retail India News: KICL Enters FMCG Market with CHUSIP Indian Retailer",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRTVxTTEtRUFJd1RXUkxtVXpxOVNhcWxkdWJRZkd4a3VpVnJSbmg3TjhCcWdiaDJsZUtxUXRJZTZib0c4c21jQUQtQWF5VmdqdndHOEpPeGQ2YVluTlhmczVfV1FrUzlNMXZVUTZYWDhZemhMWVMxRjdadnpzckxaSVI1T01HN2VCMERvWA?oc=5",
       "date": "Sat, 19 Sep 2026 09:13:29 GMT",
-      "source": "FMCG India",
+      "source": "Manufacturing Signals",
       "industry": "FMCG",
       "pivot": "Strategy",
       "score": 48,
@@ -5956,7 +5815,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0b3032c05f705532",
@@ -6066,7 +5925,7 @@
       "summary": "Merck expands Jigani facility to boost life science manufacturing in India Express Pharma",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaThUTkNjVEduaHFjVmNRNlFGYVhuS2RaV2toZEdpX01JcVFaZjU1eDVyRGFTUkV4Y1VoZDRyRnVtOC1Vd25vcU5lWEt6OUhUNFN4YkhZUFVHRy1hUGwzZ3JHb1ZHbGtlTWh6OU5INFJ5d1FVTVBtenBCd1pUbGhBT01IQ1BnbGw5ajJmUlUwclJma2ttRFJ1RjZYQjg2eFkyX0lobF9qOC1iUzk5?oc=5",
       "date": "Fri, 18 Sep 2026 09:57:03 GMT",
-      "source": "India Pharma",
+      "source": "Biotech & Biopharma",
       "industry": "Biotech & Life Sciences",
       "pivot": "Operations",
       "score": 48,
@@ -6075,7 +5934,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2e8906c59369cab0",
@@ -6780,7 +6639,7 @@
       "summary": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan Trade Brains",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT09hN3hSdUU4Sk5pRWFoSDJHLTF6NlMzaXhTb1NuaTVTQXRLUGNjZTBISFd4VGktOEpSM1k5aUx0M005V2VEQnQ5b0FwR21OMHFtU2pROW5XSmIzUmw1SExjZ0F4Mmgxc1d0dWFhQ0RzYkJWQlNESnFnN01nTDNuaktGVVBuNzg2dWNvb2ZhclpyZFJDSzg4VGdjTFN5b2JjdHpyQ1RIcDM3NndjXzdRRlM1aDc2TG5Ka2czZUQySm1NZm4y?oc=5",
       "date": "Wed, 16 Sep 2026 10:20:12 GMT",
-      "source": "India Pharma",
+      "source": "Pharma Players",
       "industry": "Biotech & Life Sciences",
       "pivot": "Policy",
       "score": 47,
@@ -6789,7 +6648,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "33d5532d221bf588",
@@ -6912,10 +6771,10 @@
     },
     {
       "id": "a9d80b5454d06ec0",
-      "title": "Trump-Xi summit: Tariffs, trade imbalance and rare earths loom over US-China talks - The Economic Times",
-      "summary": "Trump-Xi summit: Tariffs, trade imbalance and rare earths loom over US-China talks The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOd2FFZG1tcy1UNTFCMXNnSUtUaGNjSmtyQktHZjNfRkhFZ0k5NEZtc0lmbktqZHB1WHVWOWp5T05oQTJHYVdON2NSQTlBMG5oRnBUUHVoZV9WeDRFWjUxUllpVmd6RkdJQ3J4Z0N5RHcxUVpqOEZFUDI4Uy15MTk5UEtCbktKN2poVUJPZjhMUWNTbzBINkFvaTZIVm9VQ0JSeWNFSGtkSWg1QVBvVEhFS1pBM3ZWT3pSQmNkMVFWX1otQ1dRRHVyRWtkMmNzZi1NRjhLSmZ1S2M1STBnM0ZZSlBaR2JDZVRNNi1QcnN0Wm04VHZqT0FsS182b9IBgAJBVV95cUxQSjNhQUpMNHFXUmExNlFIb0hmWk1EdW1YRWNVa1h3dTZBWTVwVFp0dUVJUXBkYVlfeDdROGFXTC0tUnh0VTFaMlhUTE1mNGtPa1FJRXVJWmpDWG9uaXdYVG1nM25UWVhCU2dMSFVtbWRSUGl6ejdWN3hpUzBWd24yWTlqUm1lOUI2eXBSa3IxZ0pZQ0ZFQXd4NTBWX0JzSkJ4MHBEVDBSWTdWbC1VSlFBc1JTMUJVbG1kVmNsOWxNWWJXTzVhWWRVOW12eUFucmRUN1V5RGF3YjRBTG10cW1sQWJhWGs1UGlwalBWWlo3VEp6bnhqV1JsR2p6SkY4Q2Ns?oc=5",
-      "date": "Thu, 17 Sep 2026 03:03:50 GMT",
+      "title": "Trump-Xi summit: Tariffs, trade imbalance and rare earths loom over US-China talks - inkl",
+      "summary": "Trump-Xi summit: Tariffs, trade imbalance and rare earths loom over US-China talks inkl",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMkZyUHhraWZLNnI4RlZvN0dsa2FRcHlmcE0yX1YwbjhmUXRLNjVkVDJNWk1NdS1ZUVJGRWFZRFM5VWNBYXRzY21ENG4zLXZ6ejBxb2ZMaFY3VjZzZGdXRzlsRmdqOEt3bmxVYTlnLXVoeGRfNmlBYlUwTGRWMGlyUjYzdHpuOXVNdU5MeFdab2hGSmRDM2RhaHFKcW1WRnBvS21Ya1dfTWQ2QQ?oc=5",
+      "date": "Thu, 17 Sep 2026 03:15:56 GMT",
       "source": "Geopolitics & Business",
       "industry": "Global Trade",
       "pivot": "Policy",
@@ -6925,7 +6784,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "25145d39590b04b2",
@@ -7001,7 +6860,7 @@
       "summary": "The New Era of Indian Agriculture and Allied Sectors PIB",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
       "date": "Wed, 23 Sep 2026 01:17:15 GMT",
-      "source": "India Policy & Regulation",
+      "source": "Agriculture India",
       "industry": "Agriculture & Allied",
       "pivot": "Strategy",
       "score": 45,
@@ -7010,7 +6869,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ee966b889badfd0a",
@@ -7103,7 +6962,7 @@
       "summary": "Top 14 Pharma Stocks To Buy In India September 2026 Samco",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmxaNUxpT2wtdzdBOEMwZ18tbzhmM3NVOXN1RXlaTy1wR1N2SmZRb0RKSlZPSUpvRnhxaTlHQnBpYXV5X2RhNHNlYnEtYjctblphSkpUbWJHRDRoRWZwY3ZXMmMwRlBYZWR2TFhMcUhHU0lOd19VVmY4a0pxYUF2djNyOWp0TE9Rc0E?oc=5",
       "date": "Mon, 21 Sep 2026 06:50:56 GMT",
-      "source": "India Corporate Signals",
+      "source": "Pharma Players",
       "industry": "Biotech & Life Sciences",
       "pivot": "Strategy",
       "score": 45,
@@ -7112,7 +6971,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5d61f95035e36f00",
@@ -7409,7 +7268,7 @@
       "summary": "India Inc’s price dilemma financialexpress.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWENZcDl4NE9XcTVJaFJJVDlyMTAwdVBzQ3RnSUpMUTBVMTMwb1FGZHVFWDhIamw4eFdtUGRwTVBHMUhPclpGbzRVLUtPNjZMTUtpOXJBUE5vZ3AwSFc4bXhIZUtualBHVjhWaUszanhPUW1ZOXV4X3dEcHNTd3PSAYYBQVVfeXFMTTdXaFdrTF9lZ01HbFZYRk44RVFKOU1SM3hyVlNybklBZWJ2OGF3ZGxJQ19xZDRPYlI0dHRLZFpvMU1OVTIwc2hHSWpoT1dyS0k4VGlFcjVRaXRsOXJuUjdoLXg4LUtJRFg1TjlWTDhGRmxUMW9jRVJZSkJxWFRPaW5Pcm4zcWc?oc=5",
       "date": "Tue, 22 Sep 2026 18:45:09 GMT",
-      "source": "FMCG India",
+      "source": "FMCG Economics",
       "industry": "Agriculture & Allied",
       "pivot": "Strategy",
       "score": 45,
@@ -7418,7 +7277,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ee9bdd93b0da0957",
@@ -7545,7 +7404,7 @@
       "summary": "India’s Needs For Dedicated Medical Devices Act: One Regulatory Framework For Challenges bwhealthcareworld.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTc4VVBqU3NzUWNNaFNtQzhFMjhIeWxHMTl5VlpPMi1TNjg3THNKdGZhbHJCY0VobWF3bmN5anBLZy1pNVdMYmw4UWFTYS1qNHBYYlBJb0RDbFdLcEZuME1BWUNzN29oaHJyaDI1aXlkWVlnVEs4Y0lrb2ZmWkZsVHRXckxmRGV0U3g2d2hnN2cyc0ZpQnJ1ME8xaFFYaWRmUmo5NUlRODRmRDM2ajR2WFc5UTVMdEZDNzJHS3Q5MnoyWXp4cTEtZ015bi01TjlPQ1E?oc=5",
       "date": "Tue, 22 Sep 2026 04:16:03 GMT",
-      "source": "India Pharma",
+      "source": "Pharma Regulation & Exports",
       "industry": "Biotech & Life Sciences",
       "pivot": "Strategy",
       "score": 45,
@@ -7554,7 +7413,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "92e5744afc26f423",
@@ -8582,7 +8441,7 @@
       "summary": "Top 8 High Growth Pharma Stocks With CDMO Exposure to Keep an Eye On Trade Brains",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUV9XY1hyOFdGaF9ZUEtFZXJCRzZDaWZaeDRKUW5qSXV5aDVNRVBQdDl3NHpici1CbzhieWUzMHNzWFpfNm8xbTFUdUhDak41clREdEdRaE1QeE9VUmZuT0RqLUI5YkxqeFVkRjdQZzB5ZS1ELVFWeU1aOEpPaVR4UDg1WllzWExad0FIWWdaSnZZdWctYVpMTVd3dDRhd0VKV1l3VU9zRWlvTUlZZng4eEdrbWZYZw?oc=5",
       "date": "Mon, 14 Sep 2026 12:30:37 GMT",
-      "source": "India Pharma",
+      "source": "Pharma Regulation & Exports",
       "industry": "Biotech & Life Sciences",
       "pivot": "Trade & Exports",
       "score": 44,
@@ -8591,7 +8450,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a523c69fa9a0bd3e",
@@ -8599,7 +8458,7 @@
       "summary": "Pharma stocks zoom: Laurus Labs, Aurobindo hit new highs in trade Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV3VKcHJBYjdGRnJrYUIwTUVMLThGd1d0SHpHa25ROWJpSlZnZVA4M2JablZGXzJmYmtmM20tTkxjcWNYSklzWjI2T3hXNDVIcHNnMlZTenRDR3oxNklJT3BmZEQ3elZ1UmhQUTlzb2dLWmRwQkVzOExWaFFXZ3pNT184VkltZ2ljODRiUkJoaUtDQ3diRXFSc04tOVdRNzBIWGkyZF94MlRBb2dtaGtMejRyaG5jaGFyTlhCbG83LXpiVHdvVDFXSWt30gHPAUFVX3lxTFBXbjNTWlp0Tm9yWHZEZjJmLTVtM1BxOFc5aGM3S1FYbGdVbDhTcmhwNmJ5eWVfeElua1IxWllFYmxTZFlDa2tGQzUycjBDeHBoX1poZF9vX0JSN3BwVERLWlEyTkVBSFNIN1MwcXVrNTAwSk1aVHVEa01VYUJRU1pmTlljODNEai1xYzZiWmRQVXBWcEppLU40cWM5X1c3SXpoR3lfdEltNk0zVWNfY3RDb05FcmdkWHRTZjVUMXVPclpvVklXVmI5SVI3UXdScw?oc=5",
       "date": "Mon, 21 Sep 2026 06:40:19 GMT",
-      "source": "Pharma Regulation & Exports",
+      "source": "Pharma Players",
       "industry": "Biotech & Life Sciences",
       "pivot": "Trade & Exports",
       "score": 44,
@@ -8608,7 +8467,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b58ab01bd6014318",
@@ -8752,7 +8611,7 @@
       "summary": "Adperma bets on ₹6,000 crore Haldia plant to cut phenol, acetone imports ET Manufacturing",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYk43LWtCV01fSkJSQXREOUE0ZUQtc21JX1hSNDBGdlYxbUdUX29mVVR4RVdBVHh1VzFaNWZ0ckVERzBBZ09peEVxaU1mZkg0VXAtOHlTck92UkYtdncyZjE3b0VoZm5GR3hLU0w2cHBxMGhFUElXVEFuajZxdTdTOE9CeXZmQ1BOelhhZ05RUnc3THZ6RXo2ckNVWEdNM2FCdm9ma2c1NmNtNklUZTd3dzF4ZVJrbjdyODlmZDV3c2hZS0VObDM5eTRQUHJNSjVRU0tMQVc4S1h4MF9GTVhOSEI3b9IB4wFBVV95cUxOYk43LWtCV01fSkJSQXREOUE0ZUQtc21JX1hSNDBGdlYxbUdUX29mVVR4RVdBVHh1VzFaNWZ0ckVERzBBZ09peEVxaU1mZkg0VXAtOHlTck92UkYtdncyZjE3b0VoZm5GR3hLU0w2cHBxMGhFUElXVEFuajZxdTdTOE9CeXZmQ1BOelhhZ05RUnc3THZ6RXo2ckNVWEdNM2FCdm9ma2c1NmNtNklUZTd3dzF4ZVJrbjdyODlmZDV3c2hZS0VObDM5eTRQUHJNSjVRU0tMQVc4S1h4MF9GTVhOSEI3bw?oc=5",
       "date": "Mon, 21 Sep 2026 07:10:20 GMT",
-      "source": "Operations India",
+      "source": "Manufacturing Signals",
       "industry": "Biotech & Life Sciences",
       "pivot": "Operations",
       "score": 44,
@@ -8761,7 +8620,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5f277dcf59fcbd15",
@@ -9177,7 +9036,7 @@
       "summary": "Top 13 Quick Commerce Companies in India [2026] ClickPost",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wdWo0Z0p0WElBVndQTk5veUgwS0pib2hJSlJvLXJKeU1nQWEwZEJPdTFvYmZkWmd5bU5tdTB5WHA0RHRKeGxodGZnUHRVdTE5LWtsakZJMVhZU1NfX3dSb3pHZm0?oc=5",
       "date": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "source": "India Corporate Signals",
+      "source": "Operations India",
       "industry": "FMCG",
       "pivot": "Strategy",
       "score": 43,
@@ -9186,7 +9045,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1b7a7ee7255725ef",
@@ -9296,7 +9155,7 @@
       "summary": "Retail India News: CaratLane Expands Jewellery Business in Australia Indian Retailer",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdW5BTDkxWkR4ekdGN2FWMnFGeHJiMlhFUU1YTTI1OE1reG5CaEdkdWdGQWhhQjdLRS1hSWwwMzNCS0Z5RjRsSlpzZl9pY0Z1ZXlQNnVBelplN084Mk85VkhKUkpZdVlxNVVLdWI3bTFKVGIxcGl3TDRvRElQQTZPLS1zQ2QwUlpVT1RHUFVsYy1JZWI4RDZQQWZrUEg?oc=5",
       "date": "Wed, 16 Sep 2026 06:54:22 GMT",
-      "source": "FMCG Channels",
+      "source": "Manufacturing Signals",
       "industry": "FMCG",
       "pivot": "Strategy",
       "score": 43,
@@ -9305,7 +9164,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f925c3478ebde380",
@@ -9398,7 +9257,7 @@
       "summary": "Pharma leaders call for stronger R&D, resilient supply chains and greater patient access Indian Pharma Post",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdEwxTFg3dWs2WUtKeWc1OHRnX0ZjdUV2ZloxWFM0UUJPbTBVdHU3UXNVbE5JdzhTN2VzOFQ1eG0xU181N0V4SFZqRGlwY3B5XzZiNS1yaThvdGNmTkdXbjdHN0VBSWFyYTNIZ2oxbmthZG1MbmdkMmlydlBZd2NxU25jR2dnT0pjdG0zTUZ0ZjE4RVZPTV9BVFJjLXhsT2JKemxOcHo5Qk40Z2VmR1pnYjE5WGgzOG5fcUdnWkpicTRWaWhlVl8yT0hR0gHQAUFVX3lxTE9na1hGVzNfU0xObWo4aGtkYWw0bkZ3Ung0MG1FbS1RcWdSdE8wYUppZ0ZfUHlCSC1jTlVHLTg4b0dDSEZUWjhETFhyck1VUHJaQW1sRFNfQXNyODFvbXhaOGFNd01oY0dJczQ0RlBjZ3NIME5ZcGJfR3J0UmdtYXFZa1I1OWtlYlRTY1p5aGVuOUpEd0ZmUEltQjVielZiWEpQbXVQOWJMZ0FsNnRjcmJWZTdxTldkbUotUkV0bDF3dUtpTUxXcDI4dWRDVU04TDY?oc=5",
       "date": "Sat, 19 Sep 2026 09:56:15 GMT",
-      "source": "India Pharma",
+      "source": "Biotech & Biopharma",
       "industry": "Biotech & Life Sciences",
       "pivot": "Operations",
       "score": 43,
@@ -9407,7 +9266,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5a92cf8410b214c1",
@@ -9415,7 +9274,7 @@
       "summary": "India must bridge academia-industry research gap, says Pharma Secretary BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS3l4c01xaHJ4UFV0WVdjTEZhdWFXWjhRS2gyMjUwUDgzSVJYckFWVEw2UGpxUkw1UVNyUDAxWFBFeGdzWWNMOGF1VUZUQ0hiT19NdEdDMjAtVUJ2bHZkbHd1ZWJyRDBReW4zRjNDZzNZSjZYQmNEYjVpc0N5eTBTY1FRV1c5OEt5Mi03bHI4czZCMU5HLUMtSnhLMEZxanpJSzROcWhzbE5mSUZEY0lYS1RTR2h3djBhQTZ4aUlMM1Bpay16MWpZejZfQ07SAdMBQVVfeXFMTm1MQ3FMdDNfeUdwRlVTaE80UVNlSnA4Tk1iaG1zTHhsaXNDY0tDaDVpNkVneXJwSTZORWNndEd0WDRma0daN2p2MUwta0wxMkg4Qi1uNXZyM1ZtVW96MnRRY3djZHAzb0VVWWxULWFfV1VSeG9oRi1tOUlxVDVUNnNSTWJ1Qi1pYXYzRE9HOTkxRWVoWkMxNUFzaFZDcFk2ZUl3QVBOVjNWQmRqa2VDWnJwaXUyd1VjME9QeTdHT3N1TDFZTFRFRWVuaXVZaTkyTG81bw?oc=5",
       "date": "Fri, 18 Sep 2026 14:01:51 GMT",
-      "source": "India Pharma",
+      "source": "Biotech & Biopharma",
       "industry": "Biotech & Life Sciences",
       "pivot": "Strategy",
       "score": 43,
@@ -9424,7 +9283,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "82101649ecc50c92",
@@ -9925,7 +9784,7 @@
       "summary": "Shoppers Stop Beauty Arm Brings INTERPARFUMS Portfolio to India Indian Retailer",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRU5TWmFsNjgwdGZ5VGppbExNVG5fa2lTd2dtSXdaRm1wWVMwNFdYSk84RUswUWZRZzNiY3BHTjY2VkNVRnVVNHF3TkRiT2ZXcThNRlNQeHloT1JUOUZROF85TV82RnIwOHk2ZXVLUy15OW9vX1c5VVVkR1RVYThTZExGNl9GTUlHbFc2clVFNzdKZ2RpZEtj?oc=5",
       "date": "Fri, 18 Sep 2026 11:05:24 GMT",
-      "source": "Operations India",
+      "source": "Commercial Strategy",
       "industry": "FMCG",
       "pivot": "Product",
       "score": 43,
@@ -9934,7 +9793,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "45b7e528889f4fef",
@@ -11353,7 +11212,7 @@
       "summary": "Retail India News: Epigamia Adds New Leaders to Drive Growth Plans Indian Retailer",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWxLdEQwWEVBdUpyR1BkckV3Q3ZkYi01OEdDWUtUcnduLVExRDMzU2ptZTdXeHIyb0ZGZGFsY3Z2emZJWnRNYnI2UENKWUtzMjJ0Y25uc0wzdGFHOHZUdHVfVDNhckdTeDRVMVBtc3haaEVxZXh2dGQtY1hrMTJMZG5nSzBYbm8zM0NMa25kQnhTN3l5LXZKd0JFTExTdms?oc=5",
       "date": "Tue, 15 Sep 2026 08:26:49 GMT",
-      "source": "FMCG Channels",
+      "source": "Commercial Strategy",
       "industry": "FMCG",
       "pivot": "Strategy",
       "score": 40,
@@ -11362,7 +11221,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "51132a134284ee34",
@@ -11404,7 +11263,7 @@
       "summary": "UBD Launches Madhvan Distiller’s Tribute Blend in Delhi Indian Retailer",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONTRzWTRkbEtHMGZ4RkIyWTg2U3ItS09uczBDdy13a0pQOUhMOEIwODVldGt0UGdKVW9oQkwyQ2d6Qk9BMUpKLWxZQjhrVWNndVR2Y2VCNEp0akFVZGN3eDUybHdXRlBnSUlDTDhRdnprNlAxaFF1YWw0OEg2c3NqY1pQSUVSSGtOalVNVXlfa2w?oc=5",
       "date": "Mon, 14 Sep 2026 11:51:33 GMT",
-      "source": "FMCG Channels",
+      "source": "Commercial Strategy",
       "industry": "FMCG",
       "pivot": "Product",
       "score": 40,
@@ -11413,7 +11272,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "90df4ae3bc2821f0",
@@ -12203,7 +12062,7 @@
       "summary": "Retail India News: Milky Mist Invests Rs 40 Cr in Dairy Expansion Indian Retailer",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVIzR1p5QkZzZy1MZHhSUzlPN1pTSnBEQkE5bHhCNTZNdDRtdHk3RUFhcnJ6SDVpSnFzeTdLT29oSWJ6S1pkZlJXNUxZcjVfblk5VXJicU83ZXNxMkJidnUzN1dHZmZzRU45d2pRTV9YT1prTTEyRU91TVJlcWxNc24wekY5UUZZOEdMX211QWpyQm9nX1pfeHAxYmd1UQ?oc=5",
       "date": "Fri, 11 Sep 2026 11:49:57 GMT",
-      "source": "Operations India",
+      "source": "Commercial Strategy",
       "industry": "Agriculture & Allied",
       "pivot": "Strategy",
       "score": 40,
@@ -12212,7 +12071,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e117318d08a813d5",
@@ -12662,7 +12521,7 @@
       "summary": "ACFI presses for ₹5,000-7,500 crore push to reduce China dependence in crop protection Indiatimes",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdEItUF9VUTNBYTVsNkFScDczeWdrMzNGdGtCNWl2dWU1cXp1RTBneEk3elE2dGxDMVUtNGZ2ZTZMRU9ZZkZDOWJrdlpjcjdzel81WndTNWFNWVI3T3VfV29XQ1cyaWFVdGVLdE9ZdV8wS2FHYXZ2b0VYczNtSnZlaG82bXV5VWhnV0k4anotaFhJVU9oM0E4Wm1Ya2lSUi1YZi11R0tmTWxIbGt1czBhN0gtNTJLWjFQS1dJMDR5M3UxYjFiS3E5MUlCTkNNN1MwOWlUVEtJWC1EYkJpUmFVYTFBWjN4eGxaOVJuZXQyRXBUUdIB9gFBVV95cUxQZzU1ai1SRmNUZnhzNWhCcXl2R1RkSzFjNFNHd2s2M2lMSWlrR1VrZnVyN1diOGxnMFROYkRqdDR1R2d6SGFicWs2dnd3WUdXdWhPV1Q3Wno4SHBCODZsSzJZN0ZQQ0lwWGhBMGxIQ0w1aGxrbFE2ajVRd3pMVS1SYzhoeTl4bjgxeFFpOU01d2NDbnBVZERGS2NibVNnVDdmMHoweTVuN1dRTVFsN0QySjl0bzgyakVfY2dPY3p0d05jRHJ4YlFhZW45cTRVOVhwcU13VkdQWWhvMm1TQ2Vjb1hldWt6QklTRHRxZFpMeV9Qc0l4b1E?oc=5",
       "date": "Tue, 22 Sep 2026 11:06:15 GMT",
-      "source": "Agri Inputs & Technology",
+      "source": "Operations India",
       "industry": "Agriculture & Allied",
       "pivot": "Strategy",
       "score": 39,
@@ -12671,7 +12530,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "895df4abbaf5a990",
@@ -13138,7 +12997,7 @@
       "summary": "Pearl Global expands Bangladesh operations, adds 7 million-piece annual capacity ET Manufacturing",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMEN4U0xJN1RQM0NxVEk5ck1vekpRdlhIemFiQ3hZOUVmTWxrOUtZRU5wcnltTFJUdWJXdUQ2SnVtRi10WTN4MHR3bXpnVWhMVTdnSGVjeEJDNjRaaGs4V1pnWS1RTlh6bjJLN3lSNmc5VGRyN0ItZmtTR2NORHVnZDc3czl3MWZvSnRQRVVCWWg5UDRCRHRsSHpLTzcxb2cwd042MFJNYmxZMjdnN2FmaUN5VTE4MmxoNE9iQks5MXVkdHFxU3h6TVpTWURMdVloUGRiVjhBT3pXSEx5ZWk0b01QM1RmMFc2aXN2M3Jzb9IB7wFBVV95cUxQMEN4U0xJN1RQM0NxVEk5ck1vekpRdlhIemFiQ3hZOUVmTWxrOUtZRU5wcnltTFJUdWJXdUQ2SnVtRi10WTN4MHR3bXpnVWhMVTdnSGVjeEJDNjRaaGs4V1pnWS1RTlh6bjJLN3lSNmc5VGRyN0ItZmtTR2NORHVnZDc3czl3MWZvSnRQRVVCWWg5UDRCRHRsSHpLTzcxb2cwd042MFJNYmxZMjdnN2FmaUN5VTE4MmxoNE9iQks5MXVkdHFxU3h6TVpTWURMdVloUGRiVjhBT3pXSEx5ZWk0b01QM1RmMFc2aXN2M3Jzbw?oc=5",
       "date": "Tue, 22 Sep 2026 11:00:09 GMT",
-      "source": "Operations India",
+      "source": "Manufacturing Signals",
       "industry": "Operations & Supply Chain",
       "pivot": "Operations",
       "score": 39,
@@ -13147,7 +13006,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5b68153282a32ef8",
@@ -13291,7 +13150,7 @@
       "summary": "Record Freight Costs Squeeze Russia's Black Sea Crude Exports Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2RzblNLd1daZUwwTVB1aFhfc3o3bnhqQTlpVVFpMTF5czZtMmhUVkRoTzZ4dllkVjFQV0lNX0FKOVRmRFoySld2MVZrZmVrYWZqNFFVeHN3OGpqN1FMSHFpUnNVM25DX2NzVDZHNFo5Ykk5eWFsQnhLRXE2STAxbDBSN3ZuMUR6YWJsbGNjM25wdjNQOU9Gak9WdVlVWmtxeS16RjlNbUozZjVxUWdaV3FR0gG3AUFVX3lxTE13NlNrd2dnZ1ZrZ1loRXFvSFBweDFDRm1qWWdIYS1nMG0wS3ptbGgyTVpobjd0bERlVG82dUMtdWdOUjI0dVdVeEtoSFFKTXdaSmxfQlhOeUZxc0V1WHFNVFBrY25EcHRQX1AxQkduSXN0aEswbmlDeGJPUVR2cUFfTEI3RlQ4R0o4bjB5MFI4c1FrVjJWR2F5NE9hWDJQOUljdTFGX1ZDb2VuNjg1S2RCX1lkRjVJbw?oc=5",
       "date": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "source": "Global Supply Chain",
+      "source": "Commodities & Energy",
       "industry": "Operations & Supply Chain",
       "pivot": "Operations",
       "score": 39,
@@ -13300,7 +13159,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9aafdeea6cdc1a12",
@@ -13869,7 +13728,7 @@
       "summary": "Industry body ACFI seeks Rs 5,000-7,500 cr scheme to cut reliance on China for crop protection inputs The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUnRGeEdIa0hralJXVlJ3TFR1LU5aSV93bnRpSl9PS1BmODg2aXk5bkc1R3FORXNoR2M1MXhSV2x6WktyTW5oLWh4ckRjUmlnVlJ2c2xBWjk3SDdKN0Z1VDZqV2drUU9vV21kckFzbkZDV1NfTnNkNlNINlhzdW1vUTd5Y2xqOVVVUVo5S3BUQXRhVUtZa0NERkZ4THE1ZHBUNWcxOGJRa0tkc1c0TW9wWWdjNXVwbW5RUDBRNnJWa3BtYm1KamlPVG5fSWxWU2ItX0I5Mk5LNTVjaE44Xzc3NDFIZWtubFRMNms2Qm9rQ3J6djB0elhFRXVmYlFOX3dBZHFjcm44bG1sU2Y2NFY2NVZSRTd3cEllSzdCU09fUDNpOTc0LVBR0gGnAkFVX3lxTE5SdEZ4R0hrSGtqUldWUndMVHUtTlpJX3dudGlKX09LUGY4ODZpeTluRzVHcU5Fc2hHYzUxeFJXbHpaS3JNbmgtaHhyRGNSaWdWUnZzbEFaOTdIN0o3RnVUNmpXZ2tRT29XbWRyQXNuRkNXU19Oc2Q2U0g2WHN1bW9RN3ljbGo5VVVRWjlLcFRBdGFVS1lrQ0RGRnhMcTVkcFQ1ZzE4YlFrS2RzVzRNb3BZZ2M1dXBtblFQMFE2clZrcG1ibUpqaU9Ubl9JbFZTYi1fQjkyTks1NWNoTjhfNzc0MUhla25sVEw2azZCb2tDcnp2MHR6WEVFdWZiUU5fd0FkcWNybjhsbWxTZjY0VjY1VlJFN3dwSWVLN0JTT19QM2k5NzQtUFE?oc=5",
       "date": "Sun, 20 Sep 2026 13:03:00 GMT",
-      "source": "India Policy & Regulation",
+      "source": "Agri Inputs & Technology",
       "industry": "Agriculture & Allied",
       "pivot": "Strategy",
       "score": 37,
@@ -13878,7 +13737,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ed0f6ffec672b2c3",
@@ -14103,10 +13962,10 @@
     },
     {
       "id": "d5dc35b9589b125d",
-      "title": "Marine exports up 14% in April-August on robust shipments to US - financialexpress.com",
-      "summary": "Marine exports up 14% in April-August on robust shipments to US financialexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT2YxQ3FJVU1hNUpFOXVGWlR3d1dpM2tNM0lsYkpiTWVlYkRUN0tIaktjTUVBd0p6dHBTdGpXc1d0cHUtZkkxOXNtSkN2eFpEdkE5d3lnNjB5dlhfSUlIYjFwWjhaNEVJanF1b2x4QkVMeHhhcEFKUl9TNFpPb0h1QmdRRnp4YUY5OGV6ei1GVVNCUXR2U0pnOU1vNzlJVGlLV1A4NWlSUjVyZkIwTEJoZnFIRGJWdHRNVVFZ0gHCAUFVX3lxTFBkVmF0dnhJNC1YdUFmRGdfeTNIeEFYeG5WRF9YcFdBSDVXMVdvcHFJWTZnekpVbS1KV1ozOFpvenZ2RjhST2tVMVNGNDE3UjFLQW44d2N6R2w3eHNOZjc1ZEIxa3RsSkxsMEl3MHowNlIzQmZRblNkTTFuMGJJR2k1VWxoUVZNSWVnel85MzREREFXNWo3UnQ4UVdIYmkxODNlU0pKSXozX2Z0ZXUtWHpXMU9kMWRVeHJ4QWRlMFRBRnBR?oc=5",
-      "date": "Thu, 17 Sep 2026 14:59:13 GMT",
+      "title": "Marine exports up 14% in April–August on robust shipments to US - financialexpress.com",
+      "summary": "Marine exports up 14% in April–August on robust shipments to US financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRU0ybWRSUWM5UEViT2RPbklHRHE1NGdpREtGUjVSTHBwcUp0VWVBYlBlVVN4elVSRkphZkt5ak5FMHdON3lUcm1MUDVIUnpVb24wT01CcGRUcXZTUVRwRElLMF9uM2ZEWmlvQWFQb2VHY1h3MGczVGJkcHZCa0N2OWZETy1LNnRVVG9UZlR3TG5yWGlSbzl3N3pGQzR6QXZDS0JvemVLcU9RR1l6b3ZCRXBvTlR6NDdwWlHSAcABQVVfeXFMTWtnTldNMDFkV0EwcUZwSTlBelEyTHVwUUF3YzR0ZHNoUTZWQXJGUjZiSEtlMWlTMlRrbXRPSVJSUk5WXy1ZYzVwWlRjT0hTc1NoRW80QTB1aUxjNENXcTh4cnAzbHVtOGRMenVjVWZYTEFLcW1YNUhpSEI4T2pIc2diSlJIeTlzUEZHUDdvYVV3ZEk4bkhmWUxVOUdRWWNiT0dldFdaQUhDNzVTNnc3bmFkVHBlTzhDOVE2Q1NlV2R4?oc=5",
+      "date": "Wed, 16 Sep 2026 14:52:03 GMT",
       "source": "Agri Trade & Commodities",
       "industry": "Operations & Supply Chain",
       "pivot": "Trade & Exports",
@@ -14116,7 +13975,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2455caf3ece96293",
@@ -14481,7 +14340,7 @@
       "summary": "Supply Chain Management vs Operations Management: Key Differences, Roles, and Examples Business Viewpoint Magazine",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeXl0SHRMTFZBUnZVTkJROXRySEZZek9zZHNOSFMzMTJlYWtNN2lWdGswR2phTUVKMlV6RzRwVk1WbF92MnF6VFNWLWRfb3ZScnI5al9sZlM4TkVnaEtHeU5iaEFsMElieXFGUW1zWC1BWlNwb3ZCRVhYQTZsYk9HbHlXZ2toOFJoc1lvbExGYnY?oc=5",
       "date": "Wed, 16 Sep 2026 10:08:34 GMT",
-      "source": "Operations India",
+      "source": "Manufacturing Signals",
       "industry": "Operations & Supply Chain",
       "pivot": "Operations",
       "score": 37,
@@ -14490,7 +14349,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "75e32ab1d90d5c07",
@@ -14634,7 +14493,7 @@
       "summary": "Pfizer Limited: How Its Pharmaceutical Business Fits India’s Evolving Healthcare Market Kalkine India",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmVmU0lNdVoybzJ3RTY0c0FZa3dVc2p2RGR2UXVuWGQ0TTRWWmlBZHMzQ1RiVGFiNHlGQ2hTWnRuWkdMYXNqQm0yUUxIN1prMkd0N3BNUldtYkRSZm1YWkY3ZE5WcFFacDRSMkdhQ2dKYWpkMGJIek1xNEFaV1pfbzQ2TnVtcE5DVV9JZE5IRGVDT3J1TVYxVzdWUkxMbkthaWZGRTV0MFU5ZlVCbE5kbmFzcmhfN0tCSmhqYlZYTEVDWkVIZVhpa3FR?oc=5",
       "date": "Mon, 14 Sep 2026 15:16:00 GMT",
-      "source": "Product Strategy",
+      "source": "Innovation & Product",
       "industry": "Biotech & Life Sciences",
       "pivot": "Strategy",
       "score": 37,
@@ -14643,7 +14502,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "71b3c4ad895482f2",
@@ -15637,7 +15496,7 @@
       "summary": "Ethanol Exports Reach Second Consecutive Record High USDA Foreign Agricultural Service (.gov)",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXJ2VWdrQTBnVnpZTmM1dzZGNXpFZS14dWtwc042SHN3b1dLMnFWdHhuaWtjX0RFWW45WTNLWXcwT2gzLXU1dDdJOHhqN1p4Q19kcnVCa0c1Y29RZzduUHg0eGdrMHR0ak9PbllKZDE1c19FcktrMUZiaHF0ak1WYVJ4N2hJQnNzZTZtcWZPQV8zR0JS?oc=5",
       "date": "Tue, 15 Sep 2026 13:00:00 GMT",
-      "source": "Agri Trade & Commodities",
+      "source": "India Global Trade",
       "industry": "Operations & Supply Chain",
       "pivot": "Trade & Exports",
       "score": 34,
@@ -15646,7 +15505,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "88c53f7eb9ddb364",
@@ -16111,9 +15970,9 @@
       "id": "73c56517814a64f0",
       "title": "China+1 To Lower US Risk: Four Key Catalysts Driving Small-Cap Pharma's 341% Surge - NDTV Profit",
       "summary": "China+1 To Lower US Risk: Four Key Catalysts Driving Small-Cap Pharma's 341% Surge NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXZtNGNaTHQxYWFGVnVBU0I3WnhGZU1CMmwxam9rTE1vMFlaTWF0T2ZqSFhiS1hPUWFKbEh4NkFBQU9HMzlhTTRrbmdjYi1KczJyRDVMMFU0Q0E3QTFmby1uUV94WGd6Z0cyQ1A2VXpCSktoV0ozbTYyM09UTVVuN195cUl6c21lSW53elM1ekdZczlMUFVsQ3ZwYTE0cmRlYU0wYUI1X05OUjNxblpkVGhaUUNPbzI5cVVMYjQxX23SAcgBQVVfeXFMT0VfWkpuX2ZxNGpMMy1KbXAxdmNkZjlabGQzUC1nbFlyR2dtRFJDSGxvVG1sNTdRRmtpMnAxd1U0R1pvMURTUGNDa0RfLXZGQWhkbmxPcmR6b1dOSjIzUmJTbkZjXzc4UnBya1dJbXRPNHBCcFlSUEp6N3ZqaWNwNnkwMF9pc054SXppY3c4THkzMG42dXo5RzZweUt0MmlMSllGZkJ1NDE0TlVHZkRvMGdDeTNBQWRXSE40ZVdsd2FUaHdQcjlNX0s?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRV9aSm5fZnE0akwzLUptcDF2Y2RmOVpsZDNQLWdsWXJHZ21EUkNIbG9UbWw1N1FGa2kycDF3VTRHWm8xRFNQY0NrRF8tdkZBaGRubE9yZHpvV05KMjNSYlNuRmNfNzhScHJrV0ltdE80cEJwWVJQSno3dmppY3A2eTAwX2lzTnhJemljdzhMeTMwbjZ1ejlHNnB5S3QyaUxKWUZmQnU0MTROVUdmRG8wZ0N5M0FBZFdITjRlV2x3YVRod1ByOU1fS9IByAFBVV95cUxPRV9aSm5fZnE0akwzLUptcDF2Y2RmOVpsZDNQLWdsWXJHZ21EUkNIbG9UbWw1N1FGa2kycDF3VTRHWm8xRFNQY0NrRF8tdkZBaGRubE9yZHpvV05KMjNSYlNuRmNfNzhScHJrV0ltdE80cEJwWVJQSno3dmppY3A2eTAwX2lzTnhJemljdzhMeTMwbjZ1ejlHNnB5S3QyaUxKWUZmQnU0MTROVUdmRG8wZ0N5M0FBZFdITjRlV2x3YVRod1ByOU1fSw?oc=5",
       "date": "Mon, 21 Sep 2026 12:42:15 GMT",
-      "source": "Pharma Regulation & Exports",
+      "source": "Pharma Players",
       "industry": "Biotech & Life Sciences",
       "pivot": "Strategy",
       "score": 34,
@@ -16122,7 +15981,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "473265e849073df6",
@@ -16334,7 +16193,7 @@
       "summary": "Stellantis takes full ownership of Thiruvallur plant; targets 160% production ramp-up by 2027 ET Manufacturing",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU0FhbU1GaEh2ZDh2ZmFybkIxYW5rNnFBTmVvN3dsTjN5UlV3Mlh2X2h5Sk5mcEtOMW1nYTVRN2h2NHJYYXo2VDU0RkFLaUNTRHl3NGVKdVZwMGpESnZ6M0lHeGtoMk5Ga1EwbVNpYkpQRDJQZVZ1Tks4ZHoyNTBWSnhFMktLRGZfMzloTDBKYjJSYWwtVWFmMFp4T29jeHl5QjBPRFFoWEt0LUdIUzBmWVJGUjVJbWdPRG9ELWlXUXlmVkhfdWQ3NERBRkZKUGVMSTdyc3RMcFFjUHRfV2Radk5Ua3A3bHhPaWZNMmk4RTVGSDI4UXFKUm9JeDNrVVNad2fSAYICQVVfeXFMT1NBYW1NRmhIdmQ4dmZhcm5CMWFuazZxQU5lbzd3bE4zeVJVdzJYdl9oeUpOZnBLTjFtZ2E1UTdodjRyWGF6NlQ1NEZBS2lDU0R5dzRlSnVWcDBqREp2ejNJR3hraDJORmtRMG1TaWJKUEQyUGVWdU5LOGR6MjUwVkp4RTJLS0RmXzM5aEwwSmIyUmFsLVVhZjBaeE9vY3h5eUIwT0RRaFhLdC1HSFMwZllSRlI1SW1nT0RvRC1pV1F5ZlZIX3VkNzREQUZGSlBlTEk3cnN0THBRY1B0X1dkWnZOVGtwN2x4T2lmTTJpOEU1RkgyOFFxSlJvSXgza1VTWndn?oc=5",
       "date": "Tue, 22 Sep 2026 08:35:19 GMT",
-      "source": "Operations India",
+      "source": "Manufacturing Signals",
       "industry": "Operations & Supply Chain",
       "pivot": "Operations",
       "score": 34,
@@ -16343,7 +16202,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "78a2c8a4455c4e9a",
@@ -17456,8 +17315,8 @@
       "summary": "Indias Export Growth Numbers are Masking Deeper Weaknesses TheWire.in",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOREZSSjh3TjhLbFdKSmRaWXR2SWl4TnpfeUUtRnVFVXVhSEd6UmxoRjZ0OVdmMkVod3BSVm9jT3dkalMzelk0Q3dYM2Y2aEZRSEJxU0FEX3lsWFhpOHhRZ19hRnhiYUlkcTZHRVQxak9aX0ZKY2l3Y0tCREJNR0VRUHFYNUU5dzdELVlFa1JiQ2NPV05jMVNPNtIBngFBVV95cUxQR3RqalVaMlVNWWlrR2V0OWItdk11d2xaa0VqSS14cTIzbWdab2hTak00T1FXUUFHSjNwQ2dkQUUwRzBMSmh3LTJyaS1xVmh0OHhTVnkwN04za2EyVTNJcHdjTnhDTVJVMWNDYzl2WVlRR3BWR3BqNmY5b3BjZnVQd056b3JGRDFISVBpWGlJVThCeUEzR1JFdjhGaUZKdw?oc=5",
       "date": "Wed, 16 Sep 2026 08:59:00 GMT",
-      "source": "Agri Trade & Commodities",
-      "industry": "Agriculture & Allied",
+      "source": "India Global Trade",
+      "industry": "Global Trade",
       "pivot": "Trade & Exports",
       "score": 32,
       "reason": "Why ranked: export",
@@ -17465,7 +17324,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "438276550eafce1f",
@@ -17575,7 +17434,7 @@
       "summary": "Pharma Secretary Manoj Joshi Visits Amneal Pharmaceuticals In Ahmedabad bwhealthcareworld.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbThUeVhOU3Z5bjhNbWVOTjJfTXRWekRlaXV0VEp3TVB6Yk9pRjdGLXFRUXpiQkNqNHRqaUtmb25jV0QxYmRETnk1TElFa2plbF9XaERwUXh6YVNfYTNoLU1TQl9DaklnVVpaMHZ4X3UtWjJkYm1zWkRpbU9ydzVHN1NIVTR3QmNFMDM0b0hYdi1SY28tTnN4bTQ1QWpYN1ZiTnFWay1TNWw2SEtuTFVJeWNrb3lXS1pROUdJSg?oc=5",
       "date": "Fri, 18 Sep 2026 05:35:54 GMT",
-      "source": "India Pharma",
+      "source": "Biotech & Biopharma",
       "industry": "Biotech & Life Sciences",
       "pivot": "Strategy",
       "score": 32,
@@ -17584,7 +17443,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0c8f29257021e1f9",
@@ -18506,10 +18365,10 @@
     },
     {
       "id": "a775a654a7ed67eb",
-      "title": "LSI Launches Qualifications Council at Corporate Governance & Investment Education Leadership Summit - Business Standard",
-      "summary": "LSI Launches Qualifications Council at Corporate Governance & Investment Education Leadership Summit Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMEZyMnpyaWRMMFN2dUVaNXdVckd3R0xMeXB0VDFsNWV2d3FtT0Y1YUtpRDl6SlZudUdLNG5rVFo1Z3R6RXVSeW96NkphNml4YzhlVTRoeW5NRTQyWXNMWTRUaHktbk85dklZOXJMYjVVcGdqQnUwb25DR3hPSVY2bmxWQ2NUbUZlVDcxQV9jQ2lFVE5HOWt5ZUNKMFBVUEIzT0oxd0gxelE5RUVta2hINzhIbTdkbWpONzUtcDFGajhLRVF3S2tQVlh3REx6TWRNQUxPaUk4OTY0QmtndTF5Y0gxZXB4WEROTy1CWGNQeFFQXzhNcGxBMy1CVGQ4YW5PLVZpNGxET3FtVm5PZVhCT9IBkAJBVV95cUxQMEZyMnpyaWRMMFN2dUVaNXdVckd3R0xMeXB0VDFsNWV2d3FtT0Y1YUtpRDl6SlZudUdLNG5rVFo1Z3R6RXVSeW96NkphNml4YzhlVTRoeW5NRTQyWXNMWTRUaHktbk85dklZOXJMYjVVcGdqQnUwb25DR3hPSVY2bmxWQ2NUbUZlVDcxQV9jQ2lFVE5HOWt5ZUNKMFBVUEIzT0oxd0gxelE5RUVta2hINzhIbTdkbWpONzUtcDFGajhLRVF3S2tQVlh3REx6TWRNQUxPaUk4OTY0QmtndTF5Y0gxZXB4WEROTy1CWGNQeFFQXzhNcGxBMy1CVGQ4YW5PLVZpNGxET3FtVm5PZVhCTw?oc=5",
-      "date": "Mon, 21 Sep 2026 08:15:25 GMT",
+      "title": "LSI Launches Qualifications Council at Corporate Governance & Investment Education Leadership Summit - The Tribune",
+      "summary": "LSI Launches Qualifications Council at Corporate Governance & Investment Education Leadership Summit The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOEFFUU93TkZ1aUhRanU5TXNXZUhPNjluRnJfQm1lRXE2TTY1VHdycll1ZV9qeW1wUEMtS1hUQXFzV19Nb21vTHMzWmJTWWFGdF9UNWtibFhTR3NhREVkOFhVY3dwSVBRZWw3SjRFNkFfOE5UOW1IWW96N09oeEJyV2dsdUc2Szl0bGhWckMzMDVTWXczUTRDMWNkcWhCa2YxM3FMZDFhMFVmWDh5cldFeEh4am5hU1pfa014UGxSYXJSb3NnekNGdjJBRlEyZmRWNmVwRVVYYWY4TS1TYUtJSFB0UVh6cDNHUXpIcTVieVVLZ2U3NG1rOG5B0gH6AUFVX3lxTFA4QUVRT3dORnVpSFFqdTlNc1dlSE82OW5Gcl9CbWVFcTZNNjVUd3JyWXVlX2p5bXBQQy1LWFRBcXNXX01vbW9MczNaYlNZYUZ0X1Q1a2JsWFNHc2FERWQ4WFVjd3BJUFFlbDdKNEU2QV84TlQ5bUhZb3o3T2h4QnJXZ2x1RzZLOXRsaFZyQzMwNVNZdzNRNEMxY2RxaEJrZjEzcUxkMWEwVWZYOHlyV0V4SHhqbmFTWl9rTXhQbFJhclJvc2d6Q0Z2MkFGUTJmZFY2ZXBFVVhhZjhNLVNhS0lIUHRRWHpwM0dRekhxNWJ5VUtnZTc0bWs4bkE?oc=5",
+      "date": "Mon, 21 Sep 2026 07:27:42 GMT",
       "source": "Consulting & Strategy",
       "industry": "Consulting & Strategy",
       "pivot": "Product",
@@ -18519,7 +18378,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "08a87c0dfe60e1de",
@@ -19632,7 +19491,7 @@
       "summary": "Noise: What it takes to go from ₹100 crores to ₹1,500 crore Exchange4Media",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjVxUG93TzdzZTA1TE9tcTBtOGk0d1llMVJJdHFFS0pfLUVqVXNSd2x5RGdGTFhmWERXUTV2Q2NzNjJqYVlSVTBaUGhsSzdyTXE3cm8xNFlsdGNwckVrd3B1ZEp3elV3RXY1NEN0dkQxQWVZX1hPOXpTT1NYaFpFT2ZNVG1oRWZWR21QenJxb2Z6YUJpaDFya3d2UUxuY2pydnU1MVk3b1BuREFGZjIxTDloLTgwWnBw?oc=5",
       "date": "Tue, 15 Sep 2026 11:57:53 GMT",
-      "source": "Product Strategy",
+      "source": "Pricing & Brands",
       "industry": "Biotech & Life Sciences",
       "pivot": "Strategy",
       "score": 26,
@@ -19641,14 +19500,14 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "83abce60d6ffb3b8",
-      "title": "Badri Beriwal joins BCCL as Director – Brand, Product & Portfolio Strategy - Exchange4Media",
-      "summary": "Badri Beriwal joins BCCL as Director – Brand, Product & Portfolio Strategy Exchange4Media",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUnBqWEhVTXZUc0VSTjF5clVIYjNJcFFMSGtKY3NNdTNhbHcwbGpaWjhDSF9ib2R6ZFBNOHAtT3hLYUNma3J1V045Rkg5WU5PXzUydXg1alJsa2Ruc3huc25NRlZPcE4tWnYwdy1IWEdSQm9BeFRjQnlhVThINGdjdEtremU2RDB5QVIyb0FpenVrY3JKX0pFOHhIX3lENGl1MThFdjgxcm9lUmhuTndoMHZhOUh1MVBFVl9Xa1BMMVAtZEJ2M3VOSW5KRzFNZw?oc=5",
-      "date": "Tue, 15 Sep 2026 10:43:41 GMT",
+      "title": "Badri Beriwal joins BCCL as Director – Brand, Product & Portfolio Strategy - Adgully.com",
+      "summary": "Badri Beriwal joins BCCL as Director – Brand, Product & Portfolio Strategy Adgully.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLW5YYnI1WmxGOG5ldnpRck5NREQzNGJGaHdBWjlaS1ZzLTE1bHhsNmhRMU4wX0owYmdBb2h1SjZtbERmWWp4WGQ1cmxucmdaNkNKdjVHdm9ZcDJiZ1MzY3FjTDZUc08tUGVLeWFYb3VjR3ZtNjJmRmM5eFZvX0lBczBhU0FGWXpGbDZzU2JZRVB1cGx1aUhmekh6UlJfT2U5OVQxd3VJQQ?oc=5",
+      "date": "Tue, 15 Sep 2026 05:46:00 GMT",
       "source": "Innovation & Product",
       "industry": "Product",
       "pivot": "Product",
@@ -19658,7 +19517,7 @@
       "player": "",
       "first_seen": "2026-09-23T04:42:59.178040+00:00",
       "last_seen": "2026-09-23T04:42:59.178040+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ab4152ba17a32f20",
