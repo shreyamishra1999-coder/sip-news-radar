@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T15:38:37.678041+00:00",
-  "story_count": 685,
+  "generated_at": "2026-11-15T21:01:22.583677+00:00",
+  "story_count": 733,
   "stories": [
     {
       "id": "fe76aca27f31ceed",
@@ -17,7 +17,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -34,7 +34,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -102,8 +102,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "f1f6f1e72594295f",
@@ -119,8 +119,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "217ac7a673aaf1ea",
@@ -136,8 +136,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "f70b6d7599a683db",
@@ -187,7 +187,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -204,7 +204,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -221,7 +221,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -238,7 +238,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -255,8 +255,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "8a55c9c986359a71",
@@ -272,8 +272,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "1669c95dcd77b2f3",
@@ -289,8 +289,42 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
+    },
+    {
+      "id": "902177d330d0bba8",
+      "title": "India’s Auto Sales May Hit Record 3.2 Crore Units in 2026 as Festive Demand Surges - India Business Trade",
+      "summary": "India’s Auto Sales May Hit Record 3.2 Crore Units in 2026 as Festive Demand Surges India Business Trade",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1ZBQ1pRbUdHbGRaVHRhMkxYQjU5dWdHTElXVkNPQUxYQzhReFVCdURkWlhDQU0xQnF5XzJ0aXQtOVR2QjQ1QTRxV0hMSHFkMHFzejRldTBXcFRQZ0RlZER6b3RXTVhIQ2RncTVtTUMtTy1mZGFISVRMU043VE1WVVRRX1Z3ZFJ1VHZZcUwwbUJSWnV6UGlpQzI1bVNsUDhmOE5uTkY5YXhSVUJodXRCZ0NYTFFjdw?oc=5",
+      "date": "Mon, 09 Nov 2026 06:57:45 GMT",
+      "source": "FMCG India",
+      "industry": "Biotech & Life Sciences",
+      "pivot": "Commercial",
+      "score": 63,
+      "reason": "Why ranked: cro · sales · trade · India · global/trade linkage",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "64102a898999ef6e",
+      "title": "US assures India of tariff edge over rivals as bilateral trade deal moves closer - Business Upturn",
+      "summary": "US assures India of tariff edge over rivals as bilateral trade deal moves closer Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmhtdWVpV0R3V3F6VmlRRTUwUU8zTFNyOGtObjFwVUwzektxSHdnOU1nSmNBQy10NDJDRVlKNEktSnpySDB6Z0lQSEllZkZvRW5SbWJDS0xDaGF2MGwwY2dZQ0lhVEtPN1lqcDhrMnBKNFdDd2c0elRpejRueHQzSVMwSDhwOFk5eUlXVFRNSXVSY0VfYlR6UDdZd2U2ZTY2OVEySFZvVXFYTFFGdTBURUpSWUoydw?oc=5",
+      "date": "Fri, 13 Nov 2026 10:11:26 GMT",
+      "source": "India Global Trade",
+      "industry": "Global Trade",
+      "pivot": "Policy",
+      "score": 63,
+      "reason": "Why ranked: tariff · tariff · trade · India · global/trade linkage",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
     },
     {
       "id": "01ae9df0d9bf3ac7",
@@ -306,7 +340,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -323,7 +357,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -391,7 +425,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -408,7 +442,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -425,7 +459,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -442,7 +476,7 @@
       "geo": "India",
       "player": "Sun Pharma",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -459,7 +493,7 @@
       "geo": "India",
       "player": "EY",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -476,7 +510,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -544,8 +578,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "91bfff1dc324b213",
@@ -561,7 +595,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -578,7 +612,24 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "0217e42eab9ec6d8",
+      "title": "India’s services exports help cushion external sector against geopolitical disruptions - The Hawk",
+      "summary": "India’s services exports help cushion external sector against geopolitical disruptions The Hawk",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOVBtdV9vMHdpT24zc19WZk9EN0pWaEZSSm4yX09XMDRHTTdPNFZXdU15ajNHSl83U3ZfZ080NUNCZ05TVWZjSWRqY1dBM25HZ3hweVFoVDdEeG5DWFhkWGMyUGI5N0hyUTA4MTRsRzNpMmZZVjZsWjdXd3lpNTBmaXZ2TlVqZ1NrR0RXMVBlZ2R2SzlzajlwY2tieHRXVGJ1X1QwV0xfZ2lsdDNJREVlZ205Z1p2VXZKMEZRa0RVOFNmLXNuQThPUm1TUElfSkk?oc=5",
+      "date": "Sun, 15 Nov 2026 03:45:11 GMT",
+      "source": "Agriculture India",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Trade & Exports",
+      "score": 60,
+      "reason": "Why ranked: ports · export · India · global/trade linkage",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -612,7 +663,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -646,7 +697,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -663,7 +714,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -680,7 +731,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -697,7 +748,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -731,7 +782,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -748,7 +799,7 @@
       "geo": "India",
       "player": "Aurobindo Pharma",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -816,7 +867,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -833,8 +884,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "04f11fade6362fc9",
@@ -850,8 +901,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "1353abc4adfc1563",
@@ -867,7 +918,24 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "9b1bbe4c2a369bef",
+      "title": "Piyush Goyal to inaugurate 45th India International Trade Fair today - India Shipping News",
+      "summary": "Piyush Goyal to inaugurate 45th India International Trade Fair today India Shipping News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkczZXlFd2xEcTJZMU43eE1vVTRIcVhnVXJHdmx5Q05SdlVPX1AyYTlLZnNrX3A2UWFvVExOTmg4RVNEdFh2M2lZNEw2V2Q3LXFVZ0lTQ2dtZ3ZsS0wzSGVpLVVPZWN5czhXSnZBTElaMHNfRTVBUk91VGEtNS1od3doVHpEVUQxeGJsdTV3SHVSQUVrdUpnTW1uOFJ4dkVoSlFEWk1hS0k?oc=5",
+      "date": "Fri, 13 Nov 2026 03:49:24 GMT",
+      "source": "FMCG Channels",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Trade & Exports",
+      "score": 58,
+      "reason": "Why ranked: shipping · trade · India · global/trade linkage",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -884,7 +952,7 @@
       "geo": "India",
       "player": "Nestle India",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -918,7 +986,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -935,7 +1003,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1071,7 +1139,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1105,7 +1173,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1122,7 +1190,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1173,7 +1241,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1190,7 +1258,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1224,14 +1292,14 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
       "id": "d6878276d182b449",
       "title": "India's Consumption Story Remains Strong, But Inflation And Rural Weakness Pose Risks - Times Now",
       "summary": "India's Consumption Story Remains Strong, But Inflation And Rural Weakness Pose Risks Times Now",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUGRlZjRudUVERXpzQXBGZDREZ2REUjR4WEthODhaajlycDM1eThEYnVKekVWWE9VZDFQcEU5T1Q1dW5sd053UDNwOUdaRXBydy1Ydmh2SHFJRHJZZkpXSk9SM0FwbC1YeHBLeHFqX3BPQ0VMQ2l5SlNrbkpqMmtTRml3cFVvREExRkJ5bGw1ZENONFhaZWh6SVBIQmZfYzBELTVWZzBiSFo5SVU5YVJzdkh3Qm1HaXJjQTlGSlllNWpqcjN4MnV3T0NwY3EwNVFSc0lqOE03R0pYaVFJTGtmcTJUUDUwS3NmdXljdVVUVGrSAfABQVVfeXFMTlBkZWY0bnVFREV6c0FwRmQ0RGdkRFI0eFhLYTg4Wmo5cnAzNXk4RGJ1SnpFVlhPVWQxUHBFOU9UNXVubHdOd1AzcDlHWkVwcnctWHZodkhxSURyWWZKV0pPUjNBcGwtWHhwS3hxal9wT0NFTENpeUpTa25KajJrU0Zpd3BVb0RBMUZCeWxsNWRDTjRYWmVoeklQSEJmX2MwRC01VmcwYkhaOUlVOWFSc3ZId0JtR2lyY0E5RkpZZTVqanIzeDJ1d09DcGNxMDVRUnNJajhNN0dKWGlRSUxrZnEyVFA1MEtzZnV5Y3VVVFRq?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY25rNkNuVnNEZ0pVNFYwZU5CM2lDOTNmNGplcG9iYi10aVlMUGFHODBHM1BaUkxmQ0dZUkNwdUlUc0tCdmxMdno3S3JEZ1JZUENXNm9ROGRyYTZ3TE1HSms3eDktNlhnelRIVGp2bUdPMzVhU0h3amVHN3VHTFNOQnVtZkZoNXdIa1JNY0ZMNnlXNGNhbXZNdXFCMTZYTTVNNHlZY296RGlKc05yZGVoYzNrN3ZYWXlKVnhubV9ydHN2b0YzdjdyTEJVRUpxR0hIekVhdjM5UkN4N0RaTFF5UmlGVTM3Uy1nbGZB0gHwAUFVX3lxTE5QZGVmNG51RURFenNBcEZkNERnZERSNHhYS2E4OFpqOXJwMzV5OERidUp6RVZYT1VkMVBwRTlPVDV1bmx3TndQM3A5R1pFcHJ3LVh2aHZIcUlEcllmSldKT1IzQXBsLVh4cEt4cWpfcE9DRUxDaXlKU2tuSmoya1NGaXdwVW9EQTFGQnlsbDVkQ040WFplaHpJUEhCZl9jMEQtNVZnMGJIWjlJVTlhUnN2SHdCbUdpcmNBOUZKWWU1ampyM3gydXdPQ3BjcTA1UVJzSWo4TTdHSlhpUUlMa2ZxMlRQNTBLc2Z1eWN1VVRUag?oc=5",
       "date": "Sat, 14 Nov 2026 10:49:54 GMT",
       "source": "FMCG India",
       "industry": "Current Affairs",
@@ -1241,7 +1309,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1292,7 +1360,7 @@
       "geo": "India",
       "player": "Dabur",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1301,7 +1369,7 @@
       "summary": "India’s Pharma Exports To Reach US$ 50 Bn By ’30 https://www.fintechbiznews.com/",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzZ6cnZaS0RaWlV5Uk9EZ2tQMGEwNi1GVDUzYWxjLXozbmVuZFRyQkE1YVRvMjdVYzk2WGhoR3RZZG1RTG9wdWF6OGpvV21Ua0M4a0hfT3gyelY3dUxjakl2a3ZmRTUzaWtYb1o5TmQwQV9vTUhOdmpFSUlOeGdSbndYWVdxWkU0R1lBZXFVQ0NQdnBaN3NDYl92MEJhdmUwOWZLR2VLWlV2NVd1UnJFUUZYTQ?oc=5",
       "date": "Sat, 14 Nov 2026 18:15:29 GMT",
-      "source": "India Global Trade",
+      "source": "Biotech & Biopharma",
       "industry": "Biotech & Life Sciences",
       "pivot": "Trade & Exports",
       "score": 55,
@@ -1309,7 +1377,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1326,7 +1394,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1360,7 +1428,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1377,7 +1445,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1394,8 +1462,8 @@
       "geo": "India",
       "player": "Lupin",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T06:24:58.395549+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "ca203c11d406014c",
@@ -1428,7 +1496,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1445,7 +1513,7 @@
       "geo": "India",
       "player": "KPMG",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1598,7 +1666,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1615,8 +1683,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "f6a28c77e11278a7",
@@ -1632,8 +1700,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "9d0b00c85f961803",
@@ -1683,8 +1751,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "a79e591f6c3b53a2",
@@ -1701,6 +1769,74 @@
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
       "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "is_new": true
+    },
+    {
+      "id": "f2594c8966b18876",
+      "title": "Motherson Eyes India Growth Through Global Acquisitions: PTI - Autocar Professional",
+      "summary": "Motherson Eyes India Growth Through Global Acquisitions: PTI Autocar Professional",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWJRZHN6WG1sMk1YSXFhWm9qUkxkYUI3d3JlVFQ2TUZ5bjdSZzhCcklRSEdLZWlNV0VhbWlIZ0ZtR0pVTWdJcTI4QTdoNXhwenk3cG5jMW8wTTRwa2pwZ043R3lqYzVER0ZjSDhpbjhhT3hkXzYtcGNTVlc0VmVaNGQ5QUVxdWVRZ3dmdFRwZVFjaHNpc1JUb2FLZUFqd9IBpgFBVV95cUxOejFPeG5iT3JoaUpUNWpuTjhENkVKRF9yWWo1NE5EbTk0SkExaktmNWpyQWd6LUkxQzlXaGMtTklFTmNpOHEzUnNxc1Z6bG9Nc005VUpfSUdmTlUwc2l2dDg3WXJDSG02dkFiMllWZG42Y1doNE9nTU9CMmpSY2lyMlB6UWttR0FQa0dOZVZIaVVaclhzbVpHMmJnX2VyQzFoSGRLcDJR?oc=5",
+      "date": "Sun, 15 Nov 2026 10:20:34 GMT",
+      "source": "India Corporate Signals",
+      "industry": "Current Affairs",
+      "pivot": "Strategy",
+      "score": 55,
+      "reason": "Why ranked: acquisition · India · global/trade linkage",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "c9edfd1bb9c6b2f8",
+      "title": "Q2 earnings lay bare India’s two-speed consumer economy - The Financial Express",
+      "summary": "Q2 earnings lay bare India’s two-speed consumer economy The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ2tZY01PbW0wcE9wRUdvMVZIbjZxZ1pYUXNlblN3LWVUNmJZUXRBNC1FTmRHQ0RqOUFhbjlUUEk2Um41SE1scmNadDFOQUN5eTVUc1ljdkh6Z0k3X2VmSEV4M1ZmNDFMbEV4REZ3ZHNZTlpUQ1RzV3dvbHVLTHpTb1hSd3hZUHBMV0RhMnJOZ3NfTXR4S0ktbnI4dVZ0b1dPVmhpWUFTVUZONTVpNm040gG2AUFVX3lxTE5XT2lYUkZsaW9UQWhvbjJrWFZtSUJZYW1IdlRUSjdVQ3pHX0NnODNoN0VqRXNKTUwzT2tVVFFxX2tSMTZmMTRqU1BmQWktRS1LUnBrOFJKQmMtNk9Ld3VRX1k1b2JsaFNPdTFUOTJ2V0RiVEZwTGVuemxUMGhMSlpLVzhFM3A2cUtubFhVQWlidEdJMUFFODlpcm5CMTU4Q0hwNFROOE8wV0dHS0hJV19VUm9pUVhn?oc=5",
+      "date": "Sun, 15 Nov 2026 19:02:54 GMT",
+      "source": "India Corporate Signals",
+      "industry": "Current Affairs",
+      "pivot": "Commercial",
+      "score": 55,
+      "reason": "Why ranked: consumer · earnings · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "ef5c26105ac10e61",
+      "title": "‘India-Philippines trade pact negotiations at advanced stage’ - MillenniumPost",
+      "summary": "‘India-Philippines trade pact negotiations at advanced stage’ MillenniumPost",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUS1XamJoeFJrNnczaS03cU55R0NwY2cxOER0MHRQY0V3RUpVU1h6SmdhWW1tSVZRQVhTeUhqYnRLMmhQRlZWZnFKbEtMOGhwTmNaX2VlcjVMWkV1MWd6dl9VWjJPc1h6aGtwR0ZveHIwWVJoSVg3TE8wWFhFQlhVSFJmM3VCUzVpQmVPVW4weTRTNUhkaXVZSTlUN09kR3d3bjZiV2ZGM1_SAa4BQVVfeXFMUGlFZk9kdDJTLW1XeUNmMGhHNW5oN2didlQya2l2WHc5LUlQOXBqTXhaRTNGMmpoUUs0R3NUWWZnUXRkS193NWdIQnhuX2FZR095NjA1LXpCZ0t3YmlpSzR6WkI3OHBjQVBqZFZGdUdxdi1XVmNVa2lnTEtaTVdZTWMxT19lQzYxVWN0a21ZeTlKbjlua1lLMEpBRC0wWlkwbFpjR1QtOVBXbHVUOEV3?oc=5",
+      "date": "Sun, 15 Nov 2026 18:20:22 GMT",
+      "source": "India Global Trade",
+      "industry": "Global Trade",
+      "pivot": "Trade & Exports",
+      "score": 55,
+      "reason": "Why ranked: trade · India · global/trade linkage",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "b8ce0914c798e5ba",
+      "title": "India and Philippines Advance Talks on New Preferential Trade Pact Deal - Asianet Newsable",
+      "summary": "India and Philippines Advance Talks on New Preferential Trade Pact Deal Asianet Newsable",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRVBDaHl1dGNNMlN3b2dUem45X1BpZTNCSFBVRDNEX3c1ZjVLWHowZlJDUGQ4dVBsdUdKMzFaVU54SUExQnI1bkpUbUNJMy1vendkbTd6ZjB0ZTJoNkFyYnRlVklna25DSm5GTU5jVG5xZW9idUk4eDh2WnZFWnNVRkk1WjBUMWVmVVowaGJ3UVFCcU5UUlZad0NkX012X2NYQzNkVkhMOVlBNnlsZ01ENTZfbG84SVYyMl9NR2FpNG9qUWlGYU5ZZHFnSGdRZ9IB0wFBVV95cUxNTXBPZ05NV25uNUdKZllMaTh2ODBQcUVFazNMQjFmM055cTF6OFBWLWVwOVFGUDlBZnUxY0lBM2VkbVo5NE16TjJVUXI5TWN4eHZHY0x1bGtpc19CZThENS1oWjVCR3c1eHFtcGVBb3Zla0dMU0I0ZEJPZHRMUkE1Vl9oNnR4eF8teFJlR2pPdklNSDR4bWxHM0RfV1B0UHVSa1FvYnBTbDk3eEdtWjh2WVdKMHN5LWZJbnlJQ0wwU3Eza1hnY0xhbTB5LW9tbVdTX19n?oc=5",
+      "date": "Sun, 15 Nov 2026 15:30:03 GMT",
+      "source": "India Global Trade",
+      "industry": "Global Trade",
+      "pivot": "Trade & Exports",
+      "score": 55,
+      "reason": "Why ranked: trade · India · global/trade linkage",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -1734,7 +1870,7 @@
       "geo": "Global",
       "player": "Torrent Pharma",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1743,7 +1879,7 @@
       "summary": "Soybean Exports and 10% China Tariff in Focus AgroLatam",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1lQMGUtaWN3ckNPVDBNODZUNGlLVkcxQXNxbTczeG5pWnFaelNiM2JIRGFCV1M1MURaZlg3V2cwUWpYTUoxZVNWMWs4TWdGM0h4N2ZtbDZyS3FTMDhxZnJvV1lOTFlQOGozTnRsUXZPZ1Ewd0ctRklMOVYtSkhYTE80N2s3eDdqOFo4?oc=5",
       "date": "Sat, 14 Nov 2026 16:48:36 GMT",
-      "source": "India Global Trade",
+      "source": "Geopolitics & Business",
       "industry": "Global Trade",
       "pivot": "Policy",
       "score": 54,
@@ -1751,7 +1887,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1785,7 +1921,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1802,7 +1938,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1819,7 +1955,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1836,7 +1972,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1853,7 +1989,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1870,7 +2006,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1887,7 +2023,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1938,7 +2074,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1955,7 +2091,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1972,7 +2108,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -1989,7 +2125,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2006,7 +2142,7 @@
       "geo": "India",
       "player": "PI Industries",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2023,7 +2159,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2040,7 +2176,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2057,7 +2193,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2074,7 +2210,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2091,8 +2227,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T06:24:58.395549+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "3283c9fad490d0a9",
@@ -2125,7 +2261,7 @@
       "geo": "India",
       "player": "Dabur",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2142,7 +2278,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2159,7 +2295,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2210,8 +2346,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "1e97aae6a00f1c13",
@@ -2227,8 +2363,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "2bdcefa74041db41",
@@ -2244,7 +2380,24 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "0701eb08fc08fc8a",
+      "title": "South Korea’s DN Solutions opens first India plant in Bengaluru with ₹600 crore investment - ET Manufacturing",
+      "summary": "South Korea’s DN Solutions opens first India plant in Bengaluru with ₹600 crore investment ET Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVTY2ZnY4dG02Tm1DblZJOVRUMWlmY3BTNW1VRmlsTVR5Y0hkcWFPTW82TllJeklWM0E5QWN3bzBzaDlyRUY4dDMtWkNjSi16VkxNRHItRkl2TzRCamc3M2pyakFoVzg0NFdnU2xTNERPMHFRVlR1ZFR1RXVQYUZaWUY2WDBxZmlRUUZmVXdpRkJ1Qmt5LTBFaENtaDN1a2xxRlVacXB4N0FpOGk2UmVRSmJnRVpwTEM5TkNlNFRGcWZLbTdyME9saEU0NWYxOWZqVHdKUjdPRU1DRkVNQnNkeEdCcWJIUm1JVXUzeFU4UENDMURtZnfSAfoBQVVfeXFMTzhsQkRfWjM2YlNFSkw4MGNyQVFTOGlKdUJSUVpLWnNzNUcxenJJNUFRTWkwSThleksxQmpvU3BVd3J4Yjhkc0ZpRmU4U1N2aE5obE16SjFjUk9yNHB0clJURTB1Z19jT3FRazYySDVNWVVUdVBnOWVrV2dfeng2NEZsdzZiVGpEZFQyTEtrUDhJT3lVLXRfZHNXZVNCdVM3Sm8taGEtUnhYcGQ2VzVSMnBTdkM5Y3NFSEY0Y1dXVDJCbW5Ia18zc25QTVJhckFjcTdCWFQwT2hjNE1aVTZHUnRNVi03SUh5SHRncFlvaFFGWjh3dzBwS0dSUQ?oc=5",
+      "date": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "source": "Manufacturing Signals",
+      "industry": "Biotech & Life Sciences",
+      "pivot": "Operations",
+      "score": 53,
+      "reason": "Why ranked: cro · investment · manufacturing · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -2261,7 +2414,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2278,7 +2431,7 @@
       "geo": "India",
       "player": "Aurobindo Pharma",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2312,7 +2465,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2329,7 +2482,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2380,7 +2533,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2448,7 +2601,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2465,7 +2618,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2487,10 +2640,10 @@
     },
     {
       "id": "2d6e61263ac68726",
-      "title": "Earnings call transcript: RHI Magnesita India posts steady Q2 2027 growth - Investing.com India",
-      "summary": "Earnings call transcript: RHI Magnesita India posts steady Q2 2027 growth Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNWFxdi1QaXVxWm9ZX3pJUlUwV2hiQmNSVHBkWjJxa0NLT2pGcy1kRVEyc2F6NXlmb052UnNIaWZpbjJWNFZtY19Nb0RKQjRRVWlLUlpxWmE1eFBYNDVHN2RaSGRMMFA4cC1QaHk4RzEtM3dHNGdBZFI0Z2J4UlZESWVJUkZxMEtkWU53RlhqSkxBdGNETTk5UmVlbWdGcFZmaThvQ05kZ0dsTVV3eER0N0ROeUpYM3BUUlI4MTFDa0FxU3ZxTE8zdWFkLTdmUQ?oc=5",
-      "date": "Sat, 14 Nov 2026 06:39:23 GMT",
+      "title": "Earnings call transcript: RHI Magnesita India posts steady Q2 2027 growth - Investing.com UK",
+      "summary": "Earnings call transcript: RHI Magnesita India posts steady Q2 2027 growth Investing.com UK",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNEctZFlwX1pEQ05la1ExRFNLZFFOeUVwTUxZdTgzSHFiR05ZQTVRdk1ZaDd3V1NyMTVoQS1vSjlwLUswZng1cXhpcGdVOHpDcC05Wm8zLUFNRFhHbm4wU1NNZVNTMlByRUV4QXNFaWZyUkpKV05GVmtkUHB6b3ltSGRMNlRScUVWT0p6R3BhVG9QemVYNW5VaFRHdzVVOEVvZ3N0azI2Vk5ScDh0cEM5Z0hhY2Z4YTNMb3pfc3FvbFBtazZYSkk2TnZFQmdzQQ?oc=5",
+      "date": "Sat, 14 Nov 2026 06:38:00 GMT",
       "source": "India Corporate Signals",
       "industry": "Current Affairs",
       "pivot": "Companies",
@@ -2499,7 +2652,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2533,7 +2686,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2567,7 +2720,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2584,7 +2737,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2601,7 +2754,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2618,7 +2771,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2635,7 +2788,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2703,7 +2856,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2771,7 +2924,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2788,7 +2941,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2822,7 +2975,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2839,7 +2992,7 @@
       "geo": "India",
       "player": "Sun Pharma",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2873,7 +3026,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -2907,7 +3060,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3043,8 +3196,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "0e8dc9b7420b4556",
@@ -3060,15 +3213,15 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "6c4f199f43d54a8b",
       "title": "India's first Zika vaccine nears human trials after CDSCO panel review - Business Standard",
       "summary": "India's first Zika vaccine nears human trials after CDSCO panel review Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNW9CSm51a1RqdzhkT0dGSEJJYThVdS1nLUFqSUMtWjg4TGxTQkRIb21TcExCZll3R2o2bTRROWVISVJDMTB2NVNQbktOazlIQ2ktNW5RaVRyb3hUd2c3X0VlUVhBTnBIaDA1ZkZVeXQxcHUySURBS0p3Z3c2UHdsb1pZWjJ6T1NxMHhVR19Cc1J2X1VNelZNYXVLRF9JN0lqdzIwOVlFZzBSdkdfcEMxaGJtODV6R003N29FSVpkZy1DUHlxVENkTTBuWmJYN2tNamVmZUFvdzBEQzDSAeABQVVfeXFMT1NnbW8tLWxkS2ZLQm9vTmZZZjBKcEJwNlk0TjJJbmNOZFl2clhhWmhoYVpaY3JMaXNra0VjZFk4bUUxN01WX3RJTFd3c1dqeEc1OXdQQ1FXeC0yaGhOR0ZlSjRpQmQ1cFIxdDRtSjJodjZsMTQzWExJRHNNSXFwQmlMc0htd3E5NFNoMUp3YjVkUGNCNEQ3X1kxTnR5eWRiamxqYzhxclVIRnBya3QybXBUOWhoZm90VHA4ZjVqYTk4dE5zSF9LRjFDMGxHZDZZWFpYaTFGVS11SU56dS1tYUE?oc=5",
-      "date": "Sun, 15 Nov 2026 06:44:25 GMT",
+      "date": "Sun, 15 Nov 2026 06:44:00 GMT",
       "source": "Biotech & Biopharma",
       "industry": "Biotech & Life Sciences",
       "pivot": "Strategy",
@@ -3077,8 +3230,42 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "6d671538b0a9bb6f",
+      "title": "Mahindra’s Electric Three-Wheeler IPO Plan Tests India’s EV Shift - Urban Acres",
+      "summary": "Mahindra’s Electric Three-Wheeler IPO Plan Tests India’s EV Shift Urban Acres",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGlzSVUzZTZYTGhOS1c5Yjd2V1B4QVU0bzhza1N3SXBjeTlXVkRhTkRyLUxLeUlaRGVTQnN1NGlwaEkwZ0VyTU1CQ1FTQksxYkpHYWU4SlRwZEpKSjNzX0gwRG9lOXlpMkdUd0xpUnluMVBicG5sTWVIZzkwa3NyTHFidUtDNm9Eb09iX1ZCMA?oc=5",
+      "date": "Sun, 15 Nov 2026 18:37:11 GMT",
+      "source": "Operations India",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Strategy",
+      "score": 50,
+      "reason": "Why ranked: India · Mahindra",
+      "geo": "India",
+      "player": "Mahindra",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
+    },
+    {
+      "id": "9b3fdbddc58c5675",
+      "title": "Eight of India's top ten export markets see double digit growth - The Economic Times",
+      "summary": "Eight of India's top ten export markets see double digit growth The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0VOT2pGblRGckxFRE9na1JSMmk4dXJzVWl0VExReFJXMHI3MFZ2MW1fODlidzFqemF6cllHTHdYNjlna3pIc3Q5aWRDX2JhcFJ0WEl3UEdFU0R1alNDN05ieHk3eGdHbW5VOExhYlhUenczQlFUeEEzN2ZwajZ3UnVwR0VJaXRuUGtTZWF3ZGRwczJCeDJHalNJUUJGUjRqc1dYSEtHdmY5VmUxaFV3QnlPMmZ2Z2o3QnhqVHpUcHJDckdkc0xjTVdROHhodDlTOFViNU5DMU5WSjjSAeABQVVfeXFMTk53aUtGSDk4ZXZuS1JPTjUzbmJqNUsxZ3ZrbTUtTmRaZXdFTVpUcGlETkNzUGJaLXZaN2dMMTV5UEYzMVRqcmxQTS0yZUVyX25mMF9zU0d3WE56MU0zbXhwM1d3SEhoclRZUGpoaXBKTHlFcTFVSjN3ZGJSek95bUlZd2FqS0tQYkZxSzBBYklBWEFWMHY2Y3hhc2ZQVmNTRV9tZGxPTk9WbHF4VFZROUFLQW5OWE9hbEl1VXNONnoxTmdYTk9OcDhEU19VZVBoT0xFNkhCZHhYbF9VNzlpM2c?oc=5",
+      "date": "Sun, 15 Nov 2026 19:07:04 GMT",
+      "source": "Geopolitics & Business",
+      "industry": "Global Trade",
+      "pivot": "Trade & Exports",
+      "score": 50,
+      "reason": "Why ranked: export · India · global/trade linkage",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "d0b5ede2232b4a24",
@@ -3094,7 +3281,7 @@
       "geo": "Global",
       "player": "Britannia",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3111,7 +3298,7 @@
       "geo": "India",
       "player": "Aurobindo Pharma",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3162,7 +3349,7 @@
       "geo": "India",
       "player": "McKinsey",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3179,7 +3366,7 @@
       "geo": "India",
       "player": "McKinsey",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3196,7 +3383,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3230,7 +3417,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3264,7 +3451,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3281,7 +3468,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3332,7 +3519,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3349,7 +3536,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3366,7 +3553,24 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "476028cfecc3490e",
+      "title": "PM Modi urges farmers to diversify crops beyond wheat, rice and sugarcane, calls for multiple income sources - Organiser",
+      "summary": "PM Modi urges farmers to diversify crops beyond wheat, rice and sugarcane, calls for multiple income sources Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONXdyZU51MFNPRWQ0ZVZlZm00MU9mS0xBbU91Z1FuMTE3ZzRId2Z5UVhjQ0VDa2RpT3ExQzk2U01ET1NEQWpnLWxtS2dYUHdCRjVrOXFKVExZaW1fMUcxM1dhWDNibTg5XzVsMC0tM01Nb1BBZ2hzeTRuVjV6Sk5ORF9qQWlUV3p6dXA5eHNzakJTbkhjcnVtZF9fb05FVnZnUXBEQjYxYjlYSG9UZ0trbkwweFRpM0cwY18yYndRQWtNc0E3N054T1ZjREtqVkFOaVZKNGJUREVqbTctSTRnV3VUSkpuZ2JNZkHSAe8BQVVfeXFMUGlqLUJZOWNjbC1aTUctV2dObTFRbE50MXVhLUE0bzFlb1FnQ005VGdLZndwdVpMNTU2RXZHbnVvZEVOdmUwc0h0VTV6amhVV1NlcFcwSm5heXZzdVFUZWkwZXhWelVhVWxURUU1cUhUSzVFR0pTend2c1hkWXVWeEIwNTBJMjJwOGRBbmJXRG1qUzdBWVBXXzh0LWt2RV90ZVF0UXZsN3U3UWZOUXYtWjBIU194U3R2aUlMOVNDSGZLZEhhazh4RFQyNnV4R19FYVJVLWRzWHR4bW96LTR5QmxqSXE4ZEU0aEkxZGdLYUE?oc=5",
+      "date": "Sun, 15 Nov 2026 05:06:18 GMT",
+      "source": "Agriculture India",
+      "industry": "Agriculture & Allied",
+      "pivot": "Strategy",
+      "score": 49,
+      "reason": "Why ranked: crop · rice",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -3383,7 +3587,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3400,7 +3604,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3417,7 +3621,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3434,7 +3638,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3451,7 +3655,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3468,7 +3672,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3553,7 +3757,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3587,7 +3791,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3604,7 +3808,7 @@
       "geo": "India",
       "player": "Dabur",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3621,7 +3825,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3655,7 +3859,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3672,7 +3876,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3689,7 +3893,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3706,7 +3910,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3723,7 +3927,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3757,7 +3961,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3774,7 +3978,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3791,7 +3995,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3808,7 +4012,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3825,8 +4029,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "25e1b38ac1c602e8",
@@ -3859,8 +4063,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "910bbb1ab4d8acde",
@@ -3876,8 +4080,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "eae1196e81f6386b",
@@ -3893,8 +4097,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "68615a600a52e1bc",
@@ -3910,8 +4114,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "3fe7c18e484aaf43",
@@ -3927,7 +4131,24 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "1b21aeaa491c3f0f",
+      "title": "Vizag Adds Semiconductor Manufacturing SEZ to Its Industrial Base - India Briefing",
+      "summary": "Vizag Adds Semiconductor Manufacturing SEZ to Its Industrial Base India Briefing",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlQ4NU5BVVBON2cweEdxaFBMOUhQR1o2MG4yOWMtaGxoY2ZHeXBCem1MNzNMRE1tX2N4Y2lWdEk2OEljV3RKdkFwWWxpd0p5RExCT2kzdm5iU1k1TnZfVGM0ZGt1Q0RUSjU0OXBPdFZxZkd3WWJxMV9sYVpmeGo4RnlrR1pwaTFiRWhvaEh3X1IyajBYb0N5eVFfLXZGZU03cmJ5ajNsZFh3TU93SVE?oc=5",
+      "date": "Fri, 13 Nov 2026 14:14:51 GMT",
+      "source": "India Policy & Regulation",
+      "industry": "Current Affairs",
+      "pivot": "Operations",
+      "score": 48,
+      "reason": "Why ranked: manufacturing · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -3944,7 +4165,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3961,7 +4182,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3978,7 +4199,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -3995,7 +4216,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4012,7 +4233,7 @@
       "geo": "India",
       "player": "ITC",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4029,7 +4250,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4046,7 +4267,7 @@
       "geo": "India",
       "player": "ITC",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4063,7 +4284,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4148,7 +4369,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4165,7 +4386,7 @@
       "geo": "Global",
       "player": "Maersk",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4182,7 +4403,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4199,7 +4420,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4284,8 +4505,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "c7ac604cf27f3958",
@@ -4318,7 +4539,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4335,7 +4556,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4352,7 +4573,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4386,7 +4607,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T06:24:58.395549+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4437,7 +4658,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4471,7 +4692,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4488,7 +4709,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4505,7 +4726,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4522,7 +4743,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4573,7 +4794,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4590,7 +4811,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4607,7 +4828,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4624,7 +4845,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4658,7 +4879,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4675,7 +4896,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4709,7 +4930,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4760,7 +4981,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4777,7 +4998,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4794,7 +5015,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4879,7 +5100,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4913,7 +5134,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -4998,7 +5219,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5066,7 +5287,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5100,8 +5321,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "e5519de9c4e6c15f",
@@ -5134,8 +5355,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "38946bfb8ee7b2f0",
@@ -5151,8 +5372,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "f9d591a0967a040d",
@@ -5168,7 +5389,92 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "7960d834fa8abf9a",
+      "title": "HDFC Mutual Fund Enters The SIF Space With H-SIF To Unlock New Investment Opportunities For India’s Evolving - Free Press Journal",
+      "summary": "HDFC Mutual Fund Enters The SIF Space With H-SIF To Unlock New Investment Opportunities For India’s Evolving Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUnM4ekFzWVFmRWJpU2huUG92NUY1ZHlRTUtJSkItcExVYWtMV3VJdGNNZmRhdkJVbG5ROEY1ekFiTnRlbFhsYVJERXhyLTNKd1dXNXloLWdwSWdMYzNXbGtkOHoxX2dJQzg3RzcxMkpDNjduVGJpVVN5M2lxc1pWdVFFVmNkYWE3bHhHTGxBQVhpMHRnREZnVmJJTjBYUlhYQzNzZUhMdi13UFJSbzJjclVUWW5JZ0hTdzRvLUJhQ2M2V0xxSlg5aWEwS3kwS2cyX3J3SXA4c3NUN2xvQmEyYjZnOUUtOE9aMTU3TDhRZ9IB9AFBVV95cUxPaXphMGRxR2pjZEVnb0dkRmItNW5DLWJOQ3NVNWRHcTluOFB1d19NQUgwak1LM2NWbjg3cmdoYlJyX2piZFV0YTN0RlJhZlRBcFlDZzdRNGswc1JkcHl1cE5xU3RUVTZLWXJvdFVXMzlIYVNqc3ZUd3hURVdKYXBONTdTOW92bFgzRHNWUjVFQjc2akQ1UktoQ25wajMtZGtLTnlYSzJDc2VpTkZobHlQWlhTNVFIT3owNTQxSjk2MVFrTUt1T2NpcDVqN1VJMFVKRExvaUNhd0NmOENvcnBNOTd4QXhQdU1xSUJMTGZCYlNnMG1x?oc=5",
+      "date": "Sat, 14 Nov 2026 17:56:42 GMT",
+      "source": "Commercial Strategy",
+      "industry": "Commercial & Marketing",
+      "pivot": "Strategy",
+      "score": 45,
+      "reason": "Why ranked: investment · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "2a9dd2001aa0fd99",
+      "title": "India’s pharma industry shift towards high-value drugs to boost demand for agrochemicals and specialty che.. - Indiatimes",
+      "summary": "India’s pharma industry shift towards high-value drugs to boost demand for agrochemicals and specialty che..",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOR1RRMXhsaWRhVHJoMWw1MmtoYW5TS0RQWTh3QzBtVkxKZTdjX0dZdzlfY09pOXlSa1g2MU1wTkNrbGRiN3pMV2Z2Vk1WVVdQOWhNZFpINk9tOWZRSUpnZThLaGpRdmdhTW94X0w5VFBSZzY0WFVuMUFHVG1TRXR0NVBWRHQ3R0xSVkJGa0xXSVdvWWs5aXMwWVY3TXMxbkpvdTMxTUM5ajkzcnlBMEVGR3F4VU5EVUtZLV9CdXlKNGR4eE1BamE3S2ZnUDFRVDI5OTdqaUZHX2tiMGstV1BYWXQtY3lRLWNKRTVhb0hRd1QzVzVGYTB1ekpoV1JxN1dJZ0tnVzZiaGFDeDJPZkpPQmpqYS1lWXVHdmUyMmt4djlyUWtLTU9sNktrU2VhcmlkYU44RFJxTWhpTDN4Y1F2dGZhYWZRQkxwQ3NIdnE0VUJqU0XSAaICQVVfeXFMTk1zNXBUdnNqZVhSNmk1WmJCb2ZVbXRqSDlmMTJVYUZZNTBCVC1mVHhVZjZZX2FjWTg3T19lUVpiVlo0TGR5dWxXSVotdDMzb1ltYTJNMmdGQjFJQ1Z1cGxieEVUaUlmMUR0OElacmRKbFVJQXhOeGdWa3Q5anRsa1hfdW54cGdKcm9GRWRGWVJ5Uk5ORDZPZ25PMEtFVHNwRkJaZ01tLXRrazBiWUlQeTd6OHRtOXZXdmxjaFBIMXlCWlAtOGhFZzZlbkd6UEFRTVBYQ2R6MTJXcWM1UzFqaUw5WkpGcHpSTWIyTG5PMjNNaGZ6MUROTG5zN0ZSUVhsdG5maWxTTzdvdEJXZUpVVFROWGZ3ZjlQUzZnNzlBZ0RoZVE?oc=5",
+      "date": "Sun, 15 Nov 2026 18:26:49 GMT",
+      "source": "Pharma Regulation & Exports",
+      "industry": "Agriculture & Allied",
+      "pivot": "Strategy",
+      "score": 45,
+      "reason": "Why ranked: agrochemical · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "c7f8b96d265b3cb2",
+      "title": "Top 10 chemical distribution companies in India in 2027 - Indiatimes",
+      "summary": "Top 10 chemical distribution companies in India in 2027 Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOV2ZIY0hOMlItVFJJQkpERThxUXZpWnZpY2p3cDhQRE8xdlluRWpDMGY2TGRoZ1QzLVZma1l2bmNOZ2prS2JsU3pIX291Z1hyd3RvdF9HVlBJamJ2SUhheHN3UXIyY0lPX0hmTWxTSFhCNG9MWFZ5eDhvUDU5WlhIaUZqRjE2YTkwYWpzNENJMVlsaFc0LWNkYnljdUd5YmlzNEZlTlZxQS14eFBTZUNrSFNoQUl4VkRSTFBpM3VobF9qN2ZxLXBYVUVBeUpwdUlmLVoxWkUwZl9ySjNTNDk5cUlmY3dKTHpUVmtpZ05lOGpIX2FwSTFVMDJRcWFUQ1Y3Qmo4SWhwTXDSAdcBQVVfeXFMUGcwVVhTSVFnY01iY2tqMDFJYnlMRUdYZUJIbHdDRHNJTHNpQTRfUUhJUldpdUQtNml0WlFrRkF5cWFDNVM2dXZyZm1oZnJ1ZnNRcjM1NjBHWlNnS2twY19WVVZZUTBMRXFuU0xIeURac29yM3NUOWlTbG9weFh6bEpVb3pPZHZoN1Y4VC1hTFpWbHFFcElBbzIwcjZQTmNhc3g3RmswdlNBbHNHLW9Od2l3U1g2NTl0dzhwOTA5anN6SmRRMVVHMzItVkhoVk1rVWFveXVRVE0?oc=5",
+      "date": "Sun, 15 Nov 2026 18:26:48 GMT",
+      "source": "Pharma Regulation & Exports",
+      "industry": "Biotech & Life Sciences",
+      "pivot": "Commercial",
+      "score": 45,
+      "reason": "Why ranked: distribution · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "0075b65d52eb2a68",
+      "title": "VIDEO: Jyoti Malhotra on EV Demand, GST & Supply Chain | India EV Conclave 2026 - Autocar Professional",
+      "summary": "VIDEO: Jyoti Malhotra on EV Demand, GST & Supply Chain | India EV Conclave 2026 Autocar Professional",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWZEZHZaeVlzOWgzMFgxQWZQZnVtZ0NzMi12WG1TVTRYR242NC13TF9oU2FTQzMyZVBZSDFjWlE4MVRpUHRIWElwWVo3LWttQzVLdEJvNTRfcFlFU3JqNHpFRmpXN1VXcGF5SnJQdU5Ub1JzenR0UU1fM0J0LVBjd1J4amxRbEViVW16UGM3azl6cmtpMm9IdnJrWWlBYk03ZnJyanUyWU5JUnB2eHNURF9R0gG6AUFVX3lxTE5qYTNDN295N3ZkYmZHVXpEeTBXOTZaRTlQWk5TZDEyN2dPczdKdS1rTXhydlpRVlBvY0M0ZVNvVlh3UGJJREsyVzc0SldUeEcyc0J4MVV5WmZwLTdPLWNJTzY1MDdXaVp0NXBtanVhSHJBTmxnclVhTERyaGhRRHZCaE04WGNiR3U0RFAtOGhFWlk5NFNqNHRTei1DQ3ZaVWVUR084ZktudndlMTZwSlhGa1J0RUJaYlFLdw?oc=5",
+      "date": "Sun, 15 Nov 2026 16:35:32 GMT",
+      "source": "Operations India",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Operations",
+      "score": 45,
+      "reason": "Why ranked: supply chain · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "117b32a5bacb4a61",
+      "title": "Gillette India Q2 Results: Net Profit Rises 10% To Rs 159 Crore, Revenue Up 4% - NDTV Profit",
+      "summary": "Gillette India Q2 Results: Net Profit Rises 10% To Rs 159 Crore, Revenue Up 4% NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWUtxdHRmdTByWWU0N29PTVNqUkNYOFB0WURLSUFwakE4Y05YYjBvdExOYmp4VzU3bHQ0U0JldE5IS3A5UklCcjlIZUtwQmQzUnNEcUxHSHFNNVh4TXRlNDctZUI1a2g0ai1NN0N6ZzM3Q2hmNHI3X1dCWUM4LUNaSTRROTF6eGVPQWxkeDFsYUZVTDUwVkd1NXMycGswQWpLVHNsXzlCWmtxZndFYkxyTXdFX0VzNHd5c2JaZnZnaktDaDJBa3BQUXFOYjRXUDE4cGVQNXpCWXMxeGVWWHR3YzVfU2ZFTTVOc2FPMDVUZnnSAfgBQVVfeXFMT0w2WUYxN0NoZ05Ic2U5WkIyZWlFTUhlZlZFb1A1QXdoRnAwODlNTW9pbGxNTmxmX0h1UlJVMC1CY2tRamtxeFg0U1VhS1ZMemIyNmxnS3k5V2NNR2ViLVhXOC1BNW5GOFpQb2lJZ3ljV0xoa1VEZFdXYmJsWFAxeXZoRXpqT1JGLTJQSHZRZnhEWFJCY19pX2gtUEw2bnJoSmlzcjNLR1B0Y0ZnMXdlQ2dTQnd2dThRUDVROUNiODI0MGZJWHRmdW1pUDJQQ1ViQ20tYkpKcU9YME5ndDdFVnJIbXNfdlZzaWxkM2dNNW1zcDFuVTdvdVo?oc=5",
+      "date": "Fri, 13 Nov 2026 07:41:35 GMT",
+      "source": "Innovation & Product",
+      "industry": "Biotech & Life Sciences",
+      "pivot": "Strategy",
+      "score": 45,
+      "reason": "Why ranked: cro · revenue · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -5236,7 +5542,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5270,7 +5576,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5389,8 +5695,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "70b32aee9b9e2a22",
@@ -5406,7 +5712,41 @@
       "geo": "India",
       "player": "ITC",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "5811b76b96039be2",
+      "title": "Sun Pharma eyes $4 billion loan for Organon buy, five banks likely to anchor refinancing - The Economic Times",
+      "summary": "Sun Pharma eyes $4 billion loan for Organon buy, five banks likely to anchor refinancing The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNVi1zZ2RKZFctLTBzQWRmb1ZXV21xQVI2Rzk5SFBfVU9hcE55Y2hQMmFKeVVVdmRUeUk3MklTcEhNVk9YSkdhemRQSnhYMmV5MUxlMTBsZHlBejNibEx1SDdIbmtsNzY3YzQ1VWp1MWFwZmtSOW0wVjY0R3NvWUZnekRMWnJNMXF2cGFkN3oxbXhuYXhGdXJOWmI3YUxkYnR2QS1EZ2lOeXA2c0hfbGNWbEJtQWctUlZTZzJ2N3JPdGhQdFhtdjAzZGNUUnJDajdPQmQ5SnUzc0JkRXBGVy0wRWU4bVV1VUV0ZFd1a1AxWjR1R3JKVzhPMVBTVGM2Z25DTFM1cTdBV1htNTAzMWtnc0kzLVRYQ25JbUZ4WGFR?oc=5",
+      "date": "Sun, 15 Nov 2026 18:54:58 GMT",
+      "source": "Pharma Players",
+      "industry": "Biotech & Life Sciences",
+      "pivot": "Strategy",
+      "score": 44,
+      "reason": "Why ranked: pharma · Sun Pharma",
+      "geo": "India",
+      "player": "Sun Pharma",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "188d211d1e23138b",
+      "title": "North America container imports rise 9% as as freight pricing pressures mount - FreightWaves",
+      "summary": "North America container imports rise 9% as as freight pricing pressures mount FreightWaves",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYk44OEdhMU15anBXYzlCa3NCSnVHcHg2Y1VxaHNGVzVQTVR1WlVocXVKdURQbjIzejJiMGZHdW5oMFdXa1hFX09wWWI5MEExNXp4dTM0ZHdYSXBYVVh5M0ZZeHMtVDBSVGM1RDdKWGZORy1hSlVjdWpFODJpRTctQUZBWExCNm1pcmplNTJJNlh6ejFrenFZMjJ1V3plWEl2S01McjRPdXlfZ2s3dnZB?oc=5",
+      "date": "Fri, 06 Nov 2026 15:09:01 GMT",
+      "source": "Global Supply Chain",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Commercial",
+      "score": 44,
+      "reason": "Why ranked: freight · ports · pricing · import",
+      "geo": "Global",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -5423,7 +5763,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5440,7 +5780,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5457,7 +5797,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5491,7 +5831,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5542,15 +5882,15 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
       "id": "016828af5dbaf637",
       "title": "India’s complex molecule push opens new growth avenue for specialty chemicals and pharma intermediates - Indiatimes",
       "summary": "India’s complex molecule push opens new growth avenue for specialty chemicals and pharma intermediates Indiatimes",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORGxJYWpqaVV3LVZHSUl3SFpPSmdiN3lISFIwcHpLMFNQTGxYelJVaHZqTEZWem1HQVo4Q2NYZHlULTNjSk1YSFc1Z2xlaXUxYmQ2M1l4azJWTHBQZk9DbjFVb1lPM2t2dnNvbmdPN2VXMjI1c2dCYmF3MnpvdzNMSDVUeGY1cXJVVnJKVHlHRFdQYXk5cVl5eG9JYk5ZaU1yU1poR0FiMGUzc1pMYUhFaTNMY3hkZk9uV1VIX2M4bFBYWVEzckxHem9GZmxzMFRyY3BQYlNkcEJZN19laVlhdHpvSnpKZXZab1JwRWQ4MDh5MzJhTGc5R3FFX3hXeFIzdGhTSm0tX0RfLXE40gGQAkFVX3lxTE9yUjVtWDlkdVVNQkMtMTZGOEZycTBRVkpVclVzV1dnMXhadm1CLUJnNk4zR3E3LW1EUVpOczNEWmdrTEtTN3JZOU9YUHlPSzZtSmJaTTRfNGpLWlFBd1hNWHh6TFZXUkEtNFQzc3Z5dGxuOXZ1WkFNYm1HT1o1T2tNM2pEcllXSTlGSW52Nk1CSHlGN3JBVGE2MkRfb3JJSlpaSFFzcncxSGJZYXZvOEktYlYxd3lWODdxcHJDU1NjazVfTmNoa2U2WUhxbmRNU09oRUpxZjNXRGlnNy05SGhpcGVEQnJUYkNGRWxCY3l3UVBHa0pNSG1PWGlFMzVOLWFBclBQWXhYUjVHZHg4OUxX?oc=5",
-      "date": "Wed, 11 Nov 2026 20:40:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPclI1bVg5ZHVVTUJDLTE2RjhGcnEwUVZKVXJVc1dXZzF4WnZtQi1CZzZOM0dxNy1tRFFaTnMzRFpna0xLUzdyWTlPWFB5T0s2bUpiWk00XzRqS1pRQXdYTVh4ekxWV1JBLTRUM3N2eXRsbjl2dVpBTWJtR09aNU9rTTNqRHJZV0k5RkludjZNQkh5RjdyQVRhNjJEX29ySUpaWkhRc3J3MUhiWWF2bzhJLWJWMXd5Vjg3cXByQ1NTY2s1X05jaGtlNllIcW5kTVNPaEVKcWYzV0RpZzctOUhoaXBlREJyVGJDRkVsQmN5d1FQR2tKTUhtT1hpRTM1Ti1hQXJQUFl4WFI1R2R4ODlMV9IBkAJBVV95cUxPclI1bVg5ZHVVTUJDLTE2RjhGcnEwUVZKVXJVc1dXZzF4WnZtQi1CZzZOM0dxNy1tRFFaTnMzRFpna0xLUzdyWTlPWFB5T0s2bUpiWk00XzRqS1pRQXdYTVh4ekxWV1JBLTRUM3N2eXRsbjl2dVpBTWJtR09aNU9rTTNqRHJZV0k5RkludjZNQkh5RjdyQVRhNjJEX29ySUpaWkhRc3J3MUhiWWF2bzhJLWJWMXd5Vjg3cXByQ1NTY2s1X05jaGtlNllIcW5kTVNPaEVKcWYzV0RpZzctOUhoaXBlREJyVGJDRkVsQmN5d1FQR2tKTUhtT1hpRTM1Ti1hQXJQUFl4WFI1R2R4ODlMVw?oc=5",
+      "date": "Wed, 11 Nov 2026 13:28:35 GMT",
       "source": "India Pharma",
       "industry": "Biotech & Life Sciences",
       "pivot": "Strategy",
@@ -5559,8 +5899,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T06:24:58.395549+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "c4869fd94c99743d",
@@ -5576,7 +5916,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5593,7 +5933,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5610,7 +5950,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5627,7 +5967,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5644,7 +5984,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5661,7 +6001,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5695,7 +6035,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5712,7 +6052,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5729,7 +6069,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5797,8 +6137,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "c816044760da28bd",
@@ -5814,8 +6154,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "44ce73d55fa51ce8",
@@ -5831,8 +6171,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "b5fae27b932d29ef",
@@ -5852,6 +6192,91 @@
       "is_new": true
     },
     {
+      "id": "be747e63566ec536",
+      "title": "ABB India Q3 CY26 profit surges 8% YoY to ₹443 crore, order growth led by electrification business - Upstox",
+      "summary": "ABB India Q3 CY26 profit surges 8% YoY to ₹443 crore, order growth led by electrification business Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU0V3VlE3Skp6M3hKUFVQT0JyM3ZZbXp2RUZCQzJIVGtEWUxPS2NCTWl5YzJWQ0pNcTlaSmF2WWFraWdlZUJwOVdUX0ZHbmc4UC0xaWJUUHc3TUZJTUtwN09xcTVNczlnRjVjejRFQXg3a05EUVh0V1NzMkZlWU5SRlpFY2djOXdiNWIxQzRfX0kzczN3ekZ1bHFNaWo0NFVJbEVyMk85SVBQcjZLeFdya1prMUYtdmYzV1lDVXYxb2IwbnZLR3Q2MXFtMjFMYjlsOTdxQllLYjFjQnNOeTFvS3pDSG5NX2k4a2M0ekczVQ?oc=5",
+      "date": "Fri, 13 Nov 2026 13:52:36 GMT",
+      "source": "India Corporate Signals",
+      "industry": "Biotech & Life Sciences",
+      "pivot": "Strategy",
+      "score": 43,
+      "reason": "Why ranked: cro · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "89651075395f2e40",
+      "title": "Bhagwati Devi: Leading the Ragi Revolution in Gumla, India’s Emerging “Ragi Capital” - Indian Council Of Agricultural Research",
+      "summary": "Bhagwati Devi: Leading the Ragi Revolution in Gumla, India’s Emerging “Ragi Capital” Indian Council Of Agricultural Research",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkZPMTd5djh0SmU1aWhOVkRyRndSQXRuZ3E3M0NFWEt0LXFYaTVha0pTcjdYQmZvUnVXcTJqTm1KT21XU0tyYWdOaDA1Q25SY18wSGI1bk1PT1E1dkdSZmVvbmRybmZ6Qm03RWNDdElic0ZmS2hQWEc1V2MySldnUEFoX2RKVHNyVVBtcTRVVGRhYW45dWZ6ZkoxOA?oc=5",
+      "date": "Wed, 11 Nov 2026 20:45:28 GMT",
+      "source": "Agriculture India",
+      "industry": "Biotech & Life Sciences",
+      "pivot": "Strategy",
+      "score": 43,
+      "reason": "Why ranked: api · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "76dd7338b39eeabc",
+      "title": "PM Modi underscores agriculture modernisation as vital for developed India - The News Mill",
+      "summary": "PM Modi underscores agriculture modernisation as vital for developed India The News Mill",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeldMTEtXZXkxZW9uRHZSRXUzYUU4QzZyN1M1bDE1RjlaR2ZNTVB6TWlKZUQzZ3pyQ0NibVNBeGxabE5xbkFOcWtNMUJ6dVM3TFJlMWM2NDNrX3hYaEFKeHZCTmlsMDZrWFFsM0V1QjV6SjVERlRzX0d0bGdXdE5BczFxbm90cHFRZ1EwQTBmSmcxaHRjenM3d0xVZ0VvWnJsVVJuR0pBQkVNWm8?oc=5",
+      "date": "Thu, 12 Nov 2026 16:02:16 GMT",
+      "source": "Agriculture India",
+      "industry": "Agriculture & Allied",
+      "pivot": "Strategy",
+      "score": 43,
+      "reason": "Why ranked: agriculture · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "ed3eead7cc5b3f23",
+      "title": "Festive Beauty Trends Shift from Makeup Staples to Skin Prep, Premium Kits and Omnichannel Shopping - Indian Retailer",
+      "summary": "Festive Beauty Trends Shift from Makeup Staples to Skin Prep, Premium Kits and Omnichannel Shopping Indian Retailer",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNm54aTRPTG8yVTV2LXFWaGFnTmRzYkJxaUQ4czdYZ0EwQkhEMHlrMFYxM2FHdGlRN2tLMUhIdlFuWmR4bkptOHFzdE9zVmxwazVrMk5aWEhfZkFQQW4zYmVTbFdXU2FsdWczUkpQbEZobFIzU2tjcWVuekJ6Q3JKUHg5WldmejFKa01MY09HMGUzVXhaMkJMc2V1OHNkRkN6VDlEWGJUdk5HZS1ZZ3JheEd5WmRiNjdWVzV4VExIREM?oc=5",
+      "date": "Fri, 13 Nov 2026 11:20:20 GMT",
+      "source": "FMCG Channels",
+      "industry": "FMCG",
+      "pivot": "Strategy",
+      "score": 43,
+      "reason": "Why ranked: retail · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "7e9174b3379a2266",
+      "title": "Page Industries Reports Rs 203 Cr Profit in Q2 FY27 - Indian Retailer",
+      "summary": "Page Industries Reports Rs 203 Cr Profit in Q2 FY27 Indian Retailer",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1hwQlhnQndEWnVkdG9aU1RSeGFSVDRxZmVZX2F2SC00WUYtQXlVdWp4Q04xMTZfLWFfR1J5NHVMV0x1eV9DaEFBUS1LOFZCY293U0NKSjZ5WUhwWkRzMHpQWTY0dkxTTC1QR2g0YVQtektMc1BwMFhFMGdrTDFRZlFCMWViZzg?oc=5",
+      "date": "Fri, 13 Nov 2026 10:05:04 GMT",
+      "source": "Commercial Strategy",
+      "industry": "FMCG",
+      "pivot": "Strategy",
+      "score": 43,
+      "reason": "Why ranked: retail · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
       "id": "18fb50f6d4adff29",
       "title": "Crop Protection Sales Are Getting Harder to Close, Even as Farmers Still Need the Products - AgroLatam",
       "summary": "Crop Protection Sales Are Getting Harder to Close, Even as Farmers Still Need the Products AgroLatam",
@@ -5865,7 +6290,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5916,7 +6341,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5967,7 +6392,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -5984,7 +6409,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6001,7 +6426,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6010,7 +6435,7 @@
       "summary": "ITC Foods’ Right Shift clocks 300 pc growth, plans quarterly format launches to expand 40-plus nutrition p..",
       "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPSlpqaHNRRi1EWWNqUXRaLTgwS1FRekt1U19FMHJ0Z214S2t3em9JXzRzX1pYamRnZE8zYldEZEViRk1WRTFqcFBGV3dKSGJULTJramtWZC1Bek94dlBGcTNZOURhdjROdWN1YnE1dGJLQUVPYlJrTHVFVDEtbE5LZGwxNm9SSzBQMDZvNEZFdmRqZnVKbC13Wmtaa1pBVWhtWG5GMWxiY28yVXhsZU5HdlY0LTJsTmVBRjVwSlpNLWFqRldRT1lDNkdBOExjd0NmakVId0o1eG1tREtkSmRpN2JBYVZUUm9vUTU0QVhveGNudHg3SjdlRnFjOXBmRnhKNnY5bFg2dWlndnRWOTRIOU5HcEdKSy1ZSWRqenNROF81YTJjWVBQQjNVTUJvYnJObkxEclN2T1VTTHpOWmZGYnJjTEkyYmPSAcsCQVVfeXFMTi1xYnR5aVNMZjM0UXVOQ1A2WTR4NHBGZzNDRy0tRXlkWG44czgzSkd4RUpiR213Qk53YU5SZlpyaThPWGZHR1pNN1NzX1haRGF5RkZLSzZZVDZNckR1cXhDZTJ0bUg2b0VTTGVNY1N2V19uQU9pZzNLeXB3YjY4SVNkTmlMU3lWX1RxUXVSZFhwT2tuV3Y1dDNiV2o0UVdUM0lOQkFUb3hQNDBrblpaSUQzTnRHdE9xVWtNTUEyNlEzM2Q4NnpWUFdsbENZQ1FLV0FOWjZlb0FIWmczbjU3UjM5d19mZ0l6SHh1UW92SkRNQUkwby14R1JEOGphR3Q2UTRKQnZFUTNnVWZZU2hQanJIMmVZblNsMW1xVmlIQnlERWlEQ0ptWFRha1YxYXNGdm12Yy1kX0dJN3k5RGN2MWp5YU9oOVlvRkRJTQ?oc=5",
       "date": "Fri, 13 Nov 2026 06:23:00 GMT",
-      "source": "FMCG Channels",
+      "source": "FMCG Players",
       "industry": "FMCG",
       "pivot": "Product",
       "score": 42,
@@ -6018,7 +6443,7 @@
       "geo": "India",
       "player": "ITC",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6035,7 +6460,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6052,7 +6477,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6086,8 +6511,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T06:24:58.395549+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "5c483126b5160b9d",
@@ -6103,7 +6528,7 @@
       "geo": "India",
       "player": "Nestle India",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6120,7 +6545,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6137,7 +6562,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6171,7 +6596,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6205,7 +6630,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6290,7 +6715,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6307,7 +6732,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6324,7 +6749,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6341,7 +6766,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6358,7 +6783,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6426,7 +6851,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6443,7 +6868,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6460,7 +6885,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6477,7 +6902,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6494,7 +6919,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6511,7 +6936,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6528,7 +6953,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6545,7 +6970,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6562,7 +6987,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6579,7 +7004,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6596,7 +7021,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6613,7 +7038,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6630,7 +7055,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6681,25 +7106,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
-    },
-    {
-      "id": "7960d834fa8abf9a",
-      "title": "HDFC Mutual Fund Enters The SIF Space With H-SIF To Unlock New Investment Opportunities For India’s Evolving - Free Press Journal",
-      "summary": "HDFC Mutual Fund Enters The SIF Space With H-SIF To Unlock New Investment Opportunities For India’s Evolving Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUnM4ekFzWVFmRWJpU2huUG92NUY1ZHlRTUtJSkItcExVYWtMV3VJdGNNZmRhdkJVbG5ROEY1ekFiTnRlbFhsYVJERXhyLTNKd1dXNXloLWdwSWdMYzNXbGtkOHoxX2dJQzg3RzcxMkpDNjduVGJpVVN5M2lxc1pWdVFFVmNkYWE3bHhHTGxBQVhpMHRnREZnVmJJTjBYUlhYQzNzZUhMdi13UFJSbzJjclVUWW5JZ0hTdzRvLUJhQ2M2V0xxSlg5aWEwS3kwS2cyX3J3SXA4c3NUN2xvQmEyYjZnOUUtOE9aMTU3TDhRZ9IB9AFBVV95cUxPaXphMGRxR2pjZEVnb0dkRmItNW5DLWJOQ3NVNWRHcTluOFB1d19NQUgwak1LM2NWbjg3cmdoYlJyX2piZFV0YTN0RlJhZlRBcFlDZzdRNGswc1JkcHl1cE5xU3RUVTZLWXJvdFVXMzlIYVNqc3ZUd3hURVdKYXBONTdTOW92bFgzRHNWUjVFQjc2akQ1UktoQ25wajMtZGtLTnlYSzJDc2VpTkZobHlQWlhTNVFIT3owNTQxSjk2MVFrTUt1T2NpcDVqN1VJMFVKRExvaUNhd0NmOENvcnBNOTd4QXhQdU1xSUJMTGZCYlNnMG1x?oc=5",
-      "date": "Sat, 14 Nov 2026 17:56:42 GMT",
-      "source": "Consulting & Strategy",
-      "industry": "Consulting & Strategy",
-      "pivot": "Strategy",
-      "score": 42,
-      "reason": "Why ranked: investment · India",
-      "geo": "India",
-      "player": "",
-      "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "c58b152b2018867d",
@@ -6715,7 +7123,41 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "09f9ce8e3d7cea9f",
+      "title": "Supply shocks to weaken monetary policy effectiveness: CEA Nageswaran - Business Standard",
+      "summary": "Supply shocks to weaken monetary policy effectiveness: CEA Nageswaran Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbVA2YTB1Ry1YTjRzTVZiaTUwdzlXWUVWZUhYUHk5NWJ6M2lQUDZfR2xoNHIyTzk3NHdrWDVjcld2U19sX0V1QVBib2h0VjFGQnhkN1hrbUpIeEZqQXQ4TXNZT21zT0p2ZWg2OVhnWTAzdmJaeXFfOW5VX2tqejZibHY2QU0xTUdnZ3hpeFZmTWRWZDdZZFFTSTN3aUpTTkpVX0FqX3N4VTZQbzgyajVIdzRHTU1DZ0hvZ3FESjVZRExkVnVyOVc1T0llOHdmNkRp0gHWAUFVX3lxTE5VZ1NKemRuT0RoVDhZR1Awd1ZmRVJ0X3BVQkF3ZFJMNk9pbUVleGdWUkFRMnRld05IMkZfbDZKY1FZbHlrQ1ZhaEtKdjRwWjRYcW9wMEU5S2VIREFXLXNES1RRWElGU1ZPNTNTTFUxQ0tPV0lnTmpDWnFxR3FlLUktVHoyMWFHclNuM2l4dUN6WHp0T2J0R0hPTHpLcHIwTXV2NmVJWE9rbVF6RTBPM21BSGoyYXVIR1RFQnZ2dTRxTUVHUVIxRUg5T29jUFBKdmVJbVpjcmc?oc=5",
+      "date": "Fri, 13 Nov 2026 08:57:55 GMT",
+      "source": "India Macro",
+      "industry": "Current Affairs",
+      "pivot": "Policy",
+      "score": 42,
+      "reason": "Why ranked: monetary policy · policy",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "c0f198e21bd7cd0c",
+      "title": "Dabur's digital media share hits 43%, influencer investments surge over 3X as brand spends sharpen - Storyboard18",
+      "summary": "Dabur's digital media share hits 43%, influencer investments surge over 3X as brand spends sharpen Storyboard18",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQenBCR0pBbUNILTRXUzRKRWtJVmFKWTVwLThmUmdZVVRuczBSai1HN2plV0kyR2ljWUNoanZabTNRUmEtLVV5N0dDdGU4dXhqa2VkdUZYaFdqMF9MNm5vdlBVOW9hLVFCRFVlRUE5djRibXZnR2Z1aFVDS0dYZ1FfVHplU3hhcjFYSVFWeVRpMjZtZjJzSHBPMWtvd0w4VWZrbXlNa0ppZzRQUjB0Sk1rZW9LM2FSVmNicW5mb0hnUTbSAcYBQVVfeXFMT3RySlFsTkt5ZzZKdW5TcGVBR3JCM1FwdEtFWVhIOTBEYzdqcm81WlhmdDFaMmJNdFBDUDFrczdnR013OGpFSUJPVnE4bUxudnJaRGFHMHViWERZWlBBSVhFWEJSeWdQdUw2eEF5d3ptYldWNGlCR3M0WHF5S0R5eVU5N1pfS2MzUWlqYlVieEtzVE1pOFp6SmNRaFFXNE0tVThPbVZkbGJMUDFtb01wVE16SWNtWGRQZnhuTnVWZUQ4RVdRNjJR?oc=5",
+      "date": "Tue, 10 Nov 2026 11:23:16 GMT",
+      "source": "FMCG Economics",
+      "industry": "FMCG",
+      "pivot": "Commercial",
+      "score": 42,
+      "reason": "Why ranked: investment · Dabur",
+      "geo": "India",
+      "player": "Dabur",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -6732,7 +7174,7 @@
       "geo": "India",
       "player": "Tata Consumer",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6749,7 +7191,7 @@
       "geo": "India",
       "player": "ITC",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6783,7 +7225,7 @@
       "geo": "India",
       "player": "Godrej Consumer",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6800,8 +7242,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "67336edf05a9ce2b",
@@ -6817,8 +7259,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "c9a964ff07e9e4aa",
@@ -6834,7 +7276,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6851,7 +7293,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6868,7 +7310,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6902,7 +7344,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6919,7 +7361,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6936,7 +7378,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6953,7 +7395,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -6987,7 +7429,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7004,7 +7446,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7021,7 +7463,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7038,7 +7480,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7055,7 +7497,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7072,7 +7514,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7089,7 +7531,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7140,7 +7582,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7157,7 +7599,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7191,7 +7633,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7234,15 +7676,15 @@
       "summary": "Bata India doubles down on new product lines, sneakerisation to attract younger consumers Storyboard18",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZWNsSFZKWEJuZUN5bnR0YkdvTGxTVHdibFpHeE5peHdseUMyMVA2VGpDNlhzX3lkenZyelhSaDliX3JZWlVOd016dWdQTXd6TG9lZ3FoS1pVOGRDUXdVZXdYXzZDa3RUZW5DaEJ1UHNCajB0WFpuLVJCTXhsVXVJdzNWeE5pYU1UdHVpQWFobEFBWTJTNkZzakVJVS1uMUd5OS1wVzktQ0t4andrRUtVeC1VVm9kTkx3a1M1MFhtQzhId1BQWXIyUDBUT0U2b0NGSmhVMFQ0YXg1dmN50gHiAUFVX3lxTFA4bUZTQVdkUWJkNHF1NFotdjNpRHNJdVJUeWEyZ3JkUDNzdzZvVWJ1S2hadjNsT25LQWRzYmJ3V3pBbWhub1Q2aXNrVl9WN0NmenlweWhuRlZ5OXR4d0FpOGNmWFBRcjZWOEY1ZVZsNVFXVE9jaFplOElvdVQxemdsUk80T08zWXF4TDA4ZGo5YUdzb2czd1JNaWNFVnZYV1lkWjhsU2MwVXZMYnNNNHRLTzhMQTRqckE4a3RWSU1xbHdfc1ZENkNvd3JyMkpCVHpQbTRRU3I1QmJSaEFJTWFxcWc?oc=5",
       "date": "Wed, 11 Nov 2026 13:01:02 GMT",
-      "source": "Innovation & Product",
-      "industry": "Product",
+      "source": "Pricing & Brands",
+      "industry": "Commercial & Marketing",
       "pivot": "Product",
       "score": 40,
       "reason": "Why ranked: consumer · India",
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7294,6 +7736,23 @@
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
       "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "is_new": true
+    },
+    {
+      "id": "2ba0e91252af62f9",
+      "title": "Why M&A Activity Is Rising in India and What Is Driving Corporate Deals - Business Viewpoint Magazine",
+      "summary": "Why M&A Activity Is Rising in India and What Is Driving Corporate Deals Business Viewpoint Magazine",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwa2p0Nm1UNnp6Z3ktRk02ZGVGVHdjRkt2UjdDaHhaTS1nNDIwcUp1VG9TNjlYY2VXNDFDTHlnOFpqMzZRLXRYMHJzNzBNcHk0SEczcVlCNFZVdlpYcTdhSENmTzRvRkxXajdJ?oc=5",
+      "date": "Fri, 13 Nov 2026 10:43:28 GMT",
+      "source": "Consulting & Strategy",
+      "industry": "Consulting & Strategy",
+      "pivot": "Strategy",
+      "score": 40,
+      "reason": "Why ranked: m&a · India",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -7361,7 +7820,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7412,7 +7871,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7429,7 +7888,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7446,7 +7905,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7480,7 +7939,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7497,7 +7956,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7514,7 +7973,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7531,7 +7990,7 @@
       "geo": "India",
       "player": "Marico",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7582,7 +8041,7 @@
       "geo": "India",
       "player": "Marico",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7599,7 +8058,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7616,7 +8075,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7633,7 +8092,7 @@
       "geo": "India",
       "player": "Sun Pharma",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7650,7 +8109,7 @@
       "geo": "India",
       "player": "Bain",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7667,7 +8126,7 @@
       "geo": "India",
       "player": "McKinsey",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7684,7 +8143,7 @@
       "geo": "India",
       "player": "McKinsey",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7718,7 +8177,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7735,7 +8194,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7752,8 +8211,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T06:24:58.395549+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "67a3e6c59a754053",
@@ -7769,7 +8228,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7803,7 +8262,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7820,7 +8279,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7837,7 +8296,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7871,7 +8330,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -7973,7 +8432,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8007,8 +8466,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "5743fecc60b6dae1",
@@ -8024,8 +8483,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "a5d9550f31af66a4",
@@ -8041,7 +8500,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8058,8 +8517,8 @@
       "geo": "India",
       "player": "Britannia",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "f7fc83efa4e8b078",
@@ -8075,8 +8534,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "8c095537d604d35c",
@@ -8092,8 +8551,8 @@
       "geo": "India",
       "player": "Lupin",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "b8320d43b2e74f11",
@@ -8109,8 +8568,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "26617efdde93ac17",
@@ -8143,7 +8602,58 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "a9257064e007ca1f",
+      "title": "₹37,500 cr coal gasification push: CDEP-CWS study identifies priority chemicals to cut import - ET EnergyWorld",
+      "summary": "₹37,500 cr coal gasification push: CDEP-CWS study identifies priority chemicals to cut import ET EnergyWorld",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUi03aWRUdGY4WVQxd0lzWDBVazdERXJvc0ItOUU3UnpUMWNncEcxQmNYNjkxQUtwT0s2OXhVQjhtYzBVdDZ4NDZWaVZtQ2lOLVlqQXFoT29saHh0X1YyeTRIR0M2d3NOelF4RVpJbWY4SG5DcWY0ZXlybmlSSjBwekFhWllLMFd4cU5OWXRQTjNQVzN4Nm9vV2s4NXRtaTZ3cVFzbUlOSWxyQ2JVMk5YV2QyUFphVVU1cUw5M3psMWNCRzh0Z2piLU1tMWsxTHlQZlhZSVpTMHhvWWx3eTZxRlk4bEdYSjlUX2fSAe8BQVVfeXFMTUYtX2lhRzRETlZCal9xS3lmUmdMMWpWMXRhcTZiOHVMVXFjLUpDczZrSVU1ZEJ3NmZUSzhHajlwelpCLVg4eGNTZVZvYlVGaHZxSjFnam5Oa2dwV3hWajE4MVlCRk5GYUxscExQamxrM0hiTTZfaXJSZFltQ0xIZXV5V1djZE1GUUFFdzlJM1ZScVYzTlg4Qy0tN3ZQY29DSG5yRDBWUVdFdEpyaUlVTHNpYzR2eGRrZkFJLTdRcnVuckI4YTZfY0NqdHhtdmRXYnprYU1kM3hrd3pKZFNiN1NBbFY0WDhsa3BBWEpPYUk?oc=5",
+      "date": "Sat, 14 Nov 2026 07:29:11 GMT",
+      "source": "India Policy & Regulation",
+      "industry": "Current Affairs",
+      "pivot": "Trade & Exports",
+      "score": 39,
+      "reason": "Why ranked: import",
+      "geo": "Global",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "88f6c4c6abcc2bd0",
+      "title": "Investing in IT stocks through mutual funds? Should you continue your SIP amid AI disruption and earnings concerns? - Livemint",
+      "summary": "Investing in IT stocks through mutual funds? Should you continue your SIP amid AI disruption and earnings concerns?",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOR1FjdDYxMHBVbUhyX3V1OWMtVzZKN184ZVl4cWhENmNRdWNZNjJ6c2trdGhUbDhpVnA3S1FBdm9JRGJtNHZMX3BqODYxTGlLWE9famg0VWJDVmpYYmtBNFc4aVpQYnRpaGJkT0U4bThzVjlMRERjVlVMN0dyYV94YmFiR1NsSnYtTU1mZTVwdTVXaG5CN2R4QXAtYjFGa0d0VWViNWJiOW5XcEdiMDZLaFBOd2NKa3JjWEVwc2NhcVRlZDA2TW1hOTRpNy14MFpjcjhDaDZaN0t4RzdFZW9YVWhxVmN3cHRtS3M2MHNYMFZ1Ymh5RzRlREJCcllOXzRXTVBFVGpoLXhpSldRRkHSAZMCQVVfeXFMUFljZkJLbnRqWTJ0V21iNXVJVnpKcmRvSmZFeklrRzdPR2hHVXAydWNnbGtXSGtFVThoMktDTk5iUy1CdWZ1WW80eU1PY1NxVGxZMjRadG1RV3B6ZGI4SXoxX2dsSlJuc3BwR0xjOFZvUkp2UnJ0Z1ZBeEVMZGVteXhDS2FYa3A0WWh1LU5ReVBLSUg5eXp2YnBPY0tKNGZKTXBEWTE4UVZtNDM2MXQzaHplQ2dyMlFNQkkwQlRKUTdhRVlnLU9ac3VKT0loVVhvX3FmWlZQRmREcFVaaUx6S004NHFYM2htbVlwR09YdHRTTXlNWTkzdE5jSHpmcFVsYmxJWVlVbEctMUFUZFFWMnZlVU0?oc=5",
+      "date": "Sat, 14 Nov 2026 15:42:13 GMT",
+      "source": "India Corporate Signals",
+      "industry": "Current Affairs",
+      "pivot": "Companies",
+      "score": 39,
+      "reason": "Why ranked: earnings",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "75a4da9855aee5d6",
+      "title": "Houthis Take Coastal Positions Near Bab al-Mandab, Raising Risk to Europe-Asia Trade - CEO Magazyn",
+      "summary": "Houthis Take Coastal Positions Near Bab al-Mandab, Raising Risk to Europe-Asia Trade CEO Magazyn",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JaFh4dWFZNVpYODVNRWFJdjdEalpiR2tkUzJvUkdjanVYVG1SSjRMWVB0RG9iYTcyeE1KdzlXNmdiZEV6ZTV0SUtDWkozZWZWVjVUTEJUWG9SM3VnSzN5ZUI4ZmhTSmc2aC1leWJhMXdUQTlrYmd3?oc=5",
+      "date": "Sun, 15 Nov 2026 11:43:04 GMT",
+      "source": "Geopolitics & Business",
+      "industry": "Global Trade",
+      "pivot": "Trade & Exports",
+      "score": 39,
+      "reason": "Why ranked: trade",
+      "geo": "Global",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -8160,7 +8670,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8177,7 +8687,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8194,7 +8704,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8262,7 +8772,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8279,7 +8789,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8296,7 +8806,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8313,8 +8823,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T06:24:58.395549+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "b6560ba22afe0108",
@@ -8347,7 +8857,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8381,7 +8891,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8415,7 +8925,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8432,7 +8942,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8449,7 +8959,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8466,7 +8976,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8483,7 +8993,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8500,7 +9010,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8534,7 +9044,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8551,7 +9061,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8568,7 +9078,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8577,7 +9087,7 @@
       "summary": "Reliance Consumer adds 9 biscuit variants, 28 new SKUs under Independence brand in Tamil Nadu Fortune India",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjdxNXplRzh0bmljcnVFZmlCN0lXU0lNbU0wRTJpSExfSHIxMnVfSGdxOFlUT0VCUmVLSVBIaUMyQlRXMlNGeUQycFdMVlpGaEo4YTA2Szg0bExtbkFfWkpVNy1CLVFDNENvNUtXd1VrX09FaUozRlU0WU1MYzZBb0hhenF4Y09BQU1QVXFPYkd1WlBRSnFCdGZMU2h5cTVBTkx3bDVLbFZvUjU3YTRNSENDVWxCT1BuZlhFc2kwNEZiZEJ2MHNSRlRIRG5TRnZwTy1obm8wY3dxQdIB5wFBVV95cUxOWEI2VVFRN0Fpelg4cDRQaWxEdk52cDU3RHhjN0lFRGVUV1J4ZGNuZWhjUk1MNElyZzc0dHJSSE5iSzZrdk1kNGZPVmV5MGxPOFREcXRMaVl0S1FoZUYwSXYxMExLUjJlai1jQTl6SnZZMmJvNjNPd0ttZFpRQWJYQ3h6c1hmZUt3RlNHWkR2SVpVMzVoaklJTnVfZ1ctc21ldi1iV3huSE1JU3FBMVhjMEhKSVJsUjZ4b3pPanU2NlZQR0dhcnl5dzRqSDhBTUtEZ0NYcVBDSHlmVnNNVnZBN3BnM2J1ams?oc=5",
       "date": "Mon, 02 Nov 2026 08:00:00 GMT",
-      "source": "Innovation & Product",
+      "source": "Product Strategy",
       "industry": "Product",
       "pivot": "Commercial",
       "score": 37,
@@ -8585,7 +9095,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8602,7 +9112,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8636,7 +9146,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8653,7 +9163,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8670,7 +9180,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8687,7 +9197,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8704,7 +9214,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8738,7 +9248,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8755,7 +9265,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8772,7 +9282,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8789,7 +9299,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8823,8 +9333,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "85db4aa9c16ed75e",
@@ -8874,8 +9384,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "3d621899d1f87315",
@@ -8895,6 +9405,57 @@
       "is_new": true
     },
     {
+      "id": "dfb4d6b48a99a263",
+      "title": "Coffee Prices Undercut by Rising Brazil Coffee Exports - TradingView",
+      "summary": "Coffee Prices Undercut by Rising Brazil Coffee Exports TradingView",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOW05NlBBVXFOX2pHVUpfMUdleXFhQkd5Q1JSWEl2RUtSa2xVU0d1NTdZMWkycHRQWHFtTGdwTDhQXzBmcGNaM181enJXV2twVEMzRDd4X3ZXajR2X3hTdHdXZlJoTXEzS29rV3lQM1NXS0FjclZLTGJmcWR3LXRIUDMxbzlRakZrRmVldXZYZC1XbkdSWG9jUm9CZUJqRmtjUUF1ZEdlMzRfN2FoWmphcGNR?oc=5",
+      "date": "Mon, 09 Nov 2026 19:20:32 GMT",
+      "source": "Agri Trade & Commodities",
+      "industry": "Agriculture & Allied",
+      "pivot": "Trade & Exports",
+      "score": 37,
+      "reason": "Why ranked: rice · export",
+      "geo": "Global",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "eed5dc3fd82838f8",
+      "title": "From semiconductors to consumer goods, here’s how businesses are shaping and future-proofing global supply chains from Singapore - Singapore Economic Development Board (EDB)",
+      "summary": "From semiconductors to consumer goods, here’s how businesses are shaping and future-proofing global supply chains from Singapore Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOR1JteDVRSHBLU3ZpTV91dTBYS0IzZGpCOC1WbVYzaUZoWWRVQzh1Q1BFS0x4bnpxUkFleTcxZXc4cXktTndHZzRlMm5CY1lWRmpJWi1GT2s1M2ptLUpyekZwZzI5bWlEY3V6NExQQ1ZGX0pfeTlvSlRoNEdmSS0ydG1pdFBsLU5oSDJtVE5NUUE5VlZJOGpHeUlwbjViajJBN09KblFLbEhUX19nLXJJalotUkZqbDVlb2J0T2Nqb3YxeTdwOEJIOUxHMDhMOG9VdWprRGpheFhQN3FYSWcwdjBwRjZBckZwU0lMaDN3UlZOeFUxS0VMZVJWamRjNnM?oc=5",
+      "date": "Wed, 11 Nov 2026 08:00:00 GMT",
+      "source": "Operations India",
+      "industry": "FMCG",
+      "pivot": "Operations",
+      "score": 37,
+      "reason": "Why ranked: consumer goods · consumer",
+      "geo": "Global",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "f880149c1b15d8ef",
+      "title": "Three years of geopolitical shocks reshape container shipping outlook - safety4sea",
+      "summary": "Three years of geopolitical shocks reshape container shipping outlook safety4sea",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemZSNnhnLW0ybDFrdXVrcGN3OUV5RzBHT3F5VVY1TkZ3WXJRQmtRZVB2TDFjbXY4VERRU1E5VUxPZjQxU0RIc3VfdEhONHJNVDFtWjh6WUF6X1diQ2dTRjJZQnlSeDJ5S2VmamV0b0FLVzQ4M0Z4OC16dXU4WGl4Mm93RUo5VkVNTjRIMDNNMmZHblZDUjhHRA?oc=5",
+      "date": "Tue, 10 Nov 2026 17:39:57 GMT",
+      "source": "Global Supply Chain",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Trade & Exports",
+      "score": 37,
+      "reason": "Why ranked: shipping",
+      "geo": "Global",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
       "id": "9a7502d57b7ea977",
       "title": "Sugar prices surge: Goldman Sachs sees biggest impact on Britannia among consumer stocks - CNBC TV18",
       "summary": "Sugar prices surge: Goldman Sachs sees biggest impact on Britannia among consumer stocks CNBC TV18",
@@ -8908,7 +9469,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8925,7 +9486,7 @@
       "geo": "India",
       "player": "ITC",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8942,7 +9503,7 @@
       "geo": "India",
       "player": "Varun Beverages",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8959,7 +9520,7 @@
       "geo": "India",
       "player": "ITC",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -8976,7 +9537,24 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "9ed11f1595bd1205",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS - CME Group",
+      "summary": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS CME Group",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vTVo0MlZvdFhKSmpLQlVucjB1aGlDMFF1LWlNVFJUOHdPejBYM1pLd012ZFBtbVhpU0tfT1c2TWc0cUxqek5Ld0ZKQlc1cWJwbzZfa1doaDVqNUI3ejBINEVCaTdXX1hFQ1Njanpadw?oc=5",
+      "date": "Sat, 14 Nov 2026 04:59:28 GMT",
+      "source": "Global Agriculture",
+      "industry": "Agriculture & Allied",
+      "pivot": "Product",
+      "score": 36,
+      "reason": "Why ranked: seed · oilseed",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -9061,7 +9639,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9078,7 +9656,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9129,7 +9707,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9180,7 +9758,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9197,7 +9775,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9214,7 +9792,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9265,7 +9843,7 @@
       "geo": "India",
       "player": "Dr Reddy's",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9282,7 +9860,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9316,7 +9894,7 @@
       "geo": "Global",
       "player": "McKinsey",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9333,7 +9911,7 @@
       "geo": "India",
       "player": "Accenture",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9350,7 +9928,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9384,7 +9962,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9452,7 +10030,7 @@
       "geo": "India",
       "player": "Tata Group",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9469,7 +10047,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9503,7 +10081,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9571,7 +10149,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9605,7 +10183,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9622,7 +10200,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9639,7 +10217,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9647,7 +10225,7 @@
       "title": "Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal - EnergyNow.com",
       "summary": "Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2EzT2V0SWZFdVQ5QlZsMWtnNjhxMjF5RTFJNmNmZkZ5d2VFcFBjX21mQ1lDRG5XYk5XUHVTZWo1RlhYcThmOWZjU2k4WXZNVXBNTFoxeGdWRVQ2YndtS2tqdHNJcGlzdjIwMjctdG0tMGFBQkpVQkxXQ3pJUWVOV29qaUdMLXNGZGctOU0zNDB6bkliTGI3dHNoUGJwaEFvRGxV?oc=5",
-      "date": "Fri, 13 Nov 2026 22:36:34 GMT",
+      "date": "Sat, 14 Nov 2026 13:52:04 GMT",
       "source": "Commodities & Energy",
       "industry": "Agriculture & Allied",
       "pivot": "Strategy",
@@ -9656,7 +10234,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9707,7 +10285,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9724,7 +10302,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9758,7 +10336,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9809,7 +10387,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9826,7 +10404,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9877,7 +10455,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9894,7 +10472,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9911,8 +10489,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "062ef2261bbc17d2",
@@ -9928,8 +10506,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "905dfd32a30a7a72",
@@ -9945,8 +10523,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "621efdcff7b1b4d0",
@@ -9966,6 +10544,74 @@
       "is_new": true
     },
     {
+      "id": "b21944b2101e9019",
+      "title": "The Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026 - pib.gov.in",
+      "summary": "The Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026 pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FZTBOb2xsNFIxaDFIei1YaU1ERnZwbW5pa3BDcDJhVnZmaEF3clJKVGFMcFJLYTJMeWtIb2RPclZNZXdLMGt0ajJPNTh5NS1wTS13bG12VU9rOUE3UmZhVG9oN0dPbHZ5ZHFJSVk0MVROeFVuUGtn?oc=5",
+      "date": "Sun, 15 Nov 2026 19:33:12 GMT",
+      "source": "India Policy & Regulation",
+      "industry": "Biotech & Life Sciences",
+      "pivot": "Strategy",
+      "score": 34,
+      "reason": "Why ranked: cro",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "7e99a25851ad68a7",
+      "title": "El Niño Drought Nears ₱10 Billion in Philippine Farm Losses - Global Agriculture",
+      "summary": "El Niño Drought Nears ₱10 Billion in Philippine Farm Losses Global Agriculture",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUzkxNWc3Mmd2RndxZUtPUC00OVNqUzZJbHIzUG11YXZ3eUVQWjFvNm5aX0VxOVlud3NtYXVDbDJJLTNyOWxsN0haQ1BQaVp5ZS1SNlZFMDBqNXBxcGtmX0JxOGMtdlNyYmp2RVFydmFDQjZHTWNyMm5TWWU4OTlJYVNFVTRUMkk5S0ZBRGFvNUl0QkpVZkZlNzZFUl9tZ2VsNmtrR0h2SDZWN3o5Tzc0RENJRjVSSHlfQjNsR2VRMEI?oc=5",
+      "date": "Sat, 14 Nov 2026 10:13:36 GMT",
+      "source": "Agri Inputs & Technology",
+      "industry": "Agriculture & Allied",
+      "pivot": "Strategy",
+      "score": 34,
+      "reason": "Why ranked: agriculture",
+      "geo": "Global",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "baec448de745a875",
+      "title": "Skoda Auto expands footprint in Vietnam with new assembly plant - ET Manufacturing",
+      "summary": "Skoda Auto expands footprint in Vietnam with new assembly plant ET Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUk1MTTcya254MEl0UEpvblBUQm5paTQyNWFISkFHcG5qbFlrYV9pSk5DLTdocWlrN0h3Yk9hZjFpbWhxTkVOMzNQQmZvek9JNTdHbFBoNEdORlQ4TmpYM01MQ0RSeWhWOEZmbThFMEhBN0VDSWdMbVIyQ3oweFVnWWJhSDk0dzZUWUI2ZHhJMEg2bjhpWURSVU9RYXBYTS1hbmx0Q1ZKMExBR0hHYlYxVXBoN1RETE94bzRnQ3Y3ckgzaTRUOHhSWXBvUVQ3RGtWT2FjRjBLQW0tNElVZ21WcdIB2wFBVV95cUxQaTZrdk93YjlqSWFVZUpVUlVONGhpYWZzNUhqeVBGR3N1Y21EN2c4OFRxMkxSNUhiV1Z4QjNIbnFMb1FrT0ttam43XzcxVWhVeHFVUHd3OW9yY2ZpcTB2SzZNLVBZRHozREYwbXZSbkpFcmxSUENaM0FTOVpPQkQzaEpDVUNaSTdyak9KT0VrOXBXaTZiOEtXVkhGcjRPcTBBZEVNNWtrUnZsa245cGJzSzctd2p0X3NtMU52TkJYT3FoQ3BmWHdELVk4N0ZEUjJaTHc2UWJFeU1BcEU?oc=5",
+      "date": "Sun, 15 Nov 2026 06:51:33 GMT",
+      "source": "Manufacturing Signals",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Operations",
+      "score": 34,
+      "reason": "Why ranked: manufacturing",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "d57922cb61d5fa88",
+      "title": "Gas prices unlikely to fall below $4 a gallon before midterms, some experts say - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Gas prices unlikely to fall below $4 a gallon before midterms, some experts say ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3Z1R3J5SWEtcnJqMGdDUDRNa1pFMG5rajNmMmo1a2hYNEtSWGc3ejlzc2FWaF9JYlI1ZC1QMURXY3g5aUxyd1VhdVJSZ2RiTzQ4aFFQekthN1pZTDdjdWE5MGtzNENpa3pNWUFvTDN0ZmxnemVsTTlyZUljeW1UZk9fZjZyRVlvdHpjRnZuaTlMWC1RbC1fRXJxa9IBoAFBVV95cUxPRjBNS2w5blRaN0NMdTJTLUF4WVQtdmZRanl5cHFIcXpiS3lsUnprWUpHZFhVSDh4QWoxclhIcW92NjJCSjYyZ016R2JJMEo0NzQ1NElGSThZSmplWXZGR1lLYnlGUkhTb2hmUGh4cFM4ME5XLWpQTHdVOVZRb29Ha0xGWXRtaTd2dEdVaFN4bzd3ZnQ0ZE1VRXJGakdvaU94?oc=5",
+      "date": "Sun, 15 Nov 2026 09:39:10 GMT",
+      "source": "Commodities & Energy",
+      "industry": "Agriculture & Allied",
+      "pivot": "Strategy",
+      "score": 34,
+      "reason": "Why ranked: rice",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
       "id": "669c50849fbc5cdb",
       "title": "Asia needs $1tn investment annually for next 15 years to boost energy security, says McKinsey | Gulf Times - Gulf Times",
       "summary": "Asia needs $1tn investment annually for next 15 years to boost energy security, says McKinsey | Gulf Times Gulf Times",
@@ -9979,7 +10625,7 @@
       "geo": "India",
       "player": "McKinsey",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -9996,7 +10642,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10013,7 +10659,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10047,7 +10693,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10064,7 +10710,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10081,7 +10727,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10098,7 +10744,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10115,7 +10761,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10149,7 +10795,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10166,7 +10812,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10183,7 +10829,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10200,7 +10846,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10217,7 +10863,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10251,7 +10897,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10268,7 +10914,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10285,7 +10931,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10302,7 +10948,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10319,7 +10965,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10336,7 +10982,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10370,7 +11016,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10387,7 +11033,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10404,7 +11050,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10421,7 +11067,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10438,7 +11084,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10472,7 +11118,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10489,7 +11135,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10506,7 +11152,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10523,7 +11169,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10540,7 +11186,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10557,7 +11203,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10574,7 +11220,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10591,8 +11237,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "5ad2aab1407fcd78",
@@ -10608,8 +11254,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "93f4b224b582ef4f",
@@ -10625,8 +11271,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "c06f1c33c9790154",
@@ -10659,8 +11305,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "c6fa6517a921efbb",
@@ -10676,8 +11322,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "62b45be2a0bff973",
@@ -10693,8 +11339,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "a9d1e9049b7e28a1",
@@ -10710,7 +11356,92 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "5313b5c2bdf0ad26",
+      "title": "LG Innotek doubles camera module production in Vietnam - ET Manufacturing",
+      "summary": "LG Innotek doubles camera module production in Vietnam ET Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOXEtM3N4ZXhOTmJtRFNxeGlzeXBzOFBPMDByb2hsUW83LU1qV0M2VnZBZ1A0ZU9tTF9kNTZSWEVIMzJfbl8tQ1k5S0FVV2FINGhqdGc2Nzc0Y0REWWVrMEtNNXMyMXl6Nms0QVVrYjJlbDg2Uy0xQld1REo0V2tsaVRYejJkTm52VW5Wb1hoYXcyM1V6b0E2ZjRBRTVyVFp3d3FCLS16d0UxS3cxUldIelBWbEhzVEl4dGpqb21kSmtUSVRJeUdQSTJxa012c0NidXFEbVlENEQ2M0dvRzQ5ak85ajE0eTJB0gHjAUFVX3lxTE1FbUJxTGZmVlhFRGxiTkJ6MEI5dWw2MVNmVEg5X3BfdEI0RXFtSmlxQVBwYVNsOGM1WjhhVXd1RGcyLVB6Q2RETUdzcVlFZnZjQ0xIempnMk1zOElqc09fdVg1aERaZGNBNmNMT0YxanFyaGlvSGc5ODE4QzV6VjM3MG5OLUo4d29aZS1lY2ZJMG1vVENQQkhXc1ZScGFRNENtZFMxblVFWkhXUXpsLW1wdnBWd3RBWDFXbEtpdEswdFp2SFB0dTBWY3ZTS09XWHQ1MURzWHdULUNPQzA3OXNLQi13?oc=5",
+      "date": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "source": "Manufacturing Signals",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Operations",
+      "score": 32,
+      "reason": "Why ranked: manufacturing",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "f9325ba1e0ed6ba6",
+      "title": "Nissan to shut historic Oppama plant in 2028 as industry shifts reshape Japan’s auto sector - ET Manufacturing",
+      "summary": "Nissan to shut historic Oppama plant in 2028 as industry shifts reshape Japan’s auto sector ET Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVjdxejYxbTQwdUNyeXlrY3dyM3JzZlBtNU00STZDcmRoM3QzYkU1MnVOSUdoVlFCZy1jZk5tU2dzUXJKUV9vQThVMG8weWVWTHlGNmYwdU1YTWd1cEFGMk9hUjFMemllUE9UcnhSS3pHUnVNUzh4YW1vMll0dG80OHhoVmNyWnpfbW9leTNCTVpTXzJyNWpKZm9sVzRNVFVWNjVIMXhGWUVhdUxJTXBBOW02WHFidE9yYUNVRHpCYmFUZUs4Y0Rkbld1MDRaVExaM1o1Ui11cW1UdXI2LU5HRTNWU0NIeEx6Zzl5aW9lMHMzbnRfZF9wTU5hOUl1d2FCc09RatIB_wFBVV95cUxPYlE3WURoaE5hWmhEVk5OemJXSnhyZmVsdlNsSkg0NVRybEx6emYxSmlpYTNRX3UyMW53WmxOWWxmZEZja0FCdXhad2x3dTA5SVNtVnVQYy1UZmpNZmpteXJYbW1WVWNKVTNuYW5ibkloRmM1aU83M3g2OXp5NXVSdWJndDVENnpQYzd1WkRyaVhEbmZUeE0tREhTb3hEbXJzTjh6VjgzVk9uOWNjdVI0TU9CT1ViSHNPSE5od3U0SjgtUUtaQXllMUF0Uzh2R18wNWZSRDdzQmRVbEFURkpheXVRbDZjM2lIMVdiQTNCWUFSWm10WEZwN0ZQaWFYclk?oc=5",
+      "date": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "source": "Manufacturing Signals",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Operations",
+      "score": 32,
+      "reason": "Why ranked: manufacturing",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "70bfc5b62dedabec",
+      "title": "Zelio E-Mobility expands annual capacity by 72,000 units with new Hisar plant - ET Manufacturing",
+      "summary": "Zelio E-Mobility expands annual capacity by 72,000 units with new Hisar plant ET Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWS16bmFYaFY5OHJrZkdzemx0X2s3NGgwYXFTUGJnTlREM2lOYUFGNEROUWtkcHVwUlFhR0F5bVFmbFJzTVdTOHBBZ2VRUGdweC1STzFCemJHbl9SSkR1dDNLcFdqNFk3SDBicWNTTGhqWDhEbkFWVEJGZDVtazltdjBWdkZibFhjYTlsVVpkTmFYTENMQ0hXZzNERHNLZlpUVWcwVHFhZjIyLWFDZlV0SEh1UW9RUWc5eHZjVGx2RnVnS0NNUjJDLVlkcENWLTFtaG9JZEFGclRSOTZfNDhIbzNmcXI4X3dt0gHsAUFVX3lxTE1lTWhtemREQW5MVUJhVEFqQUZNTV84NzhDZkJscXFHdnN4Zk8xZW5DVDEwa2NkZy1IUWRHdVA2UjV4MjZBWVhqdV9mQWVqb2pNcnZqcmV2OWswand5WDNjQldrSEN5bTJPU3VMTlU1RWVjRXFScmd5dkpwQXNUeU9LSWhBd0J5WXVjaWwwYTZab0R6a1drZ3lFRGxlTmxWUTFUalF1Ql9MMW1GNU5DekY4T2xsRUhpVmVmT0xKYVNKSndhYkFWOXpoT1JCV25WZjB6VHRkN1FCa1dQZEV4ZUFsRldscFJhNzRCUHNt?oc=5",
+      "date": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "source": "Manufacturing Signals",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Operations",
+      "score": 32,
+      "reason": "Why ranked: manufacturing",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "7883177b8a5e1c1e",
+      "title": "Matrix Gas to set up 500cr electrolyser plant in Sanand - ET Manufacturing",
+      "summary": "Matrix Gas to set up 500cr electrolyser plant in Sanand ET Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmFvYW9lR1VLUVpLOEhMREplMXlmcWpvVmpMODdSdjNmcDlRanM5MlRHVkR0UENFcmQ4ODMyQjYzMmJGdExYMlRrQUp5Z3BMaktfOXpweGg1OVpIbDlSN2s1Y2VGS2ZKVlN4bFNjbjdDek5JNGRQWEJQaEhjWm56T2JJVlV1QU56N0YzdE1HZ3UwMnVocUpQNW9KdkZKY3gzcVYxeloxZlozVkVTdHNaTy15NHNZZEJMUHpmczZKaVJDZkVmWTVj0gHLAUFVX3lxTE9pbHgtT0xScE5Rb1R0SFFGY3hBdjlvbFVieFlIaXE0OHg1YVc0bFZPR092eHdmQS1aSGpDeV9hdllpbGY5dEZ3S0F3R256Yk1wSkN2TXZoR0pFam9aQjk5ekdRMEdhbnlzb1ZuR2pNSVhKQmVUMWhka0htaEtKaU9aMlEyVy1OT1BSQ1VlS0JheHhLZzFhMXRmNjAtblNiZzlHblBVZXFDOWJ6QjdoWmk0Z3BNVlJvVk9sMXN5UnpDQ0E2RVlnY2tzVFVj?oc=5",
+      "date": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "source": "Manufacturing Signals",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Operations",
+      "score": 32,
+      "reason": "Why ranked: manufacturing",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "f059a049619c2c88",
+      "title": "From ocean liner to artificial reef: A warning for container shipping - Splash247",
+      "summary": "From ocean liner to artificial reef: A warning for container shipping Splash247",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX28xenZfOVg1a19XbzZiQ1ZsejdJNUhKcXZKZDRsTEZwQ0xlTHBuSUZjZ05wZmRsRXZxRkZOMVlQenFrdDAyTHRyQUROTTFhVTBMUWN3WXNtT2kyei1EYjlVV3NyOWtiRzUwS2l2QjlHTmNzOXVfLUtyN3BKQ1d3bXF2bkhENmlSLWlseC0zRXRzMmF3RXc?oc=5",
+      "date": "Fri, 13 Nov 2026 10:12:21 GMT",
+      "source": "Global Supply Chain",
+      "industry": "Operations & Supply Chain",
+      "pivot": "Trade & Exports",
+      "score": 32,
+      "reason": "Why ranked: shipping",
+      "geo": "Global",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -10727,7 +11458,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10744,7 +11475,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10761,7 +11492,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10778,7 +11509,7 @@
       "geo": "India",
       "player": "Hindustan Unilever",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10795,7 +11526,7 @@
       "geo": "India",
       "player": "EY",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10829,7 +11560,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10880,7 +11611,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10914,7 +11645,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10931,7 +11662,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10948,7 +11679,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10965,7 +11696,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -10982,7 +11713,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11016,8 +11747,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "b2c1370caaad4fa7",
@@ -11033,7 +11764,75 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "fe1b0be2447fdf2c",
+      "title": "‘Consumer brands connect agri production with changing demand’: Mark Kahn, Managing Partner at Omnivore - The Financial Express",
+      "summary": "‘Consumer brands connect agri production with changing demand’: Mark Kahn, Managing Partner at Omnivore The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMWtKNVoxM2VHX1gxQXNGRDVwaG16YXBHR3VvRVpFdWN6OE5TVktJTGllR09fSDlxM01WVUNPVktwVDRZdkw2WWUtMlQ4cDFnZ185bE5nMDA5RDFYX3ltYTV1MlVsYlRpaWNUQkJxTWhfNkx4LVg1N1hwZ2ZpaEpmZDBNbm41ZkdxZkdncGl6SnNuTXRreTJKM1dINEVCMXMydXZmcEFxWDNQTWR6Ym12d1VmS1VkbV9YYVM4Z1JEMzJJay13UkNMZk54bHI4NkE3VW56WmQzZjBva2xiYXFSNnRJQVZKVkoyUnFz0gHyAUFVX3lxTE1Lc2VtZUhDVVVNSWgwaXBfT2pPSDRwblNsY3d3d0p0UmpmcjBSclByeVRMZWRLSVlGQndITHp2S0hjNl9aU2ZQcDAxOEdvNUlHN0JaSnlTd3M0clE5c1hHV3R5eXdZZ29jWWNxYk9JeWRQeEphcHZBQUxiMXVaNFZzMEY4OU1PbHRLbmw2TnBwWmh6Zkt4QzhBX1NnZlZQbzZjRl9jb292bmNzRUtZS1RBa0x6dmtkandnYUhPanI0eWZhLUNiWGhGWGZxZXV5enB6ZEp4ZXFEcEpRUjJNZ0dsX1RKRXFEUlcxbW1tVk9mUHBB?oc=5",
+      "date": "Sun, 15 Nov 2026 16:12:20 GMT",
+      "source": "Food Dairy Allied",
+      "industry": "Agriculture & Allied",
+      "pivot": "Commercial",
+      "score": 31,
+      "reason": "Why ranked: consumer",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "f006cb5c3412b220",
+      "title": "Thomas Cook Demerger: Resorts Business Set for 2027 - Urban Acres",
+      "summary": "Thomas Cook Demerger: Resorts Business Set for 2027 Urban Acres",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXJxR0I1b2Q4THRpb1NkcXhBTzFDdV83b1lVR0xyQVlaS0RKbDNGd3luTEtBMVNZRGZKQ2QzRnk5dkJFMU9MMjNJM3J6Qk5xVDZnR0dPSmloMVg4ei1pZmU4c1AwWXBSc25IcEg3NlFTcXdaU3h0dnJtV2tpMzFBTlBOSVZlM2FNOTFpa1ppdFk?oc=5",
+      "date": "Sun, 15 Nov 2026 06:44:58 GMT",
+      "source": "Consulting & Strategy",
+      "industry": "Consulting & Strategy",
+      "pivot": "Strategy",
+      "score": 31,
+      "reason": "Why ranked: merger",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "b90077e6c850b52e",
+      "title": "Consumer spending on ITC's Savlon, Nimyle to double in medium term - Business Standard",
+      "summary": "Consumer spending on ITC's Savlon, Nimyle to double in medium term Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUNJVjJxd2pqSHhsRDdYZ0RoWEVydWdLQUJZcnNTQ2lpZUxFaHVLZTEtXzRucTd2RllWWjJ1SWxFd2VkVTdQRVpYU1VJeGZPZmlUTWNTY2V1NmtrMmZCajlRWXd6UHJSUUlrOElMRGgyX0NRU1JKQlNxRkU5Q3VZUkdGZjluVGF2WDN0YlUxY3NyQmU0RXhOQm82LUxBekhMSUZyS3FuRm4yOWhpV3IwdG02aGc3T0dacTc5TGpIQjVKaUgxeUpoNUxSRngtZ9IB0wFBVV95cUxQSFktOXBmWEZmelUxUkVBejB1d2llTGZTSHhTTzVtZVRZZ1J6cEhIRjR0Q2Uxd2JJX2dRZ1J2SjBFUnJpczFORkdvWmhpaTE3Q2UyVDludkR4UXF0TEJPLTFoNWJnQ3lQa2tycDVNWWZZWTVSV1BlSWgtNmVSOWVfZklHMmF2U1JBVkYzUmJjOHBJeV9UUEVWVjl0cUhfalZWRTZ3bm1GSnprODVqV0lSVWJtaHo5N3hMTzVBTmJ5WUNNZEV4QlJjX0t1VDJSNEdBTVdn?oc=5",
+      "date": "Sun, 15 Nov 2026 08:49:40 GMT",
+      "source": "Innovation & Product",
+      "industry": "Product",
+      "pivot": "Commercial",
+      "score": 31,
+      "reason": "Why ranked: consumer",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": true
+    },
+    {
+      "id": "91db27e52c5663e1",
+      "title": "Reaping what they sow: The “grain war” between Russia and Ukraine is once again threatening global food security - https://theins.press/en",
+      "summary": "Reaping what they sow: The “grain war” between Russia and Ukraine is once again threatening global food security https://theins.press/en",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wSVhLQXVfeTk1UWFFN2VDNGNabG1Bd1hOT3U2SVFzUUJUTmF0OXU1YTNubDUyN0tQRXBBQmZud21WT1ZKWG9NZk1pSmxLM1p5?oc=5",
+      "date": "Sun, 15 Nov 2026 11:29:11 GMT",
+      "source": "Global Agriculture",
+      "industry": "Biotech & Life Sciences",
+      "pivot": "Strategy",
+      "score": 31,
+      "reason": "Why ranked: api",
+      "geo": "Global",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -11050,7 +11849,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11067,7 +11866,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11118,7 +11917,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11135,7 +11934,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11152,7 +11951,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11186,7 +11985,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11203,7 +12002,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11220,7 +12019,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11237,7 +12036,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11288,7 +12087,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11322,7 +12121,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11356,7 +12155,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11373,7 +12172,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11390,8 +12189,8 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "f8493672df32539e",
@@ -11424,8 +12223,8 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
-      "is_new": true
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
     },
     {
       "id": "5adb43b4d54a358a",
@@ -11441,7 +12240,24 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T15:38:37.678041+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
+      "is_new": false
+    },
+    {
+      "id": "e6bd0dda484a46cc",
+      "title": "Best Retail Planning Software for E-commerce Brands in 2026 - ClickPost",
+      "summary": "Best Retail Planning Software for E-commerce Brands in 2026 ClickPost",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnQk5USTg5dFhwd0N0aWRuX2xQcG9SU1VCV0xEcTVqQlBpUDM4NjUxUF84NnhFOWgweGpzcHplYWtIeEpvM1IyUkVTdEdocGtkbjVrSnFPYWk2Wk50UmYyY2VrTW0?oc=5",
+      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "source": "Operations India",
+      "industry": "FMCG",
+      "pivot": "Commercial",
+      "score": 29,
+      "reason": "Why ranked: retail",
+      "geo": "India",
+      "player": "",
+      "first_seen": "2026-11-15T21:01:22.583677+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": true
     },
     {
@@ -11458,7 +12274,7 @@
       "geo": "Global",
       "player": "McKinsey",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11475,7 +12291,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11492,7 +12308,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11509,7 +12325,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11526,7 +12342,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11543,7 +12359,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11560,7 +12376,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11577,7 +12393,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11594,7 +12410,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11611,7 +12427,7 @@
       "geo": "India",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11628,7 +12444,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     },
     {
@@ -11645,7 +12461,7 @@
       "geo": "Global",
       "player": "",
       "first_seen": "2026-11-15T06:24:58.395549+00:00",
-      "last_seen": "2026-11-15T15:38:37.678041+00:00",
+      "last_seen": "2026-11-15T21:01:22.583677+00:00",
       "is_new": false
     }
   ]
